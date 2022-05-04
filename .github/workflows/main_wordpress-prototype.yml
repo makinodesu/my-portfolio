@@ -16,6 +16,9 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
+    - name: Debug
+      run: echo mcr.microsoft.com/${{ secrets.AzureAppService_ContainerUsername_23f7d286fae0474e8667d4dc16eaa565 }}/appsvc/wordpress-alpine-php:${{ github.sha }}
+      
     - name: Set up Docker Buildx
       uses: docker/setup-buildx-action@v1
 
