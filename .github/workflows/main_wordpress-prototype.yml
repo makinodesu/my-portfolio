@@ -21,11 +21,6 @@ jobs:
         string: ${{ secrets.AzureAppService_ContainerUsername_23f7d286fae0474e8667d4dc16eaa565 }}
           
     - uses: actions/checkout@v2
-    
-    - name: downcase REPO
-      run: |
-          echo "${{ steps.username^^ }}"
-          echo "${{ steps.username.outputs.lowercase }}"
    
     - name: Set up Docker Buildx
       uses: docker/setup-buildx-action@v1
