@@ -30,7 +30,7 @@ jobs:
       uses: docker/build-push-action@v2
       with:
         push: true
-        tags: mcr.microsoft.com/${{ secrets.AzureAppservice_ContainerUsername_23f7d286fae0474e8667d4dc16eaa565 }}/appsvc/wordpress-alpine-php:${{ github.sha }}
+        tags: mcr.microsoft.com/${{ secrets.AzureAppservice_ContainerUsername_23f7d286fae0474e8667d4dc16eaa565 }}/appsvc/wordpress-alpine-php
         file: ./Dockerfile
 
   deploy:
