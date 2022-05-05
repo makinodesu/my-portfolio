@@ -41,7 +41,7 @@ jobs:
       uses: docker/build-push-action@v2
       with:
         push: true
-        tags: mcr.microsoft.com/${{ steps.string.outputs.lowercase }}/appsvc/wordpress-alpine-php:${{ github.sha }}
+        tags: mcr.microsoft.com/${{ steps.username.outputs.lowercase }}/appsvc/wordpress-alpine-php:${{ github.sha }}
         file: ./Dockerfile
 
   deploy:
