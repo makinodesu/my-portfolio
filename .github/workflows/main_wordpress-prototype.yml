@@ -43,6 +43,7 @@ jobs:
         push: true
         tags: mcr.microsoft.com/${{ steps.username.outputs.lowercase }}/appsvc/wordpress-alpine-php:${{ github.sha }}
         file: ./Dockerfile
+        context: .
 
   deploy:
     runs-on: ubuntu-latest
