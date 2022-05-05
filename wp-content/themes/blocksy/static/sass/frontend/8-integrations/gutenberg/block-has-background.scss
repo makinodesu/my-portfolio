@@ -1,0 +1,12 @@
+// .wp-block-group {
+// 	&.has-background {
+// 		padding-top: var(--content-spacing);
+// 		padding-bottom: var(--content-spacing);
+// 	}
+// }
+
+
+.wp-block-cover,
+.wp-block-group.has-background {
+	padding: var(--content-spacing) 0;
+}

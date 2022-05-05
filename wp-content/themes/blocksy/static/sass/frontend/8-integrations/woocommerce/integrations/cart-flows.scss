@@ -1,0 +1,11 @@
+.wcf-embed-checkout-form input[type="checkbox"] {
+	position: initial;
+	top: initial;
+	border-radius: initial;
+
+	&:before {
+		position: initial;
+		border: none;
+		transform: initial;
+	}
+}
