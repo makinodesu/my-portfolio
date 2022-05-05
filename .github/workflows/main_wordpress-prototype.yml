@@ -23,14 +23,14 @@ jobs:
       uses: docker/login-action@v1
       with:
         registry: https://mcr.microsoft.com/
-        username: ${{ secrets.AzureAppService_ContainerUsername_23f7d286fae0474e8667d4dc16eaa565 }}
+        username: ${{ secrets.azureAppService_ContainerUsername_23f7d286fae0474e8667d4dc16eaa565 }}
         password: ${{ secrets.AzureAppService_ContainerPassword_a03b9df3d783465e8100253ef65147f3 }}
 
     - name: Build and push container image to registry
       uses: docker/build-push-action@v2
       with:
         push: true
-        tags: mcr.microsoft.com/${{ secrets.AzureAppService_ContainerUsername_23f7d286fae0474e8667d4dc16eaa565 }}/appsvc/wordpress-alpine-php:${{ github.sha }}
+        tags: mcr.microsoft.com/${{ secrets.azureappservice_containerusername_23f7d286fae0474e8667d4dc16eaa565 }}/appsvc/wordpress-alpine-php:${{ github.sha }}
         file: ./Dockerfile
 
   deploy:
