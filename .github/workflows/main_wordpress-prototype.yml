@@ -14,7 +14,6 @@ jobs:
     runs-on: 'ubuntu-latest'
     
     steps:
-
     - name: downcase username
       id: username
       uses: ASzc/change-string-case-action@v2
@@ -22,6 +21,9 @@ jobs:
         string: ${{ secrets.AzureAppService_ContainerUsername_23f7d286fae0474e8667d4dc16eaa565 }}
 
     - uses: actions/checkout@v2
+    
+    - name: Set up QEMU
+      uses: docker/setup-qemu-action@v1
 
     - name: Set up Docker Buildx
       uses: docker/setup-buildx-action@v1
