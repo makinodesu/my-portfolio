@@ -14,7 +14,6 @@ jobs:
     runs-on: 'ubuntu-latest'
     
     steps:
-
     - name: downcase username
       id: username
       uses: ASzc/change-string-case-action@v2
