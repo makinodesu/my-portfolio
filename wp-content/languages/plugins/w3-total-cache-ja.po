@@ -1,0 +1,4556 @@
+# Translation of Plugins - W3 Total Cache - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - W3 Total Cache - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-30 21:07:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - W3 Total Cache - Stable (latest release)\n"
+
+#: Extension_ImageService_Plugin_Admin.php:539
+msgid "Error"
+msgstr "エラー"
+
+#: Extension_ImageService_Plugin_Admin.php:531
+#: Extension_ImageService_Plugin_Admin.php:707
+msgid "Sending..."
+msgstr "送信中...."
+
+#: Extension_ImageService_Plugin_Admin.php:458
+msgid "Settings saved."
+msgstr "設定を保存しました。"
+
+#: Extension_ImageService_Page_View.php:171
+#: Extension_ImageService_Page_View.php:198
+#: Extension_ImageService_Plugin_Admin.php:542
+msgid "Refresh"
+msgstr "更新"
+
+#: Extension_ImageService_Page_View.php:93
+msgid "Tools"
+msgstr "ツール"
+
+#: Extension_ImageService_Plugin_Admin.php:540
+msgid "Failed to retrieve a response.  Please reload the page to try again."
+msgstr "レスポンスの取得に失敗しました。再度、ページを読み込んでください。"
+
+#: Extension_ImageService_Page_View.php:140
+msgid "Total:"
+msgstr "合計:"
+
+#: Extension_ImageService_Page_View.php:83
+msgid "Auto-convert images on upload."
+msgstr "アップロード時に画像を自動変換します。"
+
+#: Extension_ImageService_Page_View.php:77
+msgid "Auto-convert:"
+msgstr "自動変換:"
+
+#: Extension_ImageService_Page_View.php:61
+msgid "Compression type:"
+msgstr "圧縮タイプ:"
+
+#: Extension_ImageService_Api.php:166 Extension_ImageService_Api.php:270
+#: Extension_ImageService_Api.php:308
+msgid "WP Error: "
+msgstr "WP エラー: "
+
+#: Extension_ImageService_Plugin_Admin.php:533
+#: Extension_ImageService_Plugin_Admin.php:710
+msgid "Processing..."
+msgstr "処理中…"
+
+#: Extension_ImageService_Page_View.php:150
+msgid "Sending:"
+msgstr "送信中:"
+
+#: Extension_ImageService_Plugin_Admin.php:116
+msgid "Media Library"
+msgstr "メディアライブラリ"
+
+#: Extension_ImageService_Plugin_Admin.php:483
+#: Extension_ImageService_Plugin_Admin.php:484
+msgid "Total Cache Image Service"
+msgstr "Total Cache 画像サービス"
+
+#: Extension_ImageService_Plugin_Admin.php:543
+msgid "Refreshing..."
+msgstr "再読み込み中…"
+
+#: Extension_ImageService_Page_View.php:67
+msgid "Image compression type."
+msgstr "画像圧縮タイプ。"
+
+#: Extension_ImageService_Plugin_Admin.php:592
+#: FeatureShowcase_Plugin_Admin.php:236
+msgid "Image Service"
+msgstr "画像サービス"
+
+#: UserExperience_LazyLoad_Page_View.php:71
+msgid "Lazy load google map"
+msgstr "Google マップの遅延読み込み"
+
+#: inc/options/general.php:20
+msgid "Preview mode:"
+msgstr "プレビューモード:"
+
+#: CdnEngine_S3.php:27
+msgid "Africa (Cape Town)"
+msgstr "アフリカ (ケープタウン)"
+
+#: FeatureShowcase_Plugin_Admin.php:463 Root_AdminMenu.php:91
+#: Root_AdminMenu.php:92
+msgid "Cache Groups"
+msgstr "キャッシュグループ"
+
+#: inc/wizard/template.php:248
+msgid "Are you sure that you want to leve this page?"
+msgstr "本当にこのページを削除してもよいですか ?"
+
+#: SetupGuide_Plugin_Admin.php:1305
+msgid "Setup Complete!"
+msgstr "設定が完了しました。"
+
+#: SetupGuide_Plugin_Admin.php:1284
+msgid "Setting"
+msgstr "設定"
+
+#: SetupGuide_Plugin_Admin.php:1088 SetupGuide_Plugin_Admin.php:1293
+msgid "Lazy Load"
+msgstr "遅延読み込み"
+
+#: SetupGuide_Plugin_Admin.php:1068
+msgid "Welcome"
+msgstr "ようこそ"
+
+#: SetupGuide_Plugin_Admin.php:931
+msgid "Unavailable"
+msgstr "利用不可"
+
+#: inc/wizard/template.php:160
+msgid "SKIP"
+msgstr "スキップ"
+
+#: Root_AdminMenu.php:125 Root_AdminMenu.php:126
+#: SetupGuide_Plugin_Admin.php:894
+msgid "Setup Guide"
+msgstr "セットアップガイド"
+
+#: SetupGuide_Plugin_Admin.php:266 SetupGuide_Plugin_Admin.php:450
+#: SetupGuide_Plugin_Admin.php:593
+msgid "Settings updated"
+msgstr "設定を更新しました"
+
+#: Extension_CloudFlare_Page_View.php:164
+msgid "Cache level:"
+msgstr "キャッシュレベル:"
+
+#: Extension_CloudFlare_Page_View.php:13
+msgid "Information"
+msgstr "お知らせ"
+
+#: Cdn_RackSpaceCdn_Page_View.php:35
+msgid "Service:"
+msgstr "サービス:"
+
+#: Extension_Swarmify_Widget_View_NotConfigured.php:13
+msgid "Free 14 day limited trial"
+msgstr "14日間限定の体験版"
+
+#: Cdnfsd_TransparentCDN_Page.php:35
+msgid "Error. Check your parameters and try again or contact with support."
+msgstr "エラーが発生しました。パラメータを確認して再度お試しいただくか、サポートまでお問い合わせください。"
+
+#: inc/options/cdn/s3_compatible.php:9
+msgid "API host:"
+msgstr "API ホスト:"
+
+#: inc/options/general.php:467
+msgid "Show page rating in admin bar"
+msgstr "管理バーにページ評価を表示"
+
+#: inc/options/parts/memcached.php:68
+#: inc/options/parts/memcached_extension.php:58
+msgid "<br>Available when memcached extension installed, built with <acronym title=\"Simple Authentication and Security Layer\">SASL</acronym>"
+msgstr "<br><acronym title=\"Simple Authentication and Security Layer\">SASL</acronym> で構築された memcached 拡張がインストールされている場合に利用可能"
+
+#: Cdn_GoogleDrive_Page_View.php:25
+msgid "Folder:"
+msgstr "フォルダー:"
+
+#: Generic_Plugin_Admin.php:648
+msgid "Failed to send support request."
+msgstr "サポートリクエストの送信に失敗しました。"
+
+#: Extension_Genesis_Page_View.php:153
+msgid "Footer"
+msgstr "フッター"
+
+#: Extension_Genesis_Page_View.php:14 Extension_Genesis_Page_View.php:130
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: Extension_Genesis_Page_View.php:12 Extension_Genesis_Page_View.php:27
+msgid "Header"
+msgstr "ヘッダー"
+
+#: Licensing_Plugin_Admin.php:51
+msgid "Upgrade"
+msgstr "アップグレード"
+
+#: Cdn_Plugin_Admin.php:229
+msgid "Google Drive"
+msgstr "Google ドライブ"
+
+#: Licensing_Plugin_Admin.php:179
+msgid "The W3 Total Cache license key is not active for this site. "
+msgstr "このサイトの W3 Total Cache ライセンスキーが有効ではありません。"
+
+#: UserExperience_GeneralPage_View.php:50
+msgid "Disable Emoji"
+msgstr "絵文字の無効化"
+
+#: FeatureShowcase_Plugin_Admin.php:379 SetupGuide_Plugin_Admin.php:1302
+#: UserExperience_GeneralPage_View.php:20
+msgid "Lazy Load Images"
+msgstr "画像の遅延読み込み"
+
+#: FeatureShowcase_Plugin_Admin.php:259 UserExperience_GeneralPage_View.php:28
+msgid "Lazy Load Google Maps"
+msgstr "Google マップの遅延読み込み"
+
+#: Cdnfsd_CloudFront_Popup_View_Success.php:21
+#: Cdnfsd_LimeLight_Popup_View_Success.php:18
+#: Cdnfsd_MaxCdn_Popup_View_Success.php:22
+#: Cdnfsd_StackPath2_Popup_View_Success.php:19
+#: Cdnfsd_StackPath_Popup_View_Success.php:22
+#: Cdn_LimeLight_Popup_View_Success.php:18 Cdn_MaxCdn_Popup_View_Success.php:19
+#: Cdn_RackSpaceCdn_Popup_View_Service_Created.php:52
+#: Cdn_StackPath2_Popup_View_Success.php:19
+#: Cdn_StackPath_Popup_View_Success.php:19
+msgid "Done"
+msgstr "完了"
+
+#: CdnEngine_S3.php:45
+msgid "South America (São Paulo)"
+msgstr "南米 (サンパウロ)"
+
+#: CdnEngine_S3.php:44
+msgid "Middle East (Bahrain)"
+msgstr "中東 (バーレーン)"
+
+#: CdnEngine_S3.php:35
+msgid "Canada (Central)"
+msgstr "カナダ (セントラル)"
+
+#: Cdnfsd_CloudFront_Popup_View_Success.php:10
+#: Cdnfsd_LimeLight_Popup_View_Success.php:10
+#: Cdnfsd_MaxCdn_Popup_View_Success.php:10
+#: Cdnfsd_StackPath2_Popup_View_Success.php:10
+#: Cdnfsd_StackPath_Popup_View_Success.php:10
+#: Cdn_LimeLight_Popup_View_Success.php:10 Cdn_MaxCdn_Popup_View_Success.php:10
+#: Cdn_RackSpaceCdn_Popup_View_Service_Created.php:22
+#: Cdn_StackPath2_Popup_View_Success.php:10
+#: Cdn_StackPath_Popup_View_Success.php:10
+msgid "Succeeded"
+msgstr "成功"
+
+#: Extension_CloudFlare_Popup_View_Intro.php:18
+msgid "Email:"
+msgstr "メール:"
+
+#: Generic_Plugin_Admin.php:696
+msgid "The add-in has been removed."
+msgstr "アドインは削除されました。"
+
+#: Extension_NewRelic_AdminNotes.php:23
+msgid "CDN"
+msgstr "CDN"
+
+#: Generic_AdminNotes.php:114
+msgid "minify settings"
+msgstr "圧縮設定"
+
+#: DbCache_Plugin_Admin.php:61
+msgid "Database Cache: %s."
+msgstr "データベースキャッシュ: %s"
+
+#: Generic_AdminNotes.php:85
+msgid "disable"
+msgstr "無効化"
+
+#: Minify_Plugin_Admin.php:168
+msgid "Empty the minify cache"
+msgstr "圧縮したキャッシュを削除"
+
+#: PgCache_Plugin_Admin.php:295
+msgid "Page Cache: %s."
+msgstr "ページキャッシュ: %s"
+
+#: PgCache_ConfigLabels.php:23 PgCache_ConfigLabels.php:24
+msgid "Front page"
+msgstr "フロントページ"
+
+#: PgCache_ConfigLabels.php:26
+msgid "Blog feed"
+msgstr "ブログフィード"
+
+#: Generic_ConfigLabels.php:27
+msgid "Varnish servers:"
+msgstr "Varnish サーバー:"
+
+#: Generic_Plugin_WidgetNews.php:43
+msgid "News"
+msgstr "お知らせ"
+
+#. Plugin Name of the plugin
+#: SetupGuide_Plugin_Admin.php:1105 SetupGuide_Plugin_Admin.php:1151
+#: SetupGuide_Plugin_Admin.php:1223 SetupGuide_Plugin_Admin.php:1252
+msgid "W3 Total Cache"
+msgstr "W3 Total Cache"
+
+#: Minify_ConfigLabels.php:59
+msgid "Add timestamp"
+msgstr "タイムスタンプの追加"
+
+#: PgCache_ConfigLabels.php:35
+msgid "Yearly archive pages"
+msgstr "年次アーカイブページ"
+
+#: PgCache_ConfigLabels.php:33
+msgid "Daily archive pages"
+msgstr "日次アーカイブページ"
+
+#: PgCache_ConfigLabels.php:34
+msgid "Monthly archive pages"
+msgstr "月次アーカイブページ"
+
+#: PgCache_ConfigLabels.php:38
+msgid "Additional pages:"
+msgstr "追加ページ:"
+
+#: PgCache_ConfigLabels.php:54
+msgid "Cache exception list:"
+msgstr "キャッシュ除外リスト:"
+
+#: Generic_ConfigLabels.php:21
+msgid "Referrer groups"
+msgstr "リファラーグループ"
+
+#: PgCache_ConfigLabels.php:30
+msgid "Post comments feed"
+msgstr "投稿コメントフィード"
+
+#: PgCache_ConfigLabels.php:27
+msgid "Post comments pages"
+msgstr "投稿コメントページ"
+
+#: PgCache_ConfigLabels.php:25
+msgid "Post page"
+msgstr "投稿ページ"
+
+#: PgCache_ConfigLabels.php:24
+msgid "Posts page"
+msgstr "投稿ページ"
+
+#: PgCache_ConfigLabels.php:15
+msgid "Cache 404 (not found) pages"
+msgstr "404 (not found) ページのキャッシュ"
+
+#: PgCache_ConfigLabels.php:11
+msgid "Don't cache front page"
+msgstr "フロントページをキャッシュしない"
+
+#: PageSpeed_Plugin_Widget.php:55
+msgid "Page Speed Report"
+msgstr "ページ速度レポート"
+
+#: Cdn_StackPath2_Page_View.php:54
+#: Cdn_StackPath2_Widget_View_Unauthorized.php:32 Generic_WidgetServices.php:33
+msgid "Premium Services"
+msgstr "プレミアムサービス"
+
+#: Minify_Plugin_Admin.php:148
+msgid "Minify: %s."
+msgstr "圧縮: %s"
+
+#: ObjectCache_Plugin_Admin.php:32
+msgid "Object Cache: %s."
+msgstr "オブジェクトキャッシュ: %s."
+
+#: BrowserCache_ConfigLabels.php:7
+msgid "Browser Cache:"
+msgstr "ブラウザーキャッシュ:"
+
+#: Cdn_AdminNotes.php:299
+msgid "Install page"
+msgstr "インストールページ"
+
+#: Cdn_AdminNotes.php:190
+msgid "update the path"
+msgstr "パスの更新"
+
+#: PgCache_ConfigLabels.php:10
+msgid "Cache posts page"
+msgstr "投稿ページをキャッシュ"
+
+#: PgCache_ConfigLabels.php:19
+msgid "Update interval:"
+msgstr "更新間隔:"
+
+#: PgCache_ConfigLabels.php:10
+msgid "Cache front page"
+msgstr "フロントページをキャッシュ"
+
+#: Minify_ConfigLabels.php:68
+msgid "Clean"
+msgstr "クリーン"
+
+#: Minify_ConfigLabels.php:54
+msgid "Sort Properties"
+msgstr "プロパティをソート"
+
+#: Minify_ConfigLabels.php:61
+msgid "Compression:"
+msgstr "圧縮率:"
+
+#: Minify_ConfigLabels.php:62
+msgid "Optimize shorthands:"
+msgstr "ショートハンドを最適化:"
+
+#: Minify_ConfigLabels.php:58
+msgid "Preserve CSS"
+msgstr "CSS を保持"
+
+#: Minify_ConfigLabels.php:51
+msgid "Lowercase selectors"
+msgstr "小文字のセレクタ"
+
+#: ObjectCache_ConfigLabels.php:8
+msgid "Object Cache:"
+msgstr "オブジェクトキャッシュ:"
+
+#: PgCache_ConfigLabels.php:8
+msgid "Page Cache:"
+msgstr "ページキャッシュ:"
+
+#: PgCache_ConfigLabels.php:7
+msgid "Page Cache Method:"
+msgstr "ページキャッシュ方法:"
+
+#: ObjectCache_ConfigLabels.php:12
+msgid "Global groups:"
+msgstr "グローバルグループ:"
+
+#: Generic_ConfigLabels.php:22
+msgid "User Agents:"
+msgstr "ユーザーエージェント:"
+
+#: Extension_CloudFlare_GeneralPage_View.php:22
+#: Extension_CloudFlare_Page_View.php:116
+#: Extension_NewRelic_Page_View_Apm.php:108
+msgid "Cache time:"
+msgstr "キャッシュ時間:"
+
+#: Minify_ConfigLabels.php:69
+msgid "Hide comments"
+msgstr "コメントを非表示にする"
+
+#: BrowserCache_ConfigLabels.php:10
+msgid "404 error exception list:"
+msgstr "404 エラー除外リスト:"
+
+#: PgCache_ConfigLabels.php:21
+msgid "Sitemap <acronym title=\"Uniform Resource Indicator\">URL</acronym>:"
+msgstr "サイトマップ <acronym title=\"Uniform Resource Indicator\">URL</acronym>:"
+
+#: PgCache_ConfigLabels.php:57
+msgid "Handle <acronym title=\"Extensible Markup Language\">XML</acronym> mime type"
+msgstr "<acronym title=\"Extensible Markup Language\">XML</acronym> MIME タイプを処理"
+
+#: Generic_ConfigLabels.php:11
+msgid "Topic <acronym title=\"Identification\">ID</acronym>:"
+msgstr "トピック <acronym title=\"Identification\">ID</acronym>:"
+
+#: Minify_ConfigLabels.php:55
+msgid "Sort Selectors (caution)"
+msgstr "セレクターのソート (注意)"
+
+#: PgCache_ConfigLabels.php:56
+msgid "Specify page headers:"
+msgstr "ページヘッダーを指定:"
+
+#: ObjectCache_ConfigLabels.php:13
+msgid "Non-persistent groups:"
+msgstr "非永続グループ:"
+
+#: Cdn_AdminNotes.php:28
+msgid "upload active theme files"
+msgstr "アクティブなテーマファイルをアップロード"
+
+#: DbCache_ConfigLabels.php:12 Extension_FragmentCache_Page_View.php:98
+#: Minify_ConfigLabels.php:32 ObjectCache_ConfigLabels.php:11
+#: PgCache_ConfigLabels.php:44
+msgid "Garbage collection interval:"
+msgstr "ガベージコレクション間隔:"
+
+#: Extension_FragmentCache_GeneralPage_View.php:15
+msgid "Fragment Cache Method:"
+msgstr "フラグメントキャッシュの方法:"
+
+#: Extension_FragmentCache_Page_View.php:105
+msgid "Manual fragment groups:"
+msgstr "手動フラグメントグループ:"
+
+#: Minify_ConfigLabels.php:71
+msgid "Wrap after:"
+msgstr "折り返し:"
+
+#: Minify_ConfigLabels.php:78 Minify_ConfigLabels.php:83
+msgid "Line break after:"
+msgstr "改行:"
+
+#: Minify_ConfigLabels.php:49
+msgid "Compress colors"
+msgstr "色を圧縮"
+
+#: Minify_ConfigLabels.php:50
+msgid "Compress font-weight"
+msgstr "フォントの太さを圧縮"
+
+#: Minify_ConfigLabels.php:48
+msgid "Remove unnecessary backslashes"
+msgstr "不要なバックスラッシュ記号を削除"
+
+#: Minify_ConfigLabels.php:52
+msgid "Remove last ;"
+msgstr "最後の ; を削除"
+
+#: Minify_ConfigLabels.php:57
+msgid "Discard invalid properties"
+msgstr "無効なプロパティを削除"
+
+#: ObjectCache_ConfigLabels.php:7
+msgid "Object Cache Method:"
+msgstr "オブジェクトキャッシュの方法:"
+
+#: Minify_ConfigLabels.php:66
+msgid "Line break removal"
+msgstr "改行削除"
+
+#: PgCache_ConfigLabels.php:28
+msgid "Post author pages"
+msgstr "投稿者ページ"
+
+#: PgCache_ConfigLabels.php:29
+msgid "Post terms pages"
+msgstr "投稿タームページ"
+
+#: PgCache_ConfigLabels.php:31
+msgid "Post author feed"
+msgstr "投稿者フィード"
+
+#: PgCache_ConfigLabels.php:32
+msgid "Post terms feeds"
+msgstr "投稿タームフィード"
+
+#: Generic_WidgetSpreadTheWord_Plugin.php:44
+msgid "Spread the Word"
+msgstr "シェアする"
+
+#: PgCache_ConfigLabels.php:55
+msgid "Non-trailing slash pages:"
+msgstr "非末尾のスラッシュのページ："
+
+#: PgCache_ConfigLabels.php:45
+msgid "Comment cookie lifetime:"
+msgstr "コメント cookie の有効期間:"
+
+#: Minify_ConfigLabels.php:81
+msgid "Preserve unnecessary semicolons"
+msgstr "不要なセミコロンを保持"
+
+#: Minify_ConfigLabels.php:39
+msgid "Pretty print"
+msgstr "プリティプリント"
+
+#: Minify_ConfigLabels.php:30
+msgid "@import handling:"
+msgstr "@import の扱い:"
+
+#: inc/options/minify.php:162 inc/options/minify.php:379
+#: Minify_ConfigLabels.php:24 Minify_ConfigLabels.php:26
+#: Minify_ConfigLabels.php:28
+msgid "Combine only"
+msgstr "結合のみ"
+
+#: Minify_ConfigLabels.php:20
+msgid "Don't minify feeds"
+msgstr "フィードを圧縮しない"
+
+#: Minify_ConfigLabels.php:8
+msgid "Minify:"
+msgstr "圧縮:"
+
+#: Generic_ConfigLabels.php:16
+msgid "Nginx server configuration file path"
+msgstr "Nginx サーバー構成ファイルのパス"
+
+#: DbCache_ConfigLabels.php:8
+msgid "Database Cache:"
+msgstr "データベースキャッシュ:"
+
+#: Cdn_ConfigLabels.php:26
+msgid "Re-transfer cycle limit:"
+msgstr "再転送サイクルの制限:"
+
+#: Cdn_ConfigLabels.php:25
+msgid "Re-transfer cycle interval:"
+msgstr "再転送サイクルの間隔:"
+
+#: Generic_AdminNotes.php:82
+msgid "deploy"
+msgstr "デプロイ"
+
+#: Cdn_AdminNotes.php:251
+msgid "The <strong>\"Authorization key\"</strong> is not correct."
+msgstr "<strong>「認証キー」</strong>が正しくありません。"
+
+#: Cdn_AdminNotes.php:245
+msgid "The <strong>%s</strong> field(s) cannot be empty."
+msgstr "<strong>%s</strong>フィールドは空にできません。"
+
+#: Extension_NewRelic_AdminNotes.php:25
+msgid "Browser Cache and use compression"
+msgstr "ブラウザのキャッシュと圧縮を使用する"
+
+#: Cdn_AdminNotes.php:158
+msgid "unsuccessful transfer queue"
+msgstr "失敗した転送キュー"
+
+#: ObjectCache_Plugin_Admin.php:57
+msgid "Empty the object cache"
+msgstr "オブジェクトキャッシュを破棄する"
+
+#: Generic_AdminNotes.php:105
+msgid "empty the page cache"
+msgstr "ページキャッシュを破棄する"
+
+#: Generic_Plugin_Admin.php:745
+msgid "Required files and directories have been automatically created"
+msgstr "必要なファイルとディレクトリが自動的に作成されました"
+
+#: Generic_Plugin_Admin.php:698
+msgid "Edge mode has been disabled."
+msgstr "エッジモードが無効になっています。"
+
+#: PgCache_ConfigLabels.php:48
+msgid "Rejected cookies:"
+msgstr "拒否されたクッキー:"
+
+#: BrowserCache_ConfigLabels.php:15 BrowserCache_ConfigLabels.php:26
+#: BrowserCache_ConfigLabels.php:35
+msgid "Cache Control policy:"
+msgstr "キャッシュコントロールポリシー:"
+
+#: Cdn_ConfigLabels.php:13
+msgid "Host theme files"
+msgstr "テーマファイルのホスト"
+
+#: Cdn_ConfigLabels.php:15
+msgid "Host custom files"
+msgstr "カスタムファイルのホスト"
+
+#: Cdn_ConfigLabels.php:12
+msgid "Host wp-includes/ files"
+msgstr "wp-includes/ files のホスト"
+
+#: Cdn_ConfigLabels.php:29
+msgid "File types to import:"
+msgstr "インポートするファイル形式:"
+
+#: Cdn_ConfigLabels.php:30
+msgid "Custom file list:"
+msgstr "カスタムファイル一覧:"
+
+#: Minify_ConfigLabels.php:23
+msgid "Embed type:"
+msgstr "埋め込み形式:"
+
+#: Cdn_ConfigLabels.php:33
+msgid "Rejected files:"
+msgstr "リジェクトされたファイル:"
+
+#: DbCache_ConfigLabels.php:7
+msgid "Database Cache Method:"
+msgstr "データベースキャッシュ方法:"
+
+#: DbCache_ConfigLabels.php:10
+msgid "Don't cache queries for logged in users"
+msgstr "ログインユーザーのクエリをキャッシュしないでください"
+
+#: Cdn_AdminNotes.php:302
+msgid "Encountered issue with CDN: %s."
+msgstr "CDN に問題があります: %s。"
+
+#: Generic_ConfigLabels.php:23
+msgid "User Agent groups"
+msgstr "ユーザーエージェントグループ"
+
+#: Minify_ConfigLabels.php:27
+msgid "Before <span class=\"html-tag\">&lt;/body&gt;</span>"
+msgstr "<span class=\"html-tag\">&lt;/body&gt;</span> の前"
+
+#: Minify_ConfigLabels.php:25
+msgid "After <span class=\"html-tag\">&lt;body&gt;</span>"
+msgstr "<span class=\"html-tag\">&lt;/body&gt;</span> の後"
+
+#: Minify_ConfigLabels.php:13
+msgid "Minify mode:"
+msgstr "圧縮モード:"
+
+#: Minify_ConfigLabels.php:16
+msgid "Minify error notification:"
+msgstr "圧縮エラー時の通知:"
+
+#: Cdn_ConfigLabels.php:24
+msgid "Auto upload interval:"
+msgstr "自動更新の間隔: "
+
+#: Generic_AdminNotes.php:236
+msgid "</ul><p>This message will automatically disappear once the issue is resolved."
+msgstr "</ul><p>このメッセージは、問題が解決されると自動的に消えます。"
+
+#: Generic_AdminNotes.php:229
+msgid "The following memcached servers are not responding or not running:</p><ul>"
+msgstr "次の memcached サーバーが応答していないか、実行されていません:</p><ul>"
+
+#: PgCache_ConfigLabels.php:12
+msgid "Cache feeds: site, categories, tags, comments"
+msgstr "フィードのキャッシュ: サイト、カテゴリー、タグ、コメント"
+
+#: Generic_ConfigLabels.php:10
+msgid "<acronym title=\"Application Programming Interface\">API</acronym> secret:"
+msgstr "<acronym title=\"Application Programming Interface\">API</acronym> シークレット:"
+
+#: PgCache_ConfigLabels.php:39
+msgid "Purge sitemaps:"
+msgstr "サイトマップを消去:"
+
+#: ObjectCache_ConfigLabels.php:10
+msgid "Default lifetime of cache objects:"
+msgstr "キャッシュオブジェクトのデフォルトの有効期間: "
+
+#: Minify_ConfigLabels.php:63
+msgid "Case for properties:"
+msgstr "プロパティの場合: "
+
+#: Generic_Plugin_Admin.php:697
+msgid "Edge mode has been enabled."
+msgstr "エッジ モードに有効になっています。"
+
+#: PgCache_ConfigLabels.php:37
+msgid "Purge limit:"
+msgstr "パージ上限:"
+
+#: Minify_ConfigLabels.php:64
+msgid "Regroup selectors:"
+msgstr "セレクターを再グループ化:"
+
+#: Cdn_ConfigLabels.php:32 Minify_ConfigLabels.php:36
+#: PgCache_ConfigLabels.php:47
+msgid "Rejected user agents:"
+msgstr "拒否されたユーザーエージェント:"
+
+#: Cdn_AdminNotes.php:100
+msgid "export the media library"
+msgstr "メディアライブラリーをエクスポート"
+
+#: Extension_NewRelic_Widget.php:77
+msgid "view visualizations"
+msgstr "ビジュアリゼーションを表示"
+
+#: Minify_ConfigLabels.php:7
+msgid "Minify Cache Method:"
+msgstr "Minify キャッシュ方式:"
+
+#: Generic_ConfigLabels.php:17
+msgid "Verify rewrite rules"
+msgstr "書き換えルールを確認"
+
+#: PgCache_ConfigLabels.php:46
+msgid "Accepted query strings:"
+msgstr "利用可能なクエリー文字列:"
+
+#: Minify_ConfigLabels.php:43
+msgid "Compilation level:"
+msgstr "コンパイルレベル:"
+
+#: Cdn_ConfigLabels.php:28
+msgid "Theme file types to upload:"
+msgstr "アップロードするテーマファイルの種類: "
+
+#: Cdn_ConfigLabels.php:16
+msgid "Force over-writing of existing files"
+msgstr "既存のファイルを強制的に上書きする"
+
+#: Cdn_ConfigLabels.php:7
+msgid "<acronym title=\"Content Delivery Network\">CDN</acronym>:"
+msgstr "<acronym title=\"Content Delivery Network\">CDN</acronym>:"
+
+#: Cdn_ConfigLabels.php:8
+msgid "<acronym title=\"Content Delivery Network\">CDN</acronym> Type:"
+msgstr "<acronym title=\"Content Delivery Network\">CDN</acronym>タイプ: "
+
+#: Generic_Plugin_Admin.php:699
+msgid "Pull Zone was automatically created."
+msgstr "プルゾーンが自動的に作成されました。"
+
+#: PgCache_ConfigLabels.php:42
+msgid " Disable caching of HEAD <acronym title=\"Hypertext Transfer Protocol\">HTTP</acronym> requests"
+msgstr "HEAD <acronym title=\"Hypertext Transfer Protocol\">HTTP</acronym>リクエストのキャッシュを無効にします。"
+
+#: PgCache_ConfigLabels.php:36
+msgid "Specify the feed types to purge:"
+msgstr "削除するフィードの種類:"
+
+#: ObjectCache_ConfigLabels.php:14
+msgid "Flush all cache on post, comment etc changes."
+msgstr "投稿やコメントなどの変更時にキャッシュを消去する。"
+
+#: PgCache_ConfigLabels.php:20
+msgid "Pages per interval:"
+msgstr "間隔ごとのページ数:"
+
+#: PgCache_ConfigLabels.php:18
+msgid "Automatically prime the page cache"
+msgstr "ページキャッシュを自動に事前準備する"
+
+#: PgCache_ConfigLabels.php:17
+msgid "Don't cache pages for following user roles"
+msgstr "以下のユーザー権限グループに対してページをキャッシュしない"
+
+#: PgCache_ConfigLabels.php:16
+msgid "Don't cache pages for logged in users"
+msgstr "ログイン済みユーザーに対してページをキャッシュしない"
+
+#: Minify_ConfigLabels.php:80
+msgid "Minify only, do not obfuscate local symbols"
+msgstr "最小化のみ、ローカルシンボルは難読化しない"
+
+#: Minify_ConfigLabels.php:74
+msgid "Line break removal (not safe, not applied when combine only is active)"
+msgstr "改行を除去 (安全ではなく、「結合のみ」が有効な場合は適用されません)"
+
+#: Minify_ConfigLabels.php:46
+msgid "Line break removal (not applied when combine only is active)"
+msgstr "改行を除去 (「結合のみ」が有効な場合は適用されません)"
+
+#: Minify_ConfigLabels.php:45 Minify_ConfigLabels.php:73
+msgid "Preserved comment removal (not applied when combine only is active)"
+msgstr "保護されたコメントを除去 (「結合のみ」が有効な場合は適用されません)"
+
+#: Minify_ConfigLabels.php:82
+msgid "Disable all the built-in micro optimizations"
+msgstr "すべてのビルトイン済みマイクロ最適化を無効化"
+
+#: Minify_ConfigLabels.php:37
+msgid "Include external files/libraries:"
+msgstr "外部ファイル/ライブラリを含める:"
+
+#: Minify_ConfigLabels.php:33
+msgid "Never minify the following pages:"
+msgstr "以下のページは圧縮しない:"
+
+#: Minify_ConfigLabels.php:31
+msgid "Update external files every:"
+msgstr "外部ファイルを以下の間隔で更新:"
+
+#: Minify_ConfigLabels.php:15
+msgid "Disable minify for logged in users"
+msgstr "ログイン中のユーザーに対する圧縮を無効化"
+
+#: Minify_ConfigLabels.php:14
+msgid "Rewrite <acronym title=\"Uniform Resource Locator\">URL</acronym> structure"
+msgstr "<acronym title=\"Uniform Resource Locator\">URL</acronym> 構造をリライト"
+
+#: Generic_ConfigLabels.php:15
+msgid "Use single network configuration file for all sites."
+msgstr "すべてのサイトに対して単一のネットワーク構成ファイルを使用する。"
+
+#: Generic_ConfigLabels.php:13
+msgid "Page Speed <acronym title=\"Application Programming Interface\">API</acronym> Key:"
+msgstr "Page Speed <acronym title=\"Application Programming Interface\">API</acronym> キー:"
+
+#: inc/options/general.php:444
+msgid "Enable Google Page Speed dashboard widget"
+msgstr "Google Page Speed ダッシュボードウィジェットを有効化"
+
+#: Extension_FragmentCache_Page_View.php:91
+msgid "Default lifetime of cached fragments:"
+msgstr "キャッシュ済みフラグメントのデフォルト有効期間:"
+
+#: DbCache_ConfigLabels.php:15
+msgid "Reject query words:"
+msgstr "検索語句を拒否:"
+
+#: DbCache_ConfigLabels.php:13 PgCache_ConfigLabels.php:49
+msgid "Never cache the following pages:"
+msgstr "以下のページはキャッシュしない:"
+
+#: DbCache_ConfigLabels.php:11 PgCache_ConfigLabels.php:43
+msgid "Maximum lifetime of cache objects:"
+msgstr "キャッシュオブジェクトの最長有効期間:"
+
+#: Cdn_ConfigLabels.php:23
+msgid "Export changed files automatically"
+msgstr "変更されたファイルを自動エクスポート"
+
+#: Cdn_ConfigLabels.php:22
+msgid "Disable <acronym title=\"Content Delivery Network\">CDN</acronym> on the following pages:"
+msgstr "以下のページで <acronym title=\"Content Delivery Network\">CDN</acronym> を無効にする。"
+
+#: Cdn_ConfigLabels.php:21
+msgid "Disable <acronym title=\"Content Delivery Network\">CDN</acronym> for the following roles"
+msgstr "以下の権限グループに対して <acronym title=\"Content Delivery Network\">CDN</acronym> を無効にする。"
+
+#: Cdn_ConfigLabels.php:19
+msgid "Disable <acronym title=\"Content Delivery Network\">CDN</acronym> on <acronym title=\"Secure Sockets Layer\">SSL</acronym> pages"
+msgstr "<acronym title=\"Secure Sockets Layer\">SSL</acronym> のページで <acronym title=\"Content Delivery Network\">CDN</acronym> を無効化"
+
+#: Cdn_ConfigLabels.php:18
+msgid "Add canonical header"
+msgstr "カノニカルヘッダーを追加"
+
+#: Cdn_ConfigLabels.php:17
+msgid "Import external media library attachments"
+msgstr "外部メディアライブラリの添付ファイルをインポート"
+
+#: Cdn_ConfigLabels.php:14
+msgid "Host minified <acronym title=\"Cascading Style Sheet\">CSS</acronym> and <acronym title=\"JavaScript\">JS</acronym> files"
+msgstr "ホストが <acronym title=\"Cascading Style Sheet\">CSS</acronym> と <acronym title=\"JavaScript\">JS</acronym> ファイルを圧縮しました"
+
+#: BrowserCache_ConfigLabels.php:21 BrowserCache_ConfigLabels.php:41
+msgid "Disable cookies for static files"
+msgstr "静的ファイルに対する Cookie を無効化"
+
+#: BrowserCache_ConfigLabels.php:27 BrowserCache_ConfigLabels.php:36
+#: inc/options/browsercache.php:64
+msgid "Set entity tag (ETag)"
+msgstr "エンティティタグ (ETag) を設定"
+
+#: BrowserCache_ConfigLabels.php:9
+msgid "Do not process 404 errors for static objects with WordPress"
+msgstr "静的オブジェクトに対する404エラーを WordPress で処理しない"
+
+#: BrowserCache_ConfigLabels.php:8
+msgid "Prevent caching exception list:"
+msgstr "キャッシュ除外リストを抑止:"
+
+#: Cdn_AdminNotes.php:275
+msgid " <a href=\"?page=w3tc_cdn#configuration\">Specify it here</a>."
+msgstr " <a href=\"?page=w3tc_cdn#configuration\">ここで指定してください</a>。"
+
+#: Cdn_AdminNotes.php:275
+msgid "A configuration issue prevents <acronym title=\"Content Delivery Network\">CDN</acronym> from working: "
+msgstr "設定上の問題が <acronym title=\"Content Delivery Network\">CDN</acronym> の動作を妨害しています。"
+
+#: Cdn_AdminNotes.php:253
+msgid "You need to select / create a pull zone."
+msgstr "プル・ゾーンを選択/作成する必要があります。"
+
+#: Cdn_AdminNotes.php:242
+msgid "Replace default hostname with"
+msgstr "デフォルトホスト名を置換: "
+
+#: Cdn_AdminNotes.php:233 Cdn_AdminNotes.php:258 Cdn_AdminNotes.php:262
+#: Cdn_AdminNotes.php:266
+msgid "The <strong>\"Replace default hostname with\"</strong> field cannot be empty."
+msgstr "<strong>「デフォルトホスト名を置換」</strong>フィールドは空にはできません。"
+
+#: Cdn_AdminNotes.php:229
+msgid "The <strong>\"Account name\", \"Account key\" and \"Container\"</strong> fields cannot be empty."
+msgstr "<strong>「アカウント名」、「アカウントキー」、「コンテナ」</strong>フィールドは空にはできません。"
+
+#: Cdn_AdminNotes.php:225
+msgid "The <strong>\"Username\", \"API key\", \"Container\" and \"Replace default hostname with\"</strong> fields cannot be empty."
+msgstr "<strong>「アカウント名」、「API キー」、「コンテナ」、「デフォルトホスト名を置換」</strong>フィールドは空にはできません。"
+
+#: Cdn_AdminNotes.php:221
+msgid "The <strong>\"Access key\", \"Secret key\" and \"Replace default hostname with\"</strong> fields cannot be empty."
+msgstr "<strong>「アクセスキー」、「秘密鍵」、「デフォルトホスト名を置換」</strong>フィールドは空にはできません。"
+
+#: Cdn_AdminNotes.php:217
+msgid "The <strong>\"Access key\", \"Secret key\", \"Bucket\" and \"Replace default hostname with\"</strong> fields cannot be empty."
+msgstr "<strong>「アクセスキー」、「秘密鍵」、「バケット」、「デフォルトホスト名を置換」</strong>フィールドは空にはできません。"
+
+#: Cdn_AdminNotes.php:213
+msgid "The <strong>\"Access key\", \"Secret key\" and \"Bucket\"</strong> fields cannot be empty."
+msgstr "<strong>「アクセスキー」、「秘密鍵」、「バケット」</strong>フィールドは空にはできません。"
+
+#: Util_ConfigLabel.php:9
+msgid "Memcached hostname:port / <acronym title=\"Internet Protocol\">IP</acronym>:port:"
+msgstr "Memcached ホスト名:port / <acronym title=\"Internet Protocol\">IP</acronym>:port:"
+
+#: Minify_ConfigLabels.php:18
+msgid "Inline <acronym title=\"Cascading Style Sheet\">CSS</acronym> minification"
+msgstr "インライン <acronym title=\"カスケーディングスタイルシート\">CSS</acronym> 圧縮"
+
+#: Extension_NewRelic_Page_View_Apm.php:134
+msgid "Select user roles that <acronym title=\"Real User Monitoring\">RUM</acronym> should be enabled for:"
+msgstr "<acronym title=\"Real User Monitoring\">RUM</acronym> を有効化する権限グループを選択:"
+
+#: PgCache_ConfigLabels.php:14
+msgid "Cache <acronym title=\"Uniform Resource Identifier\">URI</acronym>s with query string variables"
+msgstr "クエリ文字列変数を使って <acronym title=\"Uniform Resource Identifier\">URI</acronym> でキャッシュを実行"
+
+#: Minify_ConfigLabels.php:21
+msgid "Ignored comment stems:"
+msgstr "無視するコメント幹:"
+
+#: Extension_NewRelic_Page_View_Apm.php:131
+msgid "Use <acronym title=\"Real User Monitoring\">RUM</acronym> only for following user roles"
+msgstr "以下の権限グループに対してのみ <acronym title=\"Real User Monitoring\">RUM</acronym> を使用"
+
+#: DbCache_ConfigLabels.php:14
+msgid "Ignored query stems:"
+msgstr "無視するクエリ幹:"
+
+#: Cdn_ConfigLabels.php:27
+msgid "wp-includes file types to upload:"
+msgstr "アップロードする wp-includes ファイルタイプ:"
+
+#: Cdn_ConfigLabels.php:11
+msgid "Host attachments"
+msgstr "ホスト添付ファイル"
+
+#: Minify_ConfigLabels.php:12
+msgid "<acronym title=\"Cascading Style Sheets\">CSS</acronym> minifier:"
+msgstr "<acronym title=\"カスケーディングスタイルシート\">CSS</acronym> 圧縮ツール:"
+
+#: Minify_ConfigLabels.php:11
+msgid "<acronym title=\"JavaScript\">JS</acronym> minifier:"
+msgstr "<acronym title=\"JavaScript\">JS</acronym> 圧縮ツール:"
+
+#: Minify_ConfigLabels.php:10
+msgid "<acronym title=\"Hypertext Markup Language\">HTML</acronym> minifier:"
+msgstr "<acronym title=\"Hypertext Markup Language\">HTML</acronym> 圧縮ツール:"
+
+#: BrowserCache_ConfigLabels.php:13 BrowserCache_ConfigLabels.php:24
+#: BrowserCache_ConfigLabels.php:33
+msgid "Expires header lifetime:"
+msgstr "Expires ヘッダーの有効期限:"
+
+#: BrowserCache_ConfigLabels.php:38
+msgid "Enable <acronym title=\"Hypertext Transfer Protocol\">HTTP</acronym> (gzip) compression</label>"
+msgstr "<acronym title=\"Hypertext Transfer Protocol\">HTTP</acronym> (gzip) 圧縮を有効化</label>"
+
+#: Generic_AdminNotes.php:81
+msgid "Preview mode is active: Changed settings will not take effect until preview mode is %s or %s."
+msgstr "プレビューモードを有効化中: 変更した設定はプレビューモードが%sまたは%sになるまで反映されません。"
+
+#: Generic_AdminNotes.php:111
+msgid "check the %s to maintain the desired user experience"
+msgstr "望ましいユーザーエクスペリエンスを維持するため、%s を確認してください"
+
+#: Minify_ConfigLabels.php:19
+msgid "Inline <acronym title=\"JavaScript\">JS</acronym> minification"
+msgstr "インライン <acronym title=\"JavaScript\">JS</acronym> 圧縮"
+
+#: Cdn_AdminNotes.php:180
+msgid "The uploads directory is not available. Default WordPress directories will be created: <strong>%s</strong>."
+msgstr "アップロードディレクトリは使用できません。デフォルトの WordPress のディレクトリが作成されます: <strong>%s</strong>。"
+
+#. Description of the plugin
+msgid "The highest rated and most complete WordPress performance plugin. Dramatically improve the speed and user experience of your site. Add browser, page, object and database caching as well as minify and content delivery network (CDN) to WordPress."
+msgstr "最高の評価を得た、最も完全な WordPress パフォーマンスプラグイン。サイトの速度とユーザーエクスペリエンスを大幅に向上します。WordPress にブラウザー、ページ、オブジェクト、データベースのキャッシュや、圧縮やコンテンツ配信ネットワーク (CDN) を追加できます。"
+
+#: Cdn_AdminNotes.php:187
+msgid "The uploads path found in the database (%s) is inconsistent with the actual path. Please manually adjust the upload path either in miscellaneous settings or if not using a custom path %s automatically to resolve the issue."
+msgstr "データベース (%s) で発見されたアップロードパスは、実際のパスと矛盾しています。その他の設定でアップロードパスを手動で調整してください。またはカスタムパスを使用していない場合は、自動的に問題を解決するため%sを行ってください。 "
+
+#: Generic_AdminNotes.php:216
+msgid "The required directives for fancy permalinks could not be detected, please confirm they are available: <a href=\"http://codex.wordpress.org/Using_Permalinks#Creating_and_editing_.28.htaccess.29\">Creating and editing</a> %s"
+msgstr "必須ディレクティブの「プリティ」パーマリンクを検出できませんでした。利用できるかどうかご確認ください。<a href=\"http://wpdocs.osdn.jp/Using_Permalinks#.22Pretty.22_.E3.83.91.E3.83.BC.E3.83.9E.E3.83.AA.E3.83.B3.E3.82.AF.E3.81.AE.E4.BD.BF.E3.81.84.E6.96.B9\">作成と編集</a> %s"
+
+#: Generic_AdminNotes.php:57
+msgid "Either the PHP configuration, web server configuration or a script in the WordPress installation has <strong>zlib.output_compression</strong> enabled.<br />Please locate and disable this setting to ensure proper HTTP compression behavior. %s"
+msgstr "PHP 設定、Web サーバー設定、または WordPress インストールスクリプトのいずれかで <strong>zlib.output_compression</strong> が有効になっています。<br />適切なHTTP 圧縮動作を確実にするには、この設定を探して無効化してください。%s"
+
+#: Generic_AdminNotes.php:43
+msgid "Unfortunately the PHP installation is incomplete, the <strong>zlib module is missing</strong>. This is a core PHP module. Notify the server administrator. %s"
+msgstr "残念ながら、PHP のインストールは不完全で、<strong>zlib モジュールがありません</strong>。これは PHP のコアモジュールです。サーバー管理者に通知してください。%s"
+
+#: Cdn_AdminNotes.php:131
+msgid "The <strong>CURL PHP</strong> extension is not available. Please install it to enable S3 or CloudFront functionality. %s"
+msgstr "<strong>CURL PHP</strong>拡張機能は利用できません。S3 または CloudFront の機能を有効にするにはインストールしてください。%s"
+
+#: Cdn_AdminNotes.php:297
+msgid "Encountered issue with CDN: %s. See %s for instructions of creating correct table."
+msgstr "CDN で問題が発生しました (%s)。正しいテーブルを作成する方法については、%sを参照してください。"
+
+#: Cdn_AdminNotes.php:155
+msgid "The %s has unresolved errors. Empty the queue to restore normal operation."
+msgstr "%sには未解決のエラーがあります。通常の動作を復元するには、キューを空にしてください。"
+
+#: Cdn_AdminNotes.php:116
+msgid "Make sure to whitelist your servers IPs. Follow the instructions on %s. The IP for this server is %s. %s"
+msgstr "お使いのサーバーの IP をホワイトリストに登録してください。%sの指示に従ってください。このサーバーの IP は %sです。%s"
+
+#: Cdn_AdminNotes.php:42
+msgid "Upgraded WordPress? Please %s files now to ensure proper operation. %s"
+msgstr "WordPress をアップグレードした場合は、正しく動作するようにファイルを今すぐ%sしてください。%s"
+
+#: Cdn_AdminNotes.php:25
+msgid "The active theme has changed, please %s now to ensure proper operation. %s"
+msgstr "有効なテーマが変更されました。正しく動作するように今すぐ%sしてください。%s"
+
+#: Minify_Plugin_Admin.php:131
+msgid "Recently an error occurred while creating the CSS / JS minify cache: %s. %s"
+msgstr "最近、CSS / JS 圧縮キャッシュを作成中にエラーが発生しました: %s。%s"
+
+#: Minify_Plugin_Admin.php:165 ObjectCache_Plugin_Admin.php:54
+msgid "The setting change(s) made either invalidate the cached data or modify the behavior of the site. %s now to provide a consistent user experience."
+msgstr "設定の変更により、キャッシュされたデータが無効になったか、サイトの動作が変更されました。%s は一貫したユーザーエクスペリエンスを提供するようになりました。"
+
+#: Generic_AdminNotes.php:130
+msgid "One or more plugins have been activated or deactivated, please %s. %s"
+msgstr "1つ以上のプラグインが有効化または無効化されました。%sしてください。%s"
+
+#: Cdn_AdminNotes.php:84
+msgid "Make sure to %s and upload the %s, files to the <acronym title=\"Content Delivery Network\">CDN</acronym> to ensure proper operation. %s"
+msgstr "正しく動作するように、%sして %s、ファイルを <acronym title=\"コンテンツ・デリバリー・ネットワーク\">CDN</acronym> にアップロードしてください。%s"
+
+#: Cdn_AdminNotes.php:97
+msgid "Settings that affect Browser Cache settings for files hosted by the CDN have been changed. To apply the new settings %s and %s. %s"
+msgstr "CDN がホストするファイルのブラウザキャッシュ設定に影響する設定が変更されました。新しい設定を適用するには、%sし、%sしてください。%s"
+
+#: Extension_NewRelic_Page_View_Apm.php:191
+msgid "Enable XMIT:"
+msgstr "XMIT を有効化:"
+
+#: Generic_ConfigLabels.php:18
+msgid "License:"
+msgstr "ライセンス:"
+
+#: Generic_WidgetCommunity_View.php:21
+msgid "Fragment Caching"
+msgstr "フラグメントキャッシュ"
+
+#: Cdn_AdminNotes.php:246 Generic_AdminNotes.php:132
+msgid " and "
+msgstr "、"
+
+#: Generic_ConfigLabels.php:8
+msgid "Amazon <acronym title=\"Simple Notification Service\">SNS</acronym> region:"
+msgstr "Amazon <acronym title=\"Simple Notification Service\">SNS</acronym> リージョン:"
+
+#: Cdn_Plugin_WidgetMaxCdn_View_Authorized.php:75
+#: Cdn_StackPath_Widget_View_Authorized.php:64
+msgid "Hits"
+msgstr "ヒット数"
+
+#: lib/NetDNA/NetDNAPresentation.php:64
+msgid "Pending"
+msgstr "保留"
+
+#: lib/NetDNA/NetDNAPresentation.php:74
+msgid "unknown"
+msgstr "不明"
+
+#: CdnEngine_Mirror_Edgecast.php:130
+msgid "Invalid Request"
+msgstr "無効なリクエスト"
+
+#: lib/NetDNA/NetDNAPresentation.php:66
+msgid "Active"
+msgstr "有効"
+
+#: Generic_Plugin.php:314 Root_AdminMenu.php:55 Root_AdminMenu.php:56
+msgid "General Settings"
+msgstr "一般設定"
+
+#: Generic_Plugin.php:327 Root_AdminMenu.php:106 Root_AdminMenu.php:107
+msgid "FAQ"
+msgstr "FAQ"
+
+#: Root_AdminMenu.php:131 Root_AdminMenu.php:132
+msgid "About"
+msgstr "紹介"
+
+#: Extension_NewRelic_Service.php:96
+msgid "Operating System"
+msgstr "オペレーション・システム"
+
+#: Generic_Plugin.php:274 Root_AdminMenu.php:160 Root_AdminMenu.php:161
+msgid "Performance"
+msgstr "パフォーマンス"
+
+#: Cdn_Plugin_WidgetMaxCdn_View_Authorized.php:74
+#: Cdn_StackPath_Widget_View_Authorized.php:63 SetupGuide_Plugin_Admin.php:1285
+msgid "File"
+msgstr "ファイル"
+
+#: Root_AdminMenu.php:119 Root_AdminMenu.php:120
+msgid "Install"
+msgstr "インストール"
+
+#: inc/popup/pagespeed_results.php:15
+msgid "Expand all"
+msgstr "すべて展開"
+
+#: DbCache_Plugin.php:218 UsageStatistics_Page_View.php:310
+msgid "Database"
+msgstr "データベース"
+
+#: Cdn_AdminActions.php:433 Cdn_AdminActions.php:437 Cdn_AdminActions.php:480
+msgid "Error: %s"
+msgstr "エラー: %s"
+
+#: Generic_Plugin_Admin.php:568
+msgid "Empty Caches"
+msgstr "キャッシュを空にする"
+
+#: Generic_Plugin_Admin.php:649
+msgid "Please select request type."
+msgstr "リクエストタイプを選択してください。"
+
+#: Generic_Plugin_Admin.php:677
+msgid "Opcode cache(s) successfully emptied."
+msgstr "オペコードキャッシュを空にしました。"
+
+#: Generic_Plugin_Admin.php:678
+msgid "Disk cache(s) successfully emptied."
+msgstr "ディスクキャッシュを空にしました。"
+
+#: Generic_Plugin_Admin.php:679
+msgid "Page cache successfully emptied."
+msgstr "ページキャッシュを空にしました。"
+
+#: Generic_Plugin_Admin.php:680
+msgid "Database cache successfully emptied."
+msgstr "データベースキャッシュを空にしました。"
+
+#: Generic_Plugin_Admin.php:681
+msgid "Object cache successfully emptied."
+msgstr "オブジェクトキャッシュを空にしました。"
+
+#: Generic_Plugin_Admin.php:676
+msgid "Memcached cache(s) successfully emptied."
+msgstr "Memcached キャッシュを空にしました。"
+
+#: Generic_Plugin_Admin.php:675
+msgid "All caches successfully emptied."
+msgstr "すべてのキャッシュを空にしました。"
+
+#: Generic_Plugin_Admin.php:674
+msgid "Plugin configuration successfully updated."
+msgstr "プラグイン設定を更新しました。"
+
+#: Generic_Plugin_Admin.php:664
+msgid "Configuration file could not be imported."
+msgstr "設定ファイルをインポートできません。"
+
+#: Generic_Plugin_Admin.php:663
+msgid "Unable to upload config file."
+msgstr "設定ファイルをアップロードできません。"
+
+#: Generic_Plugin_Admin.php:662
+msgid "Please select config file."
+msgstr "設定ファイルを選択してください。"
+
+#: Generic_Plugin_Admin.php:666
+msgid "Unable to purge attachment."
+msgstr "添付ファイルを削除できません。"
+
+#: Generic_Plugin_Admin.php:667
+msgid "Unable to purge post."
+msgstr "投稿を削除できません。"
+
+#: Generic_Plugin_Admin.php:682
+msgid "Fragment cache successfully emptied."
+msgstr "フラグメントキャッシュを空にしました。"
+
+#: Generic_Plugin_Admin.php:651
+msgid "Please enter your name in the Name field"
+msgstr "名前欄に入力してください"
+
+#: Generic_Plugin_Admin.php:652
+msgid "Please enter valid email address in the E-Mail field."
+msgstr "有効なメールアドレスを入力してください。"
+
+#: Generic_Plugin_Admin.php:653
+msgid "Please enter your phone in the phone field."
+msgstr "電話番号を入力してください。"
+
+#: Generic_Plugin_Admin.php:683
+msgid "Minify cache successfully emptied."
+msgstr "Minify キャッシュを空にしました。"
+
+#: Generic_Plugin_Admin.php:688
+msgid "Settings successfully imported."
+msgstr "設定のインポートに成功しました。"
+
+#: inc/popup/pagespeed_results.php:16
+msgid "Collapse all"
+msgstr "すべて閉じる"
+
+#: inc/widget/latest.php:9 inc/widget/latest_news.php:9
+msgid "Loading&#8230;"
+msgstr "読み込み中&#8230;"
+
+#: inc/widget/latest.php:12 inc/widget/latest_news.php:12
+msgid "This widget requires JavaScript."
+msgstr "このウィジェットには JavaScript が必要です。"
+
+#: Cdn_Highwinds_Widget_View.php:12
+#: Cdn_Plugin_WidgetMaxCdn_View_Authorized.php:41
+#: Cdn_StackPath2_Widget_View_Authorized.php:17
+#: Cdn_StackPath_Widget_View_Authorized.php:30
+msgid "Manage"
+msgstr "管理"
+
+#: Cdn_Highwinds_Widget_View.php:15
+#: Cdn_Plugin_WidgetMaxCdn_View_Authorized.php:42
+#: Cdn_StackPath2_Widget_View_Authorized.php:18
+#: Cdn_StackPath_Widget_View_Authorized.php:31
+msgid "Reports"
+msgstr "レポート"
+
+#: Cdn_Highwinds_Widget_View.php:38
+#: Cdn_Plugin_WidgetMaxCdn_View_Authorized.php:70
+#: Cdn_StackPath2_Widget_View_Authorized.php:31
+#: Cdn_StackPath2_Widget_View_Authorized.php:36
+#: Cdn_StackPath_Widget_View_Authorized.php:59
+msgid "Requests"
+msgstr "リクエスト"
+
+#: lib/NetDNA/NetDNAPresentation.php:68
+msgid "Cancelled"
+msgstr "キャンセル済み"
+
+#: lib/NetDNA/NetDNAPresentation.php:70
+msgid "Suspended"
+msgstr "一時停止中"
+
+#: lib/NetDNA/NetDNAPresentation.php:72
+msgid "Fraud"
+msgstr "不正"
+
+#: Generic_Plugin_AdminCompatibility.php:103
+#: Generic_Plugin_AdminCompatibility.php:105
+msgid "Deactivate this plugin"
+msgstr "このプラグインを停止"
+
+#: Generic_Plugin_AdminCompatibility.php:103
+msgid "Network Deactivate"
+msgstr "ネットワークで停止"
+
+#: Enterprise_Dbcache_WpdbInjection_Cluster.php:662
+msgid "<strong>ERROR</strong>: WordPress %s requires MySQL 4.1.2 or higher"
+msgstr "<strong>エラー</strong>: WordPress %s には MySQL 4.1.2 以上が必要です。"
+
+#: Extension_NewRelic_Service.php:132
+msgid "Web Server"
+msgstr "Web サーバー"
+
+#: extension-example/Extension_Example_Page_View.php:11
+#: Extensions_Plugin_Admin.php:75 Extensions_Plugin_Admin.php:76
+#: Extension_CloudFlare_Page_View.php:10 Extension_FeedBurner_Page_View.php:11
+#: Extension_FragmentCache_Page_View.php:13 Extension_Genesis_Page_View.php:11
+#: Extension_NewRelic_Page_View_Apm.php:11 Extension_Swarmify_Page_View.php:11
+#: FeatureShowcase_Plugin_Admin.php:451
+msgid "Extensions"
+msgstr "拡張機能"
+
+#: Generic_Plugin_Admin.php:695
+msgid "New relic settings have been updated."
+msgstr "New Relic の設定が更新されました。"
+
+#: Generic_Plugin_Admin.php:687
+msgid "The support request has been successfully sent."
+msgstr "サポートリクエストが正常に送信されました。"
+
+#: Generic_Plugin_Admin.php:661
+msgid "Unable to send the support request."
+msgstr "サポートリクエストを送信することができません。"
+
+#: Extension_NewRelic_Service.php:181
+msgid "API Key is invalid."
+msgstr "API キーが無効です。"
+
+#: Extension_NewRelic_Service.php:152
+msgid "API Key is not configured."
+msgstr "API キーが設定されていません。"
+
+#: Extension_NewRelic_Service.php:163
+msgid "PHP agent is not enabled."
+msgstr "PHP エージェントが有効になっていません。"
+
+#: Extension_NewRelic_Service.php:161
+msgid "PHP module is not enabled."
+msgstr "PHP モジュールが有効になっていません。"
+
+#: Extension_NewRelic_Service.php:48
+msgid "PHP version"
+msgstr "PHP バージョン"
+
+#: Extension_NewRelic_Service.php:46
+msgid "Supported"
+msgstr "サポートあり"
+
+#: Licensing_Plugin_Admin.php:175
+msgid "Please enter it again."
+msgstr "もう一度入力してください。"
+
+#: DbCache_WpdbInjection_QueryCaching.php:694
+msgid "Database caching is disabled"
+msgstr "データベースのキャッシュが無効になっています"
+
+#: CdnEngine_Mirror_MaxCdn.php:73 CdnEngine_Mirror_MaxCdn.php:149
+msgid "No zones match site: %s or %s."
+msgstr "ゾーンにはサイトがありません: %s または %s。"
+
+#: CdnEngine_Mirror_MaxCdn.php:41 CdnEngine_Mirror_MaxCdn.php:116
+#: CdnEngine_Mirror_StackPath.php:41 CdnEngine_Mirror_StackPath.php:88
+msgid "Malformed Authorization Key."
+msgstr "不正な認証キー。"
+
+#: CdnEngine_Mirror_MaxCdn.php:35 CdnEngine_Mirror_MaxCdn.php:110
+#: CdnEngine_Mirror_StackPath.php:33 CdnEngine_Mirror_StackPath.php:82
+#: CdnEngine_Mirror_StackPath2.php:32 CdnEngine_Mirror_StackPath2.php:68
+msgid "Empty Authorization Key."
+msgstr "空の認証キー。"
+
+#: CdnEngine_Mirror_Edgecast.php:126 Cdnfsd_TransparentCDN_Engine.php:156
+msgid "Invalid Request URI"
+msgstr "不正なリクエスト URI"
+
+#: CdnEngine_Mirror_Edgecast.php:122 Cdnfsd_TransparentCDN_Engine.php:152
+msgid "Authentication Failure or Insufficient Access Rights"
+msgstr "認証エラーまたはアクセス権が不十分"
+
+#: CdnEngine_Mirror_Edgecast.php:118 Cdnfsd_TransparentCDN_Engine.php:148
+msgid "Invalid Request Parameter"
+msgstr "無効な要求パラメーター"
+
+#: CdnEngine_Mirror_Akamai.php:95 CdnEngine_Mirror_Akamai.php:100
+#: CdnEngine_Mirror_Cotendo.php:100 CdnEngine_Mirror_Edgecast.php:63
+msgid "Unable to purge (%s)."
+msgstr "空にできません (%s)。"
+
+#: CdnEngine_Mirror_Akamai.php:40 CdnEngine_Mirror_Cotendo.php:42
+msgid "Empty password."
+msgstr "パスワードが空です。"
+
+#: CdnEngine_Mirror_Akamai.php:34 CdnEngine_Mirror_Cotendo.php:36
+msgid "Empty username."
+msgstr "ユーザー名が空です。"
+
+#: Generic_AdminActions_Test.php:141
+msgid "Invalid engine."
+msgstr "無効なエンジン。"
+
+#: Generic_AdminActions_Test.php:104
+msgid "Empty JAVA executable path."
+msgstr "空の JAVA 実行可能ファイルのパス。"
+
+#: Cdn_AdminActions.php:487
+msgid "Incorrect type."
+msgstr "種類が正しくありません。"
+
+#: Cdn_AdminActions.php:430
+msgid "Test passed"
+msgstr "テスト合格"
+
+#: Cdn_AdminActions.php:345
+msgid "Empty files list."
+msgstr "空のファイルリスト。"
+
+#: Cdn_AdminActions.php:148
+msgid "Media Library import"
+msgstr "メディアライブラリのインポート"
+
+#: Cdn_AdminActions.php:75
+msgid "Media Library export"
+msgstr "メディアライブラリのエクスポート"
+
+#: Cdn_AdminActions.php:61
+msgid "Unsuccessful file transfer queue."
+msgstr "失敗したファイル転送キュー。"
+
+#: Extension_NewRelic_Widget_View_Apm.php:51
+msgid "Database times"
+msgstr "データベース時間"
+
+#: Extension_NewRelic_Widget_View_Apm.php:39
+msgid "Page load times"
+msgstr "ページの読み込み時間"
+
+#: Extension_NewRelic_Widget_View_Apm.php:28
+msgid "Average times"
+msgstr "平均時間"
+
+#: Cdn_Plugin_WidgetMaxCdn_View_Authorized.php:72
+#: Cdn_StackPath_Widget_View_Authorized.php:61
+msgid "Content Breakdown"
+msgstr "コンテンツ内訳"
+
+#: Minify_Plugin.php:317
+msgid "Minified using %s%s"
+msgstr "%s%s を使用して圧縮する"
+
+#: Generic_Plugin_Admin.php:689
+msgid "Settings successfully restored."
+msgstr "設定のリストアに成功しました。"
+
+#: Generic_Plugin_Admin.php:690
+msgid "Preview mode was successfully enabled"
+msgstr "プレビューモードの有効化に成功しました。"
+
+#: Generic_Plugin_Admin.php:691
+msgid "Preview mode was successfully disabled"
+msgstr "プレビューモードの無効化に成功しました。"
+
+#: Extension_NewRelic_Plugin_Admin.php:158
+msgid "Please review the <a href=\"%s\">settings</a>."
+msgstr "<a href=\"%s\">設定</a>を確認してください。"
+
+#: CdnEngine_Mirror_Edgecast.php:134 Cdnfsd_TransparentCDN_Engine.php:160
+msgid "Server Error"
+msgstr "サーバーエラー"
+
+#: Generic_Plugin_Admin.php:685
+msgid "Varnish servers successfully purged."
+msgstr "Varnish サーバーを正常に破棄しました。"
+
+#: CdnEngine_Mirror_Edgecast.php:44
+msgid "Empty token."
+msgstr "トークンは空です。"
+
+#: Root_AdminMenu.php:97 Root_AdminMenu.php:100
+msgid "Content Delivery Network"
+msgstr "コンテンツ配信ネットワーク(CDN)"
+
+#: CdnEngine_Mirror_Akamai.php:85 CdnEngine_Mirror_Cotendo.php:92
+msgid "Invalid response."
+msgstr "応答が無効です。"
+
+#: Cdn_Plugin.php:809
+msgid "Content Delivery Network via %s%s"
+msgstr "%s%s経由のコンテンツ配信ネットワーク(CDN)"
+
+#: Generic_Plugin_Admin.php:694
+msgid "Post successfully purged."
+msgstr "投稿が正常に消去されました。"
+
+#: Generic_Plugin_Admin.php:693
+msgid "Attachment successfully purged."
+msgstr "添付ファイルが正常に消去されました。"
+
+#: Cdn_Plugin.php:298
+msgid "Upgrading database"
+msgstr "データベースのアップグレード"
+
+#: CdnEngine_Mirror_Edgecast.php:38
+msgid "Empty account #."
+msgstr "アカウント番号が空です。"
+
+#: Generic_Plugin_Admin.php:654
+msgid "Please enter subject in the subject field."
+msgstr "件名欄に件名を入力してください。"
+
+#: Generic_AdminActions_Default.php:590
+msgid "Added by W3 Total Cache"
+msgstr "W3 Total Cache が追加"
+
+#: Generic_AdminActions_Default.php:226
+msgid "You do not have the rights to perform this action."
+msgstr "この操作を実行する権限がありません。"
+
+#: Cdn_AdminActions.php:478
+msgid "Created successfully."
+msgstr "作成に成功しました。"
+
+#: DbCache_WpdbInjection_QueryCaching.php:702
+msgid "Cookie is rejected"
+msgstr "クッキーが拒否されました"
+
+#: DbCache_WpdbInjection_QueryCaching.php:698
+msgid "Doing AJAX"
+msgstr "Ajax の実行"
+
+#: DbCache_WpdbInjection_QueryCaching.php:704
+msgid "Doing cron"
+msgstr "Cron の実行"
+
+#: DbCache_WpdbInjection_QueryCaching.php:710
+msgid "wp-admin"
+msgstr "wp-admin"
+
+#: DbCache_WpdbInjection_QueryCaching.php:708
+msgid "XMLRPC request"
+msgstr "XMLRPC リクエスト"
+
+#: DbCache_WpdbInjection_QueryCaching.php:706
+msgid "Application request"
+msgstr "アプリケーションリクエスト"
+
+#: DbCache_WpdbInjection_QueryCaching.php:716
+msgid "User is logged in"
+msgstr "ユーザーはログイン中です"
+
+#: DbCache_WpdbInjection_QueryCaching.php:714
+msgid "Query is rejected"
+msgstr "クエリーが拒否されました"
+
+#: Extension_NewRelic_Service.php:166
+msgid "Account ID is not configured."
+msgstr "アカウント ID が設定されていません。"
+
+#: Extension_NewRelic_Plugin.php:158
+msgid "logged in role is rejected"
+msgstr "ログイン中の権限グループが拒否されました"
+
+#: Extension_NewRelic_Plugin.php:148
+msgid "DONOTAUTORUM constant is defined"
+msgstr "DONOTAUTORUM 定数を定義済み"
+
+#: Extension_NewRelic_Plugin.php:138 Extension_Swarmify_Plugin.php:104
+msgid "DOING_AJAX constant is defined"
+msgstr "DOING_AJAX 定数が定義を定義済み"
+
+#: ObjectCache_WpObjectCache_Regular.php:906
+msgid "DONOTCACHEOBJECT constant is defined"
+msgstr "DONOTCACHEOBJECT 定数を定義済み"
+
+#: ObjectCache_WpObjectCache_Regular.php:904
+msgid "Object caching is disabled"
+msgstr "オブジェクトキャッシュを無効化中"
+
+#: inc/popup/pagespeed_results.php:48
+msgid "Resolution:"
+msgstr "解像度:"
+
+#: inc/popup/cdn_rename_domain.php:43
+msgid "e.g.: domain.com"
+msgstr "例: domain.com"
+
+#: inc/popup/cdn_rename_domain.php:40
+msgid "Domains to rename:"
+msgstr "名前を変更するドメイン:"
+
+#: Generic_Plugin_Admin.php:670
+msgid "Pull Zone could not be automatically created."
+msgstr "プルゾーンを自動的に作成できませんでした。"
+
+#: Generic_Plugin_Admin.php:655
+msgid "Please describe the issue in the issue description field."
+msgstr "問題の説明欄に内容を記入してください。"
+
+#: Generic_Plugin_AdminRowActions.php:36 Generic_Plugin_AdminRowActions.php:55
+#: Generic_Plugin_AdminRowActions.php:74
+msgid "Purge from cache"
+msgstr "キャッシュから削除する"
+
+#: Generic_Plugin_Admin.php:684
+msgid "Media Query string has been successfully updated."
+msgstr "メディアクエリ文字列を更新しました。"
+
+#: Licensing_Plugin_Admin.php:208
+msgid "The W3 Total Cache license key is activated for this site."
+msgstr "このサイトで W3 Total Cache ライセンスキーが有効化されています。"
+
+#: Licensing_Plugin_Admin.php:204
+msgid "The W3 Total Cache license key is deactivated for this site."
+msgstr "このサイトで W3 Total Cache ライセンスキーが無効化されています。"
+
+#: Licensing_Plugin_Admin.php:188
+msgid "The W3 Total Cache license key can't be verified."
+msgstr "W3 Total Cache ライセンスキーを検証できません。"
+
+#: Licensing_Plugin_Admin.php:177
+msgid "The W3 Total Cache license key is not active for this site."
+msgstr "このサイトで W3 Total Cache ライセンスキーが有効化されていません。"
+
+#: Licensing_Plugin_Admin.php:185
+msgid "The W3 Total Cache license key is not active."
+msgstr "W3 Total Cache ライセンスキーが有効化されていません。"
+
+#: Licensing_Plugin_Admin.php:173
+msgid "The W3 Total Cache license key you entered is not valid."
+msgstr "入力された W3 Total Cache ライセンスキーは無効です。"
+
+#: Generic_Environment.php:101 ObjectCache_Environment.php:126
+msgid "Yes, remove it for me"
+msgstr "はい、削除してください"
+
+#: DbCache_Environment.php:124
+msgid "Remove it for me"
+msgstr "削除してください"
+
+#: DbCache_WpdbInjection_QueryCaching.php:700
+msgid "Request URI is rejected"
+msgstr "リクエストされた URI は拒否されました"
+
+#: DbCache_WpdbInjection_QueryCaching.php:696
+msgid "DONOTCACHEDB constant is defined"
+msgstr "DONOTCACHEDB 定数は定義済みです"
+
+#: DbCache_WpdbInjection_QueryCaching.php:679
+msgid "Request-wide"
+msgstr "リクエスト全体"
+
+#: Cli.php:427
+msgid "PageCache Garbage cleanup triggered successfully."
+msgstr "PageCache ガベージクリーンアップをトリガーしました。"
+
+#: Cli.php:411
+msgid "Files deleted successfully."
+msgstr "ファイルを削除しました。"
+
+#: Cli.php:404
+msgid "Files did not successfully delete with message: "
+msgstr "ファイルを削除できませんでした。メッセージは以下の通りです。"
+
+#: Cli.php:368
+msgid "Files purged successfully."
+msgstr "ファイルを正常にパージしました。"
+
+#: Cli.php:339
+msgid "The query string was updated successfully."
+msgstr "クエリ文字列を更新しました。"
+
+#: Cli.php:164
+msgid "The page cache is flushed successfully."
+msgstr "ページキャッシュをフラッシュしました。"
+
+#: Cli.php:162
+msgid "Flushing the page cache failed."
+msgstr "ページキャッシュのフラッシュに失敗しました。"
+
+#: Cli.php:141 Cli.php:153
+msgid "The page is flushed from cache successfully."
+msgstr "このページは正常にキャッシュからフラッシュされました。"
+
+#: Cli.php:139 Cli.php:151
+msgid "Flushing the page from cache failed."
+msgstr "ページのキャッシュからのフラッシュに失敗しました。"
+
+#: Cli.php:129
+msgid "The object cache is flushed successfully."
+msgstr "オブジェクトキャッシュをフラッシュしました。"
+
+#: Cli.php:127
+msgid "Flushing the object cache failed."
+msgstr "オブジェクトキャッシュのフラッシュに失敗しました。"
+
+#: Cli.php:107
+msgid "The DB cache is flushed successfully."
+msgstr "DB キャッシュをフラッシュしました。"
+
+#: Cli.php:105
+msgid "Flushing the DB cache failed."
+msgstr "DB キャッシュのフラッシュに失敗しました。"
+
+#: Cdn_Environment.php:152
+msgid "CDN module: Required Database SQL"
+msgstr "CDN モジュール: 必須データベース SQL"
+
+#: CdnEngine_Mirror_MaxCdn.php:96 CdnEngine_Mirror_MaxCdn.php:166
+#: CdnEngine_Mirror_StackPath.php:68 CdnEngine_Mirror_StackPath.php:108
+#: CdnEngine_Mirror_StackPath2.php:54 CdnEngine_Mirror_StackPath2.php:87
+msgid "Failure to pull zone: "
+msgstr "ゾーン引き失敗: "
+
+#: CdnEngine_Mirror_MaxCdn.php:92 CdnEngine_Mirror_MaxCdn.php:161
+msgid "Failed with error code "
+msgstr "失敗しました。エラーコードあり。"
+
+#: CdnEngine_Mirror_Cotendo.php:48
+msgid "Empty zones list."
+msgstr "空のゾーンリスト。"
+
+#: Generic_Plugin_AdminCompatibility.php:97
+msgid "The following plugins are not compatible with W3 Total Cache and will cause unintended results:"
+msgstr "以下のプラグインは W3 Total Cache と互換性がなく、予期しない結果が発生するでしょう。"
+
+#: Generic_AdminActions_Test.php:106
+msgid "Empty JAR file path."
+msgstr "空の JAR ファイルパス。"
+
+#: Generic_AdminActions_Test.php:81
+msgid "Test failed."
+msgstr "テスト失敗。"
+
+#: Generic_AdminActions_Test.php:76
+msgid "Test passed."
+msgstr "テスト合格。"
+
+#: Cdn_AdminActions.php:313 Cdn_AdminActions.php:326
+msgid "Content Delivery Network (CDN): Purge Tool"
+msgstr "コンテンツ配信ネットワーク (CDN): パージツール"
+
+#: Cdn_AdminActions.php:257
+msgid "Custom files export"
+msgstr "カスタムファイルのエクスポート"
+
+#: Cdn_AdminActions.php:251
+msgid "Minify files export"
+msgstr "圧縮ファイルのエクスポート"
+
+#: Cdn_AdminActions.php:246
+msgid "Theme files export"
+msgstr "テーマファイルのエクスポート"
+
+#: Cdn_AdminActions.php:241
+msgid "Includes files export"
+msgstr "インクルードファイルのエクスポート"
+
+#: Cdn_AdminActions.php:195
+msgid "Modify attachment URLs"
+msgstr "添付ファイルの URL を変更"
+
+#: Extension_NewRelic_Widget_View_Apm.php:60
+msgid "PHP agent:"
+msgstr "PHP エージェント:"
+
+#: Extension_NewRelic_Widget_View_Apm.php:45
+msgid "Web Transaction times"
+msgstr "Web トランザクション時間"
+
+#: Extension_NewRelic_Widget_View_Apm.php:37
+msgid "Top 5 slowest times"
+msgstr "最も遅い時間のトップ5"
+
+#: Cdn_Plugin_WidgetMaxCdn_View_Unauthorized.php:14
+#: Cdn_StackPath2_Widget_View_Unauthorized.php:28
+#: Cdn_StackPath_Widget_View_Unauthorized.php:14
+#: Extension_Swarmify_Widget_View_NotConfigured.php:14
+msgid "Current customers"
+msgstr "現在のお客様"
+
+#: Extension_Swarmify_Widget_View_NotConfigured.php:11
+msgid "Swarmify is a service that lets you speed up your site even more with W3 Total Cache."
+msgstr "MaxCDN は、W3 Total Cache でさらにサイトをスピードアップできるサービスです。"
+
+#: Cdn_Plugin_WidgetMaxCdn_View_Unauthorized.php:10
+#: Cdn_StackPath_Widget_View_Unauthorized.php:10
+#: Extension_Swarmify_Widget_View_NotConfigured.php:10
+msgid "New customers"
+msgstr "新規のお客様"
+
+#: inc/popup/pagespeed_results.php:58
+msgid "Refresh Analysis"
+msgstr "分析を更新"
+
+#: inc/popup/pagespeed_results.php:56
+msgid "Unable to fetch Page Speed results."
+msgstr "Page Speed の結果を取得できません。"
+
+#: inc/popup/pagespeed_results.php:17
+msgid "Refresh analysis"
+msgstr "分析を更新"
+
+#: inc/popup/pagespeed_results.php:11
+msgid "Page Speed Score:"
+msgstr "Page Speed スコア:"
+
+#: Cdn_Core_Admin.php:701
+msgid "Purge from CDN"
+msgstr "CDN からパージ"
+
+#: CdnEngine_Mirror_MaxCdn.php:71 CdnEngine_Mirror_MaxCdn.php:147
+msgid "No zones match site: %s."
+msgstr "サイトに一致するゾーンがありません: %s。"
+
+#: Generic_Plugin_Admin.php:657
+msgid "Please enter WP Admin password, be sure it's spelled correctly."
+msgstr "WP の管理者パスワードを間違いなく入力してください。"
+
+#: Extension_NewRelic_Service.php:158 Extension_NewRelic_Service.php:168
+msgid "Application ID is not configured. Enter/Select application name."
+msgstr "アプリケーション ID が設定されていません。アプリケーション名を入力または選択してください。"
+
+#: Cli.php:143
+msgid "This is not a valid post id."
+msgstr "無効な投稿 ID です。"
+
+#: Extension_NewRelic_Widget_View_NotConfigured.php:8
+msgid "You have not configured API key and Account Id."
+msgstr "API キーおよびアカウント ID を設定していません。"
+
+#: Cli.php:402 Cli.php:409
+msgid "Files did not successfully delete with error %s"
+msgstr "ファイルが正常に削除されませんでした。エラー: %s"
+
+#: Cli.php:366
+msgid "Files did not successfully purge with error %s"
+msgstr "ファイルが正常にパージされませんでした。エラー: %s"
+
+#: Extension_NewRelic_Widget_View_Apm.php:64
+msgid "Subscription level:"
+msgstr "サブスクリプションレベル:"
+
+#: CdnEngine_Mirror_Akamai.php:55 CdnEngine_Mirror_Cotendo.php:63
+msgid "Constructor error (%s)."
+msgstr "コンストラクターエラー (%s)。"
+
+#: Cli.php:116
+msgid "Flushing the minify cache failed."
+msgstr "圧縮キャッシュのフラッシュに失敗しました。"
+
+#: Cli.php:118
+msgid "The minify cache is flushed successfully."
+msgstr "圧縮キャッシュのフラッシュに成功しました。"
+
+#: Extension_FragmentCache_WpObjectCache.php:530
+msgid "Fragment Caching %d/%d fragments using %s%s"
+msgstr "フラグメントキャッシュ %d/%d フラグメントが %s%s を使用中"
+
+#: Generic_Plugin_Admin.php:656
+msgid "Please enter an administrator login. Create a temporary one just for this support case if needed."
+msgstr "管理者ログインを入力してください。必要に応じて、このサポートケースのためだけに一時的なケースを作成します。"
+
+#: Generic_Plugin_Admin.php:658
+msgid "Please enter <acronym title=\"Secure Shell\">SSH</acronym> or <acronym title=\"File Transfer Protocol\">FTP</acronym> host for the site."
+msgstr "サイトの <acronym title=\"Secure Shell\">SSH</acronym>または<acronym title=\"File Transfer Protocol\">FTP</acronym> のホストを入力してください。"
+
+#: Extension_NewRelic_Plugin.php:206
+msgid "Application Monitoring using New Relic%s"
+msgstr "New Relic %s を使用してアプリケーション監視する"
+
+#: Cli.php:335
+msgid "updating the query string failed. with error %s"
+msgstr "クエリ文字列を更新することはできませんでした。エラー %s"
+
+#: Cdn_AdminActions.php:55
+msgid "Number of processed queue items: %d"
+msgstr "処理されたキュー項目数: %d"
+
+#: Cdn_AdminActions.php:48
+msgid "Queue successfully emptied."
+msgstr "キューを空にしました。"
+
+#: Cdn_AdminActions.php:40
+msgid "File successfully deleted from the queue."
+msgstr "ファイルをキューから削除しました。"
+
+#: Generic_AdminActions_Config.php:151
+msgid "Database Cluster configuration file has been successfully saved"
+msgstr "データベースクラスタ構成ファイルを保存しました"
+
+#: Generic_Plugin_Admin.php:659
+msgid "Please enter <acronym title=\"Secure Shell\">SSH</acronym> or <acronym title=\"File Transfer Protocol\">FTP</acronym> login for the server. Create a temporary one just for this support case if needed."
+msgstr "サーバーの <acronym title=\"Secure Shell\">SSH</acronym> または <acronym title=\"File Transfer Protocol\">FTP</acronym> ログインを入力してください。必要な場合は、このサポート案件のためだけの一時的なものを作成してください。"
+
+#: Generic_Plugin_Admin.php:660
+msgid "Please enter <acronym title=\"Secure Shell\">SSH</acronym> or <acronym title=\"File Transfer Protocol\">FTP</acronym> password for the <acronym title=\"File Transfer Protocol\">FTP</acronym> account."
+msgstr "<acronym title=\"File Transfer Protocol\">FTP</acronym> アカウントの <acronym title=\"Secure Shell\">SSH</acronym> または <acronym title=\"File Transfer Protocol\">FTP</acronym> パスワードを入力してください。"
+
+#: DbCache_WpdbInjection_QueryCaching.php:712
+msgid "Short init"
+msgstr "短い init"
+
+#: Extension_NewRelic_Service.php:176
+msgid "Configured license key does not match license key(s) in account: <br />%s <br />%s"
+msgstr "設定されたライセンスキーがアカウントのライセンスキーと一致しません: <br />%s <br />%s"
+
+#: Generic_Environment.php:99
+msgid ""
+"The Page Cache add-in file advanced-cache.php is not a W3 Total Cache drop-in.\n"
+"                    It should be removed. %s"
+msgstr "Page Cache アドインファイル advanced-cache.php は W3 Total Cache ドロップインではありません。削除する必要があります。%s"
+
+#: Extension_NewRelic_Service.php:97 Extension_NewRelic_Service.php:133
+msgid "Not Supported. (%s %s See %s page.)"
+msgstr "サポートされていません。(%s %s - %sページをご覧ください)"
+
+#: Generic_Plugin_Admin.php:669
+msgid "<strong>%swp-config.php</strong> could not be written, please edit config and add:<br /><strong style=\"color:#f00;\">define('COOKIE_DOMAIN', false);</strong> before <strong style=\"color:#f00;\">require_once(ABSPATH . 'wp-settings.php');</strong>."
+msgstr "<strong>>%swp-config.php</strong> に書き込めませんでした。設定を編集して以下を追加してください:<br /> <strong style=\"color:#f00;\">require_once(ABSPATH . 'wp-settings.php');</strong> の前に <strong style=\"color:#f00;\">define('COOKIE_DOMAIN', false);</strong>。"
+
+#: Generic_Plugin_Admin.php:668
+msgid "<strong>%swp-config.php</strong> could not be written, please edit config and add:<br /><strong style=\"color:#f00;\">define('COOKIE_DOMAIN', '%s');</strong> before <strong style=\"color:#f00;\">require_once(ABSPATH . 'wp-settings.php');</strong>."
+msgstr "<strong>>%swp-config.php</strong> に書き込めませんでした。設定を編集して以下を追加してください:<br /> <strong style=\"color:#f00;\">require_once(ABSPATH . 'wp-settings.php');</strong> の前に <strong style=\"color:#f00;\">define('COOKIE_DOMAIN', '%s');</strong>。"
+
+#: Generic_Plugin_Admin.php:650
+msgid "Please enter the address of the site in the site <acronym title=\"Uniform Resource Locator\">URL</acronym> field."
+msgstr "サイト <acronym title=\"Uniform Resource Locator\">URL</acronym> フィールドにサイトのアドレスを入力してください。"
+
+#: Generic_Plugin_Admin.php:647
+msgid "Fancy permalinks are disabled. Please %s it first, then re-attempt to enabling the 'Do not process 404 errors for static objects with WordPress'."
+msgstr "「プリティ」パーマリンクは無効になっています。最初に%sしてから「静的オブジェクトの404エラーを WordPress で処理しない」を有効化してください。"
+
+#: Generic_Plugin_Admin.php:692
+msgid "Preview settings successfully deployed. Preview mode remains enabled until it's disabled. Continue testing new settings or disable preview mode if done."
+msgstr "プレビュー設定が正常に展開されました。プレビューモードは無効化されるまで有効なままです。新しい設定のテストを続行するか、完了したらプレビューモードを無効化してください。"
+
+#: Generic_Plugin_Admin.php:665
+msgid "Default settings could not be restored. Please run <strong>chmod 777 %s</strong> to make the configuration file write-able, then try again."
+msgstr "デフォルト設定を復元できませんでした。<strong>chmod 777 %s</strong> を実行して設定ファイルを書き込み可能にしてから、もう一度お試しください。"
+
+#: Generic_Plugin_Admin.php:646
+msgid "Fancy permalinks are disabled. Please %s it first, then re-attempt to enabling enhanced disk mode."
+msgstr "「プリティ」パーマリンクは無効になっています。最初に%sしてから拡張ディスクモードの有効化をもう一度お試しください。"
+
+#: inc/popup/cdn_rename_domain.php:17
+msgid "This tool allows you to modify the URL of Media Library attachments. Use it if the \"WordPress address (<acronym title=\"Uniform Resource Indicator\">URL</acronym>)\" value has been changed in the past."
+msgstr "このツールを使うとメディアライブラリの添付ファイルの URL を変更できます。 \"WordPress アドレス (<acronym title=\"Uniform Resource Indicator\">URL</acronym>)\" の値が過去に変更されている場合に使用してください。"
+
+#: ObjectCache_Environment.php:124
+msgid ""
+"The Object Cache add-in file object-cache.php is not a W3 Total Cache drop-in.\n"
+"                    Remove it or disable Object Caching. %s"
+msgstr ""
+"オブジェクトキャッシュのアドインファイル object-cache.php は W3 Total Cache ドロップインではありません。\n"
+"削除するか、オブジェクトキャッシュを無効化してください。%s"
+
+#: DbCache_Environment.php:122
+msgid ""
+"The Database add-in file db.php is not a W3 Total Cache drop-in.\n"
+"                    Remove it or disable Database Caching. %s"
+msgstr ""
+"データベースのアドインファイル db.php は W3 Total Cache ドロップインではありません。\n"
+"削除するか、データベースキャッシュを無効化してください。%s"
+
+#: Extension_NewRelic_Widget_View_Browser.php:11
+msgid "Upgrade your New Relic account to enable more metrics."
+msgstr "さらに多くの測定基準を有効化するには New Relic アカウントをアップグレードしてください。"
+
+#: CdnEngine_Mirror_MaxCdn.php:90
+msgid "Failed with error code %s Please check your alias, consumer key, and private key."
+msgstr "エラーコード %s で失敗しました。エイリアス、コンシューマー・キー、プライベートキーを確認してください。"
+
+#: CdnEngine_Mirror_MaxCdn.php:159
+msgid "Failed with error code %s. Please check your alias, consumer key, and private key."
+msgstr "エラーコード %s で失敗しました。エイリアス、コンシューマー・キー、プライベートキーを確認してください。"
+
+#: Generic_Plugin.php:334 Root_AdminMenu.php:113 Root_AdminMenu.php:114
+msgid "Support"
+msgstr "サポート"
+
+#: Cdn_StackPath2_Widget_View_Authorized.php:23
+msgid "Report - 7 days"
+msgstr "レポート - 7日間"
+
+#: Extension_CloudFlare_Popup_View_Zones.php:23
+msgid "Select zone"
+msgstr "ゾーンを選択"
+
+#: SetupGuide_Plugin_Admin.php:1191
+msgid "Test Database Cache"
+msgstr "データベースキャッシュをテスト"
+
+#: Generic_AdminActions_Config.php:57
+msgid "Content-Disposition: attachment; filename=%s.json"
+msgstr "Content-Disposition: attachment; filename=%s.json"
+
+#: Cdn_AdminActions.php:402
+msgid "Incorrect engine "
+msgstr "不正なエンジン"
+
+#: Cli.php:381
+msgid " is not supported. Change to SNS or local to delete opcache files"
+msgstr "はサポートされていません。OPcache ファイルを削除するには、SNS またはローカルに変更してください"
+
+#: inc/popup/cdn_queue.php:24 inc/popup/cdn_queue.php:57
+#: inc/popup/cdn_queue.php:87
+msgid "Date"
+msgstr "日付"
+
+#: inc/options/general.php:620
+msgid "Upload"
+msgstr "アップロード"
+
+#: inc/options/general.php:627
+msgid "Download"
+msgstr "ダウンロード"
+
+#: inc/options/minify/csstidy2.php:22 SetupGuide_Plugin_Admin.php:932
+msgid "None"
+msgstr "なし"
+
+#: inc/popup/cdn_export_file.php:35 inc/popup/cdn_export_library.php:28
+#: inc/popup/cdn_import_library.php:29 inc/popup/cdn_rename_domain.php:28
+msgid "Status:"
+msgstr "状態:"
+
+#: inc/options/common/header.php:158 inc/options/install.php:41
+msgid "Other"
+msgstr "その他"
+
+#: inc/options/general.php:634
+msgid "Restore Default Settings"
+msgstr "デフォルトの設定を復元"
+
+#: inc/popup/cdn_export_file.php:49 inc/popup/cdn_export_library.php:42
+#: inc/popup/cdn_import_library.php:59 inc/popup/cdn_rename_domain.php:49
+msgid "Start"
+msgstr "Start"
+
+#: inc/options/general.php:544
+msgid "Debug mode:"
+msgstr "デバッグモード:"
+
+#: Extension_FragmentCache_Page_View.php:14
+#: Extension_FragmentCache_Page_View.php:55
+#: Extension_NewRelic_Widget_View_Apm.php:14
+msgid "Overview"
+msgstr "概要"
+
+#: CacheGroups_Plugin_Admin_View.php:181
+msgid "Delete group"
+msgstr "グループを削除"
+
+#: Generic_WidgetServices_View.php:33
+msgid "Buy now"
+msgstr "今すぐ購入"
+
+#: inc/popup/cdn_export_file.php:27
+msgid "Total files:"
+msgstr "合計ファイル数 :"
+
+#: inc/popup/cdn_export_file.php:31 inc/popup/cdn_export_library.php:24
+#: inc/popup/cdn_import_library.php:25 inc/popup/cdn_rename_domain.php:24
+msgid "Processed:"
+msgstr "処理済み:"
+
+#: inc/options/general.php:499
+msgid "Enable file locking"
+msgstr "ファイルロックを有効化"
+
+#: inc/options/general.php:632
+msgid "Reset configuration:"
+msgstr "設定をリセット:"
+
+#: inc/options/common/header.php:155
+msgid "Rewrite Rules"
+msgstr "リライトルール"
+
+#: inc/options/minify/csstidy2.php:23
+msgid "Lowercase"
+msgstr "小文字"
+
+#: inc/options/minify/csstidy2.php:24
+msgid "Uppercase"
+msgstr "大文字"
+
+#: inc/options/minify.php:31
+msgid "help"
+msgstr "ヘルプ"
+
+#: CacheGroups_Plugin_Admin_View.php:78 CacheGroups_Plugin_Admin_View.php:195
+#: inc/options/minify.php:279 inc/options/minify.php:436
+msgid "Theme:"
+msgstr "テーマ:"
+
+#: CacheGroups_Plugin_Admin_View.php:54 CacheGroups_Plugin_Admin_View.php:178
+#: CacheGroups_Plugin_Admin_View.php:256
+msgid "Group name:"
+msgstr "グループ名:"
+
+#: Extension_NewRelic_Page_View_Apm.php:24
+msgid "Application Settings"
+msgstr "アプリケーション設定"
+
+#: inc/options/pgcache.php:318
+msgid "Charset:"
+msgstr "文字セット:"
+
+#: Extension_NewRelic_Page_View_Apm.php:103
+msgid "Dashboard Settings"
+msgstr "ダッシュボードの設定"
+
+#: CacheGroups_Plugin_Admin_View.php:109
+msgid "User agents:"
+msgstr "ユーザーエージェント:"
+
+#: CacheGroups_Plugin_Admin_View.php:39 CacheGroups_Plugin_Admin_View.php:164
+#: CacheGroups_Plugin_Admin_View.php:242
+msgid "Create a group"
+msgstr "グループを作成"
+
+#: inc/options/minify.php:171
+msgid "Operations in areas:"
+msgstr "エリアの操作:"
+
+#: inc/options/minify.php:68
+msgid "Email Notification"
+msgstr "メールで通知する"
+
+#: inc/options/minify.php:67
+msgid "Admin Notification"
+msgstr "管理者への通知"
+
+#: inc/options/minify/yuijs2.php:16 Minify_ConfigLabels.php:42
+#: Minify_ConfigLabels.php:77
+msgid "Path to JAR file:"
+msgstr "JAR ファイルへのパス:"
+
+#: inc/options/minify/yuijs2.php:9 Minify_ConfigLabels.php:41
+#: Minify_ConfigLabels.php:76
+msgid "Path to JAVA executable:"
+msgstr "JAVA 実行可能ファイルへのパス:"
+
+#: inc/options/minify/csstidy2.php:16
+msgid "Safe optimisations"
+msgstr "安全な最適化"
+
+#: inc/options/minify/csstidy2.php:10
+msgid "Standard (balance between readability and size)"
+msgstr "標準 (読みやすさとサイズのバランス)"
+
+#: inc/options/minify/ccjs2.php:10 inc/options/minify/googleccjs2.php:10
+msgid "Advanced optimizations"
+msgstr "高度な最適化"
+
+#: inc/options/general.php:617
+msgid "Import configuration:"
+msgstr "構成のインポート:"
+
+#: inc/popup/cdn_import_library.php:21 inc/popup/cdn_rename_domain.php:20
+msgid "Total posts:"
+msgstr "合計投稿数:"
+
+#: inc/options/minify.php:180
+msgid "Before <span class=\"html-tag\">&lt;/head&gt;"
+msgstr "<span class=\"html-tag\">&lt;/head&gt;の前"
+
+#: CacheGroups_Plugin_Admin_View.php:218 Generic_ConfigLabels.php:20
+msgid "Referrers:"
+msgstr "リファラー:"
+
+#: inc/popup/cdn_queue.php:106
+msgid "Purge queue is empty"
+msgstr "パージキューが空です"
+
+#: inc/popup/cdn_queue.php:103
+msgid "Empty purge queue"
+msgstr "パージキューを空にする"
+
+#: inc/popup/cdn_queue.php:76
+msgid "Delete queue is empty"
+msgstr "削除キューが空です"
+
+#: inc/popup/cdn_queue.php:73
+msgid "Empty delete queue"
+msgstr "削除キューを空にする"
+
+#: inc/popup/cdn_queue.php:46
+msgid "Upload queue is empty"
+msgstr "アップロードキューが空です"
+
+#: inc/popup/cdn_queue.php:43
+msgid "Process CDN queue now"
+msgstr "CDN キューを今すぐ処理"
+
+#: inc/popup/cdn_queue.php:40
+msgid "Empty upload queue"
+msgstr "アップロードキューを空にする"
+
+#: inc/popup/cdn_queue.php:23 inc/popup/cdn_queue.php:56
+#: inc/popup/cdn_queue.php:86
+msgid "Last Error"
+msgstr "前回のエラー"
+
+#: inc/popup/cdn_queue.php:22 inc/popup/cdn_queue.php:55
+#: inc/popup/cdn_queue.php:85
+msgid "Remote Path"
+msgstr "リモートパス"
+
+#: inc/popup/cdn_queue.php:21 inc/popup/cdn_queue.php:54
+#: inc/popup/cdn_queue.php:84
+msgid "Local Path"
+msgstr "ローカルパス"
+
+#: inc/popup/cdn_queue.php:14
+msgid "Purge queue"
+msgstr "キューをパージ"
+
+#: inc/popup/cdn_queue.php:13
+msgid "Delete queue"
+msgstr "キューを削除"
+
+#: inc/popup/cdn_queue.php:12
+msgid "Upload queue"
+msgstr "アップロードキュー"
+
+#: inc/popup/cdn_purge.php:35
+msgid "Files to purge:"
+msgstr "パージするファイル:"
+
+#: inc/popup/cdn_export_file.php:43 inc/popup/cdn_export_library.php:36
+#: inc/popup/cdn_import_library.php:37 inc/popup/cdn_rename_domain.php:36
+msgid "Last response:"
+msgstr "前回のレスポンス:"
+
+#: inc/popup/cdn_export_file.php:39 inc/popup/cdn_export_library.php:32
+#: inc/popup/cdn_import_library.php:33 inc/popup/cdn_rename_domain.php:32
+msgid "Time elapsed:"
+msgstr "経過時間:"
+
+#: Extension_NewRelic_Page_View_Apm.php:122 Extension_Swarmify_Page_View.php:44
+msgid "Behavior Settings"
+msgstr "動作設定"
+
+#: CacheGroups_Plugin_Admin_View.php:65 CacheGroups_Plugin_Admin_View.php:186
+#: CacheGroups_Plugin_Admin_View.php:269
+msgid "Enabled:"
+msgstr "有効化済み:"
+
+#: inc/options/minify.php:485
+msgid "Add a style sheet"
+msgstr "スタイルシートを追加"
+
+#: inc/options/minify.php:432
+msgid "<acronym title=\"Cascading Style Sheet\">CSS</acronym> file management:"
+msgstr "<acronym title=\"Cascading Style Sheet\">CSS</acronym> ファイル管理:"
+
+#: inc/options/minify.php:336
+msgid "Add a script"
+msgstr "スクリプトを追加"
+
+#: inc/options/minify.php:335
+msgid "No <acronym title=\"JavaScript\">JS</acronym> files added"
+msgstr "<acronym title=\"JavaScript\">JS</acronym> ファイルは追加されませんでした"
+
+#: inc/options/minify.php:275
+msgid "<acronym title=\"JavaScript\">JS</acronym> file management:"
+msgstr "<acronym title=\"JavaScript\">JS</acronym> ファイル管理:"
+
+#: inc/options/minify.php:195 inc/options/minify.php:214
+#: inc/options/minify.php:232
+msgid "Non-blocking using \"asyncsrc\""
+msgstr "\"asyncsrc\" を使用した非ブロック"
+
+#: inc/options/minify.php:194 inc/options/minify.php:213
+#: inc/options/minify.php:231
+msgid "Non-blocking using \"extsrc\""
+msgstr "\"extsrc\" を使用した非ブロック"
+
+#: inc/options/minify.php:192 inc/options/minify.php:211
+#: inc/options/minify.php:230
+msgid "Non-blocking using \"defer\""
+msgstr "“defer” を使用した非ブロック"
+
+#: inc/options/minify.php:191 inc/options/minify.php:210
+#: inc/options/minify.php:229
+msgid "Non-blocking using \"async\""
+msgstr "“async” を使用した非ブロック"
+
+#: inc/options/minify.php:190 inc/options/minify.php:209
+#: inc/options/minify.php:228
+msgid "Non-blocking using JS"
+msgstr "JS を使用した非ブロック"
+
+#: inc/options/minify.php:189 inc/options/minify.php:208
+#: inc/options/minify.php:227
+msgid "Default (blocking)"
+msgstr "デフォルト (ブロック)"
+
+#: inc/options/minify.php:112
+msgid "Do not remove comments that contain these terms."
+msgstr "これらの語句を含むコメントは削除しない。"
+
+#: inc/options/minify.php:84
+msgid "<acronym title=\"Hypertext Markup Language\">HTML</acronym> minify settings:"
+msgstr "<acronym title=\"Hypertext Markup Language\">HTML</acronym> 圧縮設定:"
+
+#: inc/options/minify.php:72
+msgid "Notify when minify cache creation errors occur."
+msgstr "圧縮キャッシュの作成に失敗した時に通知を送信する。"
+
+#: inc/options/minify.php:69
+msgid "Both Admin &amp; Email Notification"
+msgstr "管理通知とメール通知の両方"
+
+#: inc/options/minify.php:32
+msgid "wizard."
+msgstr "ウィザード。"
+
+#: inc/options/minify/yuijs2.php:34
+msgid "symbols (set to 0 to disable)"
+msgstr "シンボル (無効化するには0に設定)"
+
+#: inc/options/minify/yuicss2.php:37 inc/options/minify/yuijs2.php:25
+msgid "Test YUI Compressor"
+msgstr "YUI Compressor をテスト"
+
+#: inc/options/minify/csstidy2.php:29
+msgid "Only seperate selectors (split at ,)"
+msgstr "セレクタのみを区切る (“,” で分割)"
+
+#: inc/options/minify/csstidy2.php:28
+msgid "Do not change anything"
+msgstr "何も変更しない"
+
+#: inc/options/minify/csstidy2.php:18
+msgid "All optimisations"
+msgstr "すべての最適化"
+
+#: inc/options/minify/csstidy2.php:15
+msgid "Don't optimise"
+msgstr "最適化しない"
+
+#: inc/options/minify/csstidy2.php:11
+msgid "Low (higher readability)"
+msgstr "低 (読みやすい)"
+
+#: inc/options/minify/csstidy2.php:9
+msgid "High (moderate readability, smaller size)"
+msgstr "高 (適度な読みやすさ、小さいサイズ)"
+
+#: inc/options/minify/csstidy2.php:8
+msgid "Highest (no readability, smallest size)"
+msgstr "最高 (読みにくい、最小サイズ)"
+
+#: inc/options/minify/ccjs2.php:50 inc/options/minify/googleccjs2.php:18
+msgid "Test Closure Compiler"
+msgstr "Closure コンパイラをテスト"
+
+#: inc/options/minify/ccjs2.php:9 inc/options/minify/googleccjs2.php:9
+msgid "Simple optimizations"
+msgstr "シンプルな最適化"
+
+#: inc/options/minify/ccjs2.php:8 inc/options/minify/googleccjs2.php:8
+msgid "Whitespace only"
+msgstr "余白のみ"
+
+#: inc/options/general.php:625
+msgid "Export configuration:"
+msgstr "構成のエクスポート:"
+
+#: inc/options/general.php:621
+msgid "Upload and replace the active settings file."
+msgstr "アップロードして有効な設定ファイルを置き換えます。"
+
+#: inc/options/minify.php:361
+msgid "<acronym title=\"Cascading Style Sheet\">CSS</acronym> minify settings:"
+msgstr "<acronym title=\"カスケーディングスタイルシート\">CSS</acronym> 圧縮設定:"
+
+#: CacheGroups_Plugin_Admin_View.php:199
+msgid "-- Pass-through --"
+msgstr "-- 通過 --"
+
+#: inc/options/pgcache.php:243
+msgid "Specify a regular expression that matches your sitemaps."
+msgstr "サイトマップに一致する正規表現を指定してください。"
+
+#: inc/options/pgcache.php:236
+msgid "Specify additional pages to purge. Including parent page in path. Ex: parent/posts."
+msgstr "パージする追加のページを指定してください。親ページもパスに含めます。例: parents/posts"
+
+#: inc/options/objectcache.php:69
+msgid "Groups that should not be cached."
+msgstr "キャッシュしないグループ。"
+
+#: inc/options/objectcache.php:61
+msgid "Groups shared amongst sites in network mode."
+msgstr "サイトネットワークモード内のサイト間で共有されているグループ。"
+
+#: CacheGroups_Plugin_Admin_View.php:96 CacheGroups_Plugin_Admin_View.php:209
+msgid "Redirect users to:"
+msgstr "ユーザーのリダイレクト先:"
+
+#: inc/options/pgcache.php:171
+msgid "Purge Policy: "
+msgstr "ポリシーをパージ:"
+
+#: inc/options/pgcache.php:379
+msgid "Never send cache pages for these user agents."
+msgstr "これらのユーザーエージェントにキャッシュページを送信しない。"
+
+#: inc/options/pgcache.php:388
+msgid "Never cache pages that use the specified cookies."
+msgstr "指定した Cookie を使用するページはキャッシュしない。"
+
+#: Extension_FragmentCache_Page_View.php:48
+msgid "Empty the entire cache"
+msgstr "キャッシュ全体を空にする"
+
+#: inc/options/pgcache.php:326
+msgid "Reject HEAD requests:"
+msgstr "HEAD リクエストを拒否:"
+
+#: inc/options/minify.php:30
+msgid "Get minify hints using the"
+msgstr "利用して圧縮ヒントを取得:"
+
+#: inc/options/install.php:28
+msgid "Check out the <acronym title=\"Frequently Asked Questions\">FAQ</acronym> for more details on <a href=\"admin.php?page=w3tc_faq\">usage</a>"
+msgstr "<a href=\"admin.php?page=w3tc_faq\">使用法</a>の詳細については、<acronym title=\"Frequently Asked Questions\">FAQ</ acronym> をご覧ください。"
+
+#: Extension_FragmentCache_Page_View.php:58
+msgid "Registered fragment groups:"
+msgstr "登録済みのフラグメントグループ:"
+
+#: inc/options/pgcache.php:136
+msgid "The number of seconds to wait before creating another set of cached pages."
+msgstr "別のキャッシュ済みページセットを作成する前に待機する秒数。"
+
+#: inc/options/pgcache.php:81
+msgid "Select user roles that should not receive cached pages:"
+msgstr "キャッシュされたページを受け取らない権限グループを選択:"
+
+#: Extension_FragmentCache_Page_View.php:71
+msgid "No groups have been registered."
+msgstr "グループは登録されていません。"
+
+#: inc/popup/cdn_purge.php:19
+msgid "all files in the directory whose extension is \"jpg\"."
+msgstr "拡張子が「jpg」の、ディレクトリ内のすべてのファイル。"
+
+#: Extension_CloudFlare_Page_View.php:28
+#: Extension_FragmentCache_Page_View.php:49
+msgid "if needed."
+msgstr "必要な場合。"
+
+#: Extension_FragmentCache_Page_View.php:69
+msgid "The groups above will be flushed upon setting changes."
+msgstr "上記のグループは設定の変更時にフラッシュされます。"
+
+#: inc/options/pgcache.php:473
+msgid "Specify additional page headers to cache."
+msgstr "キャッシュする追加ページヘッダーを指定してください。"
+
+#: inc/options/minify.php:22
+msgid "Minify via %s is currently %s."
+msgstr "%s 経由の圧縮は現在%sです。"
+
+#: inc/options/pgcache.php:13
+msgid "Page caching via %1$s is currently %2$s"
+msgstr "%1$s 経由のページキャッシュは現在%2$sです"
+
+#: inc/options/objectcache.php:13
+msgid "Object caching via %1$s is currently %2$s"
+msgstr "%1$s 経由のオブジェクトキャッシュは現在%2$sです"
+
+#: inc/options/minify.php:58
+msgid "Authenticated users will not receive minified pages if this option is enabled."
+msgstr "このオプションを有効にすると、認証済みユーザーは圧縮済みページを受信しません。"
+
+#: inc/options/pgcache.php:283
+msgid "Late initialization:"
+msgstr "後期の初期化:"
+
+#: inc/popup/cdn_queue.php:10
+msgid "This tool lists the pending file uploads and deletions."
+msgstr "このツールでは、保留中のファイルのアップロードや削除が一覧表示されます。"
+
+#: inc/popup/cdn_export_library.php:20
+msgid "Total media library attachments:"
+msgstr "メディアライブラリの添付ファイル合計:"
+
+#: inc/options/pgcache.php:321
+msgid "Resolve issues incorrect odd character encoding that may appear in cached pages."
+msgstr "不適切でおかしな文字エンコードがキャッシュされたページがキャッシュ済みページに表示されるかもしれない問題を解決します。"
+
+#: inc/options/pgcache.php:145
+msgid "Limit the number of pages to create per batch. Fewer pages may be better for under-powered servers."
+msgstr "バッチ枚に作成するページの数を制限します。非力なサーバーでは少ないページのほうが良いかもしれません。"
+
+#: inc/options/minify.php:26
+msgid "To rebuild the minify cache use the %s operation."
+msgstr "圧縮キャッシュを再構築には、%s 操作を使用してください。"
+
+#: inc/options/minify/csstidy2.php:30
+msgid "Merge selectors with the same properties (fast)"
+msgstr "同じプロパティを持つセレクターをまとめる (高速)"
+
+#: inc/options/install.php:14
+msgid "Set the permissions of wp-content/ back to 755, e.g.:"
+msgstr "wp-content/ のパーミッションを755に戻してください。例:"
+
+#: inc/options/general.php:628
+msgid "Download the active settings file."
+msgstr "有効な設定ファイルをダウンロードしてください。"
+
+#: inc/options/pgcache.php:49
+msgid "Even if using a feed proxy service (like <a href=\"http://en.wikipedia.org/wiki/FeedBurner\" target=\"_blank\">FeedBurner</a>), enabling this option is still recommended."
+msgstr "フィードプロキシサービス (<a href=\"http://ja.wikipedia.org/wiki/FeedBurner\" target=\"_blank\">FeedBurner</a> など) を使用している場合でも、このオプションを有効化することをおすすめします。"
+
+#: CacheGroups_Plugin_Admin.php:48 CacheGroups_Plugin_Admin_View.php:336
+msgid "Per the above, make sure that visitors are notified about the cookie as per any regulations in your market."
+msgstr "上記により、マーケットの規制に従って訪問者に対して Cookie について通知しているかどうか確認してください。"
+
+#: CacheGroups_Plugin_Admin_View.php:124
+msgid "No groups added. All user agents recieve the same page and minify cache results."
+msgstr "グループは追加されませんでした。すべてのユーザーエージェントは同じページを受信し、キャッシュ結果を圧縮します。"
+
+#: Extension_NewRelic_Page_View_Apm.php:95
+msgid "Application settings could not be retrieved. New Relic may not be properly configured, <a href=\"%s\">review the settings</a>."
+msgstr "アプリケーションの設定を取得できませんでした。 New Relic が正しく設定されていない可能性があります。<a href=\"%s\">設定を確認</a>してください。"
+
+#: Extension_NewRelic_Page_View_Apm.php:97
+msgid "Application settings are only visible when New Relic is enabled"
+msgstr "アプリケーション設定は New Relic が有効化されている場合にのみ表示されます"
+
+#: Extension_NewRelic_Page_View_Apm.php:114
+msgid "How many minutes data retrieved from New Relic should be stored. Minimum is 1 minute."
+msgstr "New Relic から取得したデータを保存する期間 (分)。最小値は1分です。"
+
+#: Extension_NewRelic_Page_View_Apm.php:177
+msgid "This is required when using New Relic on a network install to set the proper names for sites."
+msgstr "これは、サイトネットワークインストールで New Relic を使用してサイトの適切な名前を設定する場合に必須です。"
+
+#: inc/options/pgcache.php:55
+msgid "Cache <acronym title=\"Secure Socket Layer\">SSL</acronym> requests (uniquely) for improved performance."
+msgstr "パフォーマンスを向上するためにユニークな <acronym title=\"Secure Socket Layer\">SSL</acronym> リクエストをキャッシュする。"
+
+#: inc/options/pgcache.php:21
+msgid "To rebuild the page cache use the %s operation"
+msgstr "ページキャッシュを再構築するには、%s 操作を使用してください"
+
+#: inc/options/minify.php:574
+msgid "Specify external files/libraries that should be combined."
+msgstr "結合する外部ファイル/ライブラリを指定してください。"
+
+#: inc/options/minify.php:564
+msgid "Specify user agents that will never receive minified content."
+msgstr "圧縮コンテンツを受信しないユーザーエージェントを指定してください。"
+
+#: inc/options/general.php:500
+msgid "Not recommended for <acronym title=\"Network File System\">NFS</acronym> systems."
+msgstr "<acronym title=\"Network File System\">NFS</acronym> システムには非推奨です。"
+
+#: inc/popup/cdn_import_library.php:47
+msgid "Create a list of redirects to <acronym title=\"Content Delivery Network\">CDN</acronym> (hostname specified in hostname field #1.)"
+msgstr "<acronym title=\"コンテンツデリバリーネットワーク\">CDN</acronym> (ホスト名欄1で指定されたホスト名_ へのリダイレクトリストを作成します。"
+
+#: inc/options/general.php:506
+msgid "Optimize disk enhanced page and minify disk caching for <acronym title=\"Network File System\">NFS</acronym>"
+msgstr "<acronym title=\"Network File System\">NFS</acronym> 向けにディスクの拡張ページを最適化する"
+
+#: inc/options/general.php:507
+msgid "Try this option if your hosting environment uses a network based file system for a possible performance improvement."
+msgstr "ネットワークベースのファイルシステムを使用している場合にホスティング環境でのパフォーマンス向上の可能性を高めるには、このオプションをお試しください。"
+
+#: inc/options/general.php:635
+msgid "Revert all settings to the defaults. Any settings staged in preview mode will not be modified."
+msgstr "べての設定をデフォルトに戻します。プレビューモードでステージングされた設定は変更されません。"
+
+#: inc/popup/cdn_import_library.php:70
+msgid "Add the following directives to your .htaccess file or if there are several hundred they should be added directly to your configuration file:"
+msgstr ".htaccess ファイルに次のディレクティブを追加するか、数百個のディレクティブを設定ファイルに直接追加する必要がある場合は:"
+
+#: inc/popup/cdn_import_library.php:42
+msgid "Create a list of permanent (301) redirects for use in your site's .htaccess file"
+msgstr "サイトの.htaccessファイルで使用するパーマネント (301) リダイレクトのリストを作成"
+
+#: inc/popup/cdn_export_file.php:24 inc/popup/cdn_export_library.php:17
+msgid "This tool will upload files of the selected type to content delivery network provider."
+msgstr "このツールは、選択した種類のファイルをコンテンツ配信ネットワークプロバイダにアップロードします。"
+
+#: inc/popup/cdn_import_library.php:18
+msgid "This tool will copy post or page attachments into the Media Library allowing WordPress to work as intended."
+msgstr "このツールは、投稿またはページ添付ファイルをメディアライブラリにコピーし、WordPress が意図したとおりに動作するようにします。"
+
+#: inc/options/support.php:15
+msgid "Request premium services, suggest a feature or submit a bug using the form below:"
+msgstr "以下のフォームを使ってプレミアムサービスのリクエスト、機能の提案、バグの送信を行ってください。"
+
+#: CacheGroups_Plugin_Admin_View.php:213
+msgid "A 302 redirect is used to send this group of referrers to another hostname (domain)."
+msgstr "このリファラグループを別のホスト名 (ドメイン) に送信するのには、302リダイレクトが使われます。"
+
+#: inc/options/minify.php:484
+msgid "No <acronym title=\"Cascading Style Sheet\">CSS</acronym> files added"
+msgstr "<acronym title=\"Cascading Style Sheet\">CSS</acronym> ファイルは追加されませんでした"
+
+#: inc/options/minify.php:52
+msgid "If disabled, <acronym title=\"Cascading Style Sheet\">CSS</acronym> and <acronym title=\"JavaScript\">JS</acronym> embeddings will use GET variables instead of \"fancy\" links."
+msgstr "無効にすると、<acronym title=\"Cascading Style Sheet\">CSS</acronym> と <acronym title=\"JavaScript\">JS</acronym> 埋め込みは 「プリティ」リンクの代わりに GET 変数を使用します。"
+
+#: inc/options/pgcache.php:63
+msgid "Search result (and similar) pages will be cached if enabled."
+msgstr "有効化すると検索結果 (および類似の)ページがキャッシュされます。"
+
+#: inc/options/pgcache.php:42
+msgid "By default the front page is cached when using static front page in reading settings."
+msgstr "デフォルトでは、表示設定画面で静的フロントページを使用している場合、フロントページがキャッシュされます。"
+
+#: inc/options/pgcache.php:35
+msgid "For many blogs this is your most visited page, it is recommended that you cache it."
+msgstr "多くのブログでは、これが最も訪問者の多いページです。キャッシュすることをおすすめします。"
+
+#: inc/options/pgcache.php:75
+msgid "Unauthenticated users may view a cached version of the last authenticated user's view of a given page. Disabling this option is not recommended."
+msgstr "認証されていないユーザーに対し、特定のページでの最終認証ユーザーのビューのキャッシュ済みバージョンが表示されることがあります。このオプションを無効化するのはおすすめしません。"
+
+#: inc/options/pgcache.php:69
+msgid "Reduce server load by caching 404 pages. If the disk enhanced method of disk caching is used, 404 pages will be returned with a 200 response code. Use at your own risk."
+msgstr "404ページをキャッシュしてサーバーの負荷を軽減します。ディスクキャッシュ方式のディスク拡張方式を使った場合、200レスポンスコードで404ページが返されます。自己責任で使用してください。"
+
+#: BrowserCache_ConfigLabels.php:56
+msgid "Report <acronym title=\"Uniform Resource Locator\">URL</acronym>:"
+msgstr "レポート <acronym title=\"Uniform Resource Locator\">URL</acronym>:"
+
+#: inc/options/pgcache.php:310
+msgid "Compatibility mode:"
+msgstr "互換モード:"
+
+#: inc/options/pgcache.php:463
+msgid "Cache the specified pages even if they don't have trailing slash."
+msgstr "末尾にスラッシュない場合でも指定したページをキャッシュする。"
+
+#: inc/options/general.php:24
+msgid "Disable"
+msgstr "無効化"
+
+#: inc/options/extensions/list.php:46 inc/options/extensions/list.php:51
+msgid "Description"
+msgstr "説明"
+
+#: inc/options/cdn/common/cnames.php:56 inc/options/minify.php:324
+#: inc/options/minify.php:473 inc/popup/cdn_queue.php:25
+#: inc/popup/cdn_queue.php:34 inc/popup/cdn_queue.php:58
+#: inc/popup/cdn_queue.php:67 inc/popup/cdn_queue.php:88
+#: inc/popup/cdn_queue.php:97
+msgid "Delete"
+msgstr "削除"
+
+#: Cdn_ConfigLabels.php:31
+msgid "Location:"
+msgstr "位置情報:"
+
+#: inc/options/extensions/list.php:69
+msgid "Select %s"
+msgstr "%s を選択"
+
+#: inc/options/dashboard.php:57 Root_AdminMenu.php:43 Root_AdminMenu.php:44
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+#: Extension_Amp_Page_View.php:11 Extension_ImageService_Page_View.php:51
+#: Extension_Swarmify_Page_View.php:24 inc/options/cdn.php:18
+msgid "Configuration"
+msgstr "設定"
+
+#: FeatureShowcase_Plugin_Admin.php:208 inc/options/extensions/list.php:31
+#: inc/options/extensions/list.php:111 inc/options/extensions/list.php:168
+msgid "Activate"
+msgstr "有効化"
+
+#: Generic_Plugin_AdminCompatibility.php:105 inc/options/extensions/list.php:32
+#: inc/options/extensions/list.php:102 inc/options/extensions/list.php:169
+msgid "Deactivate"
+msgstr "停止"
+
+#: inc/options/general.php:151
+msgid "Auto"
+msgstr "自動"
+
+#: inc/options/extensions/list.php:46 inc/options/extensions/list.php:51
+msgid "Select All"
+msgstr "すべて選択"
+
+#: inc/options/common/header.php:47 inc/options/general.php:438
+msgid "Miscellaneous"
+msgstr "その他"
+
+#: inc/options/extensions/list.php:46 inc/options/extensions/list.php:51
+msgid "Extension"
+msgstr "拡張子"
+
+#: inc/options/common/header.php:130
+msgid "Media"
+msgstr "メディア"
+
+#: Extension_FragmentCache_Page_View.php:15
+#: Extension_FragmentCache_Page_View.php:78 inc/options/cdn.php:19
+#: inc/options/cdn.php:184 inc/options/common/header.php:74
+#: inc/options/common/header.php:92 inc/options/common/header.php:105
+#: inc/options/common/header.php:116 inc/options/dbcache.php:37
+#: inc/options/minify.php:505 inc/options/objectcache.php:29
+#: inc/options/pgcache.php:280
+msgid "Advanced"
+msgstr "詳細"
+
+#: Cdnfsd_CloudFront_Popup_View_Distribution.php:52
+#: Cdnfsd_CloudFront_Popup_View_Distributions.php:50
+#: Cdnfsd_MaxCdn_Popup_View_Zone.php:51 Cdnfsd_MaxCdn_Popup_View_Zones.php:49
+#: Cdnfsd_StackPath2_Popup_View_Sites.php:50
+#: Cdnfsd_StackPath2_Popup_View_Stacks.php:46
+#: Cdnfsd_StackPath_Popup_View_Zone.php:51
+#: Cdnfsd_StackPath_Popup_View_Zones.php:49
+#: Cdn_GoogleDrive_Popup_AuthReturn_View.php:41
+#: Cdn_Highwinds_Popup_View_ConfigureCnamesForm.php:20
+#: Cdn_Highwinds_Popup_View_SelectHost.php:46 Cdn_MaxCdn_Popup_View_Zone.php:70
+#: Cdn_MaxCdn_Popup_View_Zones.php:49
+#: Cdn_RackSpaceCdn_Popup_View_ConfigureDomains.php:20
+#: Cdn_RackSpaceCdn_Popup_View_Services.php:49
+#: Cdn_RackSpaceCdn_Popup_View_Service_Actualize.php:44
+#: Cdn_RackSpaceCloudFiles_Popup_View_Containers.php:49
+#: Cdn_StackPath2_Popup_View_Sites.php:50
+#: Cdn_StackPath2_Popup_View_Stacks.php:47 Cdn_StackPath_Popup_View_Zone.php:38
+#: Cdn_StackPath_Popup_View_Zones.php:49
+#: Extension_NewRelic_Popup_View_Intro.php:33
+#: Extension_NewRelic_Popup_View_ListApplications.php:58
+#: inc/options/extensions/list.php:34 inc/options/extensions/list.php:171
+msgid "Apply"
+msgstr "適用"
+
+#: inc/options/extensions/list.php:30 inc/options/extensions/list.php:167
+msgid "Bulk Actions"
+msgstr "一括操作"
+
+#: inc/options/dashboard.php:38 inc/options/dashboard.php:39
+#: inc/options/dashboard.php:40 inc/options/dashboard.php:42
+#: inc/options/dashboard.php:46
+msgid "or"
+msgstr "または"
+
+#: Cdn_GeneralPage_View.php:43 Extension_CloudFlare_GeneralPage_View.php:43
+#: Extension_FragmentCache_GeneralPage_View.php:24 inc/options/general.php:117
+#: inc/options/general.php:217 inc/options/general.php:256
+#: inc/options/general.php:287 SystemOpCache_GeneralPage_View.php:47
+msgid "Empty cache"
+msgstr "キャッシュを空にする"
+
+#: Extension_NewRelic_AdminNotes.php:19 FeatureShowcase_Plugin_Admin.php:355
+#: inc/options/common/header.php:29 inc/options/general.php:39
+#: PgCache_ConfigLabels.php:9 PgCache_Plugin.php:277 PgCache_Plugin.php:285
+#: PgCache_Plugin.php:292 Root_AdminMenu.php:61 Root_AdminMenu.php:62
+#: SetupGuide_Plugin_Admin.php:1072 SetupGuide_Plugin_Admin.php:1139
+msgid "Page Cache"
+msgstr "ページキャッシュ"
+
+#: inc/options/cdn/cf2.php:28
+msgid "Origin:"
+msgstr "オリジナル: "
+
+#: extension-example/Extension_Example_Page_View.php:10
+#: Extension_CloudFlare_Page_View.php:9 Extension_FeedBurner_Page_View.php:10
+#: Extension_FragmentCache_Page_View.php:12 Extension_Genesis_Page_View.php:10
+#: Extension_NewRelic_Page_View_Apm.php:10 Extension_Swarmify_Page_View.php:10
+#: inc/options/cdn.php:16 inc/options/common/header.php:71
+#: inc/options/common/header.php:87 inc/options/common/header.php:103
+#: inc/options/common/header.php:115 inc/options/common/header.php:126
+#: inc/options/common/header.php:141
+msgid "Main Menu"
+msgstr "メインメニュー"
+
+#: Cdn_RackSpaceCdn_Popup_View_Intro.php:26
+#: Cdn_RackSpaceCloudFiles_Popup_View_Intro.php:27
+#: Extension_CloudFlare_Popup_View_Intro.php:26
+#: Extension_NewRelic_GeneralPage_View.php:28
+#: Extension_NewRelic_Popup_View_Intro.php:20 Generic_ConfigLabels.php:9
+#: inc/options/cdn/rscf.php:16
+msgid "<acronym title=\"Application Programming Interface\">API</acronym> key:"
+msgstr "<acronym title=\"Application Programming Interface\">API</acronym> キー:"
+
+#: inc/options/cdn/ftp.php:47
+msgid "<acronym title=\"File Transfer Protocol\">FTP</acronym> path:"
+msgstr "<acronym title=\"File Transfer Protocol\">FTP</acronym> パス:"
+
+#: Extension_FragmentCache_Plugin_Admin.php:101
+#: Extension_FragmentCache_Plugin_Admin.php:103
+#: Extension_FragmentCache_Plugin_Admin.php:161
+#: Extension_FragmentCache_Plugin_Admin.php:169
+#: FeatureShowcase_Plugin_Admin.php:307 inc/options/common/header.php:35
+#: inc/options/general.php:551
+msgid "Fragment Cache"
+msgstr "フラグメントキャッシュ"
+
+#: Cdn_Highwinds_Page_View.php:54 Cdn_LimeLight_Page_View.php:46
+#: Cdn_RackSpaceCdn_Page_View.php:77 Cdn_RackSpaceCloudFiles_Page_View.php:72
+#: inc/options/parts/memcached.php:20
+#: inc/options/parts/memcached_extension.php:21 inc/options/parts/redis.php:21
+#: inc/options/parts/redis_extension.php:23
+msgid "Test"
+msgstr "テスト"
+
+#: Cdn_Plugin_Admin.php:165
+msgid "Akamai"
+msgstr "Akamai"
+
+#: Cdnfsd_Plugin_Admin.php:88 Cdn_Plugin_Admin.php:169
+msgid "Amazon CloudFront"
+msgstr "Amazon CloudFront"
+
+#: Cdn_Plugin_Admin.php:174
+msgid "AT&amp;T"
+msgstr "AT&amp;T"
+
+#: Cdn_Plugin_Admin.php:178
+msgid "Cotendo (Akamai)"
+msgstr "Cotendo (Akamai)"
+
+#: Cdn_Plugin_Admin.php:182
+msgid "Generic Mirror"
+msgstr "汎用ミラー"
+
+#: Cdnfsd_Plugin_Admin.php:98 Cdn_Plugin_Admin.php:194
+msgid "MaxCDN"
+msgstr "MaxCDN"
+
+#: Cdn_Plugin_Admin.php:220
+msgid "Amazon Simple Storage Service (S3)"
+msgstr "Amazon Simple Storage Service (S3)"
+
+#: Cdn_Plugin_Admin.php:233
+msgid "Microsoft Azure Storage"
+msgstr "Microsoft Azure ストレージ"
+
+#: Cdn_Plugin_Admin.php:238
+msgid "Rackspace Cloud Files"
+msgstr "Rackspace Cloud ファイル"
+
+#: inc/options/cdn/ftp.php:94
+msgid "Test FTP server"
+msgstr "FTP サーバーをテスト"
+
+#: Cdn_MaxCdn_Page_View.php:10 Cdn_StackPath2_Page_View.php:10
+#: Cdn_StackPath_Page_View.php:10
+msgid "Create account:"
+msgstr "アカウントを作成:"
+
+#: Cdnfsd_CloudFront_Page_View.php:34 Cdnfsd_LimeLight_Page_View.php:34
+#: Cdnfsd_MaxCdn_Page_View.php:34 Cdnfsd_StackPath2_Page_View.php:34
+#: Cdnfsd_StackPath_Page_View.php:34 Cdn_GoogleDrive_Page_View.php:15
+#: Cdn_Highwinds_Page_View.php:14 Cdn_LimeLight_Page_View.php:14
+#: Cdn_MaxCdn_Page_View.php:35 Cdn_Plugin_WidgetMaxCdn_View_Unauthorized.php:16
+#: Cdn_RackSpaceCdn_Page_View.php:16 Cdn_RackSpaceCloudFiles_Page_View.php:13
+#: Cdn_StackPath2_Page_View.php:51
+#: Cdn_StackPath2_Widget_View_Unauthorized.php:31
+#: Cdn_StackPath_Page_View.php:35 Cdn_StackPath_Widget_View_Unauthorized.php:16
+#: Extension_CloudFlare_Page_View.php:54
+msgid "Authorize"
+msgstr "承認"
+
+#: Cdn_Plugin_WidgetMaxCdn_View_Unauthorized.php:12
+msgid "Create an Account"
+msgstr "アカウントを作成"
+
+#: Cdn_Highwinds_Widget_View.php:18
+#: Cdn_Plugin_WidgetMaxCdn_View_Authorized.php:43
+#: Cdn_StackPath2_Widget_View_Authorized.php:19
+#: Cdn_StackPath_Widget_View_Authorized.php:32 inc/options/cdn.php:49
+#: inc/popup/cdn_purge.php:41
+msgid "Purge"
+msgstr "パージ"
+
+#: Extension_NewRelic_GeneralPage_View.php:9
+#: Extension_NewRelic_Plugin_Admin.php:97
+#: Extension_NewRelic_Plugin_Admin.php:98 inc/options/common/header.php:43
+msgid "Monitoring"
+msgstr "モニタリング"
+
+#: inc/options/common/header.php:45 inc/options/general.php:419
+msgid "Licensing"
+msgstr "ライセンス"
+
+#: inc/options/common/header.php:48
+msgid "Debug"
+msgstr "デバッグ"
+
+#: inc/options/cdn.php:15
+msgid "Jump to:"
+msgstr "移動:"
+
+#: inc/options/edd/buy.php:11 UsageStatistics_Page_View_Free.php:17
+msgid "upgrade"
+msgstr "アップグレード"
+
+#: inc/options/edd/buy.php:14
+msgid "here"
+msgstr "ここ"
+
+#: inc/options/extensions/list.php:145
+msgid "Version %s"
+msgstr "バージョン %s"
+
+#: inc/options/extensions/list.php:148
+msgid "Visit author homepage"
+msgstr "作者のホームページを表示"
+
+#: inc/options/general.php:25
+msgid "Deploy"
+msgstr "デプロイ"
+
+#: inc/options/general.php:152
+msgid "Manual"
+msgstr "手動"
+
+#: SetupGuide_Plugin_Admin.php:933 Util_Ui.php:892
+msgid "Disk"
+msgstr "ディスク"
+
+#: inc/options/general.php:198 inc/options/general.php:208
+msgid "YUI Compressor"
+msgstr "YUI Compressor"
+
+#: inc/options/cdn/att.php:16 inc/options/cdn/edgecast.php:16
+msgid "Token:"
+msgstr "トークン:"
+
+#: inc/options/cdn/cf.php:21 inc/options/cdn/cf2.php:21
+#: inc/options/cdn/s3.php:21 inc/options/cdn/s3_compatible.php:24
+msgid "Secret key:"
+msgstr "シークレットキー:"
+
+#: inc/options/cdn/cf.php:28 inc/options/cdn/s3.php:28
+#: inc/options/cdn/s3_compatible.php:31
+msgid "Bucket:"
+msgstr "バケット:"
+
+#: inc/options/general.php:485
+msgid "If empty the default path will be used.."
+msgstr "空の場合は、既定のパスが使用されます."
+
+#: Cdn_ConfigLabels.php:9 Cdn_GeneralPage_View.php:7
+msgid "<acronym title=\"Content Delivery Network\">CDN</acronym>"
+msgstr "<acronym title=\"Content Delivery Network\">CDN</acronym>"
+
+#: Util_Ui.php:933
+msgid "Shared Server:"
+msgstr "共有サーバー:"
+
+#: inc/options/general.php:194
+msgid "JSMin (default)"
+msgstr "JSMin (既定値)"
+
+#: inc/options/general.php:108 Util_Ui.php:935
+msgid "Multiple Servers:"
+msgstr "複数のサーバー:"
+
+#: inc/options/general.php:85 Util_Ui.php:912
+msgid "Opcode: WinCache"
+msgstr "オペコード: WinCache"
+
+#: inc/options/general.php:80 Util_Ui.php:907
+msgid "Opcode: XCache"
+msgstr "オペコード: XCache"
+
+#: inc/options/general.php:75 Util_Ui.php:902
+msgid "Opcode: eAccelerator"
+msgstr "オペコード: eAccelerator"
+
+#: inc/options/general.php:107 Util_Ui.php:934
+msgid "Dedicated / Virtual Server:"
+msgstr "専用/仮想サーバー:"
+
+#: inc/options/extensions.php:10
+msgid "Extension support is always %s"
+msgstr "拡張機能のサポートは、常に %s"
+
+#: inc/options/extensions/list.php:138
+msgid "Requirements: %s"
+msgstr "要件: %s"
+
+#: inc/options/dbcache.php:17 inc/options/minify.php:27
+#: inc/options/objectcache.php:22
+msgid "empty cache"
+msgstr "キャッシュを空にする"
+
+#: inc/options/dashboard.php:35
+msgid "compatibility check"
+msgstr "互換性チェック"
+
+#: inc/options/common/header.php:91 inc/options/minify.php:356
+msgid "<acronym title=\"Cascading Style Sheet\">CSS</acronym>"
+msgstr "<acronym title=\"Cascading Style Sheet\">CSS</acronym>"
+
+#: inc/options/common/header.php:90 inc/options/minify.php:134
+msgid "<acronym title=\"JavaScript\">JS</acronym>"
+msgstr "<acronym title=\"JavaScript\">JS</acronym>"
+
+#: inc/options/common/header.php:86 inc/options/common/header.php:102
+#: inc/options/common/header.php:114 inc/options/common/header.php:125
+#: inc/options/common/header.php:140
+msgid "Jump to: "
+msgstr "移動:"
+
+#: inc/options/common/header.php:49 inc/options/general.php:613
+msgid "Import / Export Settings"
+msgstr "インポート / エクスポートの設定"
+
+#: inc/options/common/header.php:39
+msgid "<abbr title=\"Content Delivery Network\">CDN</abbr>"
+msgstr "<abbr title=\"Content Delivery Network\">CDN</abbr>"
+
+#: FeatureShowcase_Plugin_Admin.php:427 inc/options/common/header.php:33
+#: ObjectCache_ConfigLabels.php:9 ObjectCache_Plugin.php:274
+#: ObjectCache_Plugin.php:310 ObjectCache_Plugin.php:318
+#: ObjectCache_Plugin.php:326 Root_AdminMenu.php:79 Root_AdminMenu.php:80
+#: SetupGuide_Plugin_Admin.php:1080 SetupGuide_Plugin_Admin.php:1216
+#: SetupGuide_Plugin_Admin.php:1230 UsageStatistics_Page_View.php:249
+msgid "Object Cache"
+msgstr "オブジェクトキャッシュ"
+
+#: DbCache_ConfigLabels.php:9 DbCache_Plugin.php:251 DbCache_Plugin.php:258
+#: DbCache_Plugin.php:266 FeatureShowcase_Plugin_Admin.php:415
+#: inc/options/common/header.php:32 inc/options/general.php:228
+#: Root_AdminMenu.php:73 Root_AdminMenu.php:74 SetupGuide_Plugin_Admin.php:1076
+#: SetupGuide_Plugin_Admin.php:1182 SetupGuide_Plugin_Admin.php:1193
+msgid "Database Cache"
+msgstr "データベースキャッシュ:"
+
+#: inc/options/cdn.php:47
+msgid "unsuccessful file transfers"
+msgstr "失敗したファイル転送"
+
+#: inc/options/cdn/cf.php:14 inc/options/cdn/cf2.php:14
+#: inc/options/cdn/s3.php:14 inc/options/cdn/s3_compatible.php:16
+msgid "Access key ID:"
+msgstr "アクセスキー ID:"
+
+#: inc/options/cdn/att.php:9 inc/options/cdn/edgecast.php:9
+msgid "Account #:"
+msgstr "アカウント #:"
+
+#: inc/options/general.php:206
+msgid "CSS Tidy"
+msgstr "CSS Tidy"
+
+#: inc/options/general.php:90 Util_Ui.php:917
+msgid "Memcached"
+msgstr "Memcached"
+
+#: inc/options/general.php:181
+msgid "HTML Tidy"
+msgstr "HTML Tidy"
+
+#: inc/options/cdn/common/cnames.php:61
+msgid "Add CNAME"
+msgstr "CNAME の追加"
+
+#: inc/options/cdn/s3.php:63
+msgid "or CNAME:"
+msgstr "または CNAME:"
+
+#: inc/options/cdn/azure.php:16
+msgid "Account key:"
+msgstr "アカウントキー:"
+
+#: inc/options/cdn/azure.php:9
+msgid "Account name:"
+msgstr "アカウント名:"
+
+#: inc/options/cdn/att.php:23 inc/options/cdn/azure.php:32
+#: inc/options/cdn/cf.php:46 inc/options/cdn/cf2.php:37
+#: inc/options/cdn/cotendo.php:30 inc/options/cdn/edgecast.php:23
+#: inc/options/cdn/ftp.php:55 inc/options/cdn/mirror.php:9
+#: inc/options/cdn/rscf.php:43 inc/options/cdn/s3.php:46
+#: inc/options/cdn/s3_compatible.php:38
+msgid "<acronym title=\"Secure Sockets Layer\">SSL</acronym> support:"
+msgstr "<acronym title=\"Secure Sockets Layer\">SSL</acronym> サポート:"
+
+#: inc/options/cdn.php:20 inc/options/common/header.php:77
+#: inc/options/common/header.php:93 inc/options/pgcache.php:490
+msgid "Note(s)"
+msgstr "注意"
+
+#: CacheGroups_Plugin_Admin_View.php:134 CacheGroups_Plugin_Admin_View.php:323
+#: inc/options/cdn.php:363 inc/options/install.php:82
+#: inc/options/minify.php:590
+msgid "Note(s):"
+msgstr "注: "
+
+#: inc/options/cdn/mirror.php:28
+msgid "Test Mirror"
+msgstr "ミラーをテスト"
+
+#: Cdn_MaxCdn_Page_View.php:91
+msgid "Test MaxCDN"
+msgstr "MaxCDN をテスト"
+
+#: inc/options/cdn/s3.php:70 inc/options/cdn/s3_compatible.php:57
+msgid "Test S3 upload"
+msgstr "S3 アップロードをテスト"
+
+#: inc/options/cdn/rscf.php:62
+msgid "Test Cloud Files upload"
+msgstr "クラウドファイルアップロードをテスト"
+
+#: Cdn_AdminNotes.php:239
+msgid "Authorization key"
+msgstr "承認キー"
+
+#: inc/options/cdn/cotendo.php:49
+msgid "Test Cotendo"
+msgstr "Cotendo をテスト"
+
+#: inc/options/cdn/edgecast.php:42
+msgid "Test EdgeCast"
+msgstr "EdgeCast をテスト"
+
+#: Generic_ConfigLabels.php:26 inc/options/common/header.php:40
+#: inc/options/general.php:318 Varnish_Plugin.php:79
+msgid "Reverse Proxy"
+msgstr "リバースプロキシ"
+
+#: inc/options/common/header.php:76
+msgid "Purge Policy"
+msgstr "ポリシーをパージ"
+
+#: inc/options/common/header.php:89 inc/options/common/header.php:129
+#: inc/options/minify.php:81
+msgid "<acronym title=\"Hypertext Markup Language\">HTML</acronym> &amp; <acronym title=\"eXtensible Markup Language\">XML</acronym>"
+msgstr "<acronym title=\"Hypertext Markup Language\">HTML</acronym> と <acronym title=\"eXtensible Markup Language\">XML</acronym>"
+
+#: inc/options/cdn/akamai.php:68
+msgid "Test akamai"
+msgstr "Akamai をテスト"
+
+#: inc/options/cdn/common/cnames-readonly.php:17
+#: inc/options/cdn/common/cnames.php:31
+msgid "(reserved for CSS)"
+msgstr "(CSS 用に予約済み)"
+
+#: inc/options/cdn/common/cnames-readonly.php:19
+#: inc/options/cdn/common/cnames.php:35
+msgid "(reserved for JS in <head>)"
+msgstr "(<head> 内の JS 用に予約済み)"
+
+#: inc/options/cdn/common/cnames-readonly.php:23
+#: inc/options/cdn/common/cnames.php:43
+msgid "(reserved for JS before </body>)"
+msgstr "(</body> の前の JS 用に予約済み)"
+
+#: inc/options/cdn/common/cnames-readonly.php:21
+#: inc/options/cdn/common/cnames.php:39
+msgid "(reserved for JS after <body>)"
+msgstr "(<body> の後の JS 用に予約済み)"
+
+#: inc/options/cdn/ftp.php:40
+msgid "<acronym title=\"File Transfer Protocol\">FTP</acronym> password:"
+msgstr "<acronym title=\"File Transfer Protocol\">FTP</acronym> パスワード:"
+
+#: inc/options/cdn/azure.php:27 inc/options/cdn/rscf.php:38
+msgid "Create container"
+msgstr "コンテナを作成"
+
+#: Cdn_RackSpaceCloudFiles_Page_View.php:35 inc/options/cdn/azure.php:23
+#: inc/options/cdn/rscf.php:33
+msgid "Container:"
+msgstr "コンテナ:"
+
+#: inc/options/general.php:427
+msgid "Verify license key"
+msgstr "ライセンスキーを確認"
+
+#: Extension_NewRelic_GeneralPage_View.php:39
+msgid "Application name:"
+msgstr "アプリケーション名:"
+
+#: Extension_NewRelic_AdminNotes.php:21 FeatureShowcase_Plugin_Admin.php:367
+#: inc/options/general.php:124 inc/options/minify.php:184
+#: inc/options/minify.php:203 inc/options/minify.php:223
+#: Minify_ConfigLabels.php:9 Minify_Plugin.php:306 Minify_Plugin_Admin.php:52
+#: Root_AdminMenu.php:67 Root_AdminMenu.php:68
+#: UsageStatistics_Page_View.php:213
+msgid "Minify"
+msgstr "圧縮"
+
+#: inc/options/general.php:65 SetupGuide_Plugin_Admin.php:935
+msgid "Disk: Enhanced"
+msgstr "ディスク: 拡張"
+
+#: inc/options/general.php:61 SetupGuide_Plugin_Admin.php:934
+msgid "Disk: Basic"
+msgstr "ディスク: ベーシック"
+
+#: inc/options/general.php:106
+msgid "Shared Server (disk enhanced is best):"
+msgstr "共有サーバー (拡張ディスクが最適) 。"
+
+#: inc/options/extensions/list.php:152 inc/options/extensions/list.php:153
+msgid "Visit extension site"
+msgstr "拡張機能のサイトに移動"
+
+#: inc/options/extensions/list.php:110
+msgid "Activate this extension"
+msgstr "この拡張機能を有効化"
+
+#: inc/options/extensions/list.php:101
+msgid "Deactivate this extension"
+msgstr "この拡張機能を無効化"
+
+#: inc/options/enterprise/dbcluster-config.php:28
+msgid "Save configuration file"
+msgstr "設定ファイルを保存"
+
+#: inc/options/dashboard.php:37
+msgid "at once or"
+msgstr "すぐに、または"
+
+#: inc/options/dashboard.php:37
+msgid "empty all caches"
+msgstr "すべてのキャッシュを空にする"
+
+#: Generic_Plugin_Admin_View_Faq.php:9
+msgid "Request professional <a href=\"admin.php?page=w3tc_support\" style=\"color: red;\"><strong>support</strong></a> or troubleshoot issues using the common questions below:"
+msgstr "プロによる <a href=\"admin.php?page=w3tc_support\" style=\"color: red;\"><strong>サポート</strong></a>をリクエストするか、以下のよくある質問を読んでトラブルシューティングを行ってみてください。"
+
+#: CacheGroups_Plugin_Admin_View.php:162 inc/options/common/header.php:143
+msgid "Manage Referrer Groups"
+msgstr "リファラーグループを管理"
+
+#: CacheGroups_Plugin_Admin_View.php:35 inc/options/common/header.php:142
+msgid "Manage User Agent Groups"
+msgstr "ユーザーエージェントグループを管理"
+
+#: FeatureShowcase_Plugin_Admin.php:439 inc/options/common/header.php:38
+#: inc/options/general.php:294 Root_AdminMenu.php:85 Root_AdminMenu.php:86
+#: SetupGuide_Plugin_Admin.php:1084 SetupGuide_Plugin_Admin.php:1245
+#: SetupGuide_Plugin_Admin.php:1278
+msgid "Browser Cache"
+msgstr "ブラウザーキャッシュ"
+
+#: inc/options/cdn.php:354
+msgid "Set cookie domain to &quot;%s&quot"
+msgstr "Cookie ドメインを &quot;%s&quot に設定"
+
+#: inc/options/cdn.php:241
+msgid "Automatically upload minify files"
+msgstr "アップロードファイルを自動圧縮"
+
+#: inc/options/cdn.php:134
+msgid "Upload custom files"
+msgstr "カスタムファイルをアップロード"
+
+#: inc/options/cdn.php:118
+msgid "Upload minify files"
+msgstr "圧縮ファイルをアップロード"
+
+#: inc/options/cdn.php:105
+msgid "Upload theme files"
+msgstr "テーマファイルをアップロード"
+
+#: inc/options/cdn.php:92
+msgid "Upload includes files"
+msgstr "インクルードファイルをアップロード"
+
+#: inc/options/cdn.php:79
+msgid "Upload attachments"
+msgstr "添付ファイルをアップロード"
+
+#: inc/options/cdn.php:54 inc/options/minify.php:35
+msgid "Update media query string"
+msgstr "メディアクエリ文字列を更新"
+
+#: inc/options/cdn.php:45
+msgid "Prepare the <acronym title=\"Content Delivery Network\">CDN</acronym> by:"
+msgstr "以下を使って <acronym title=\"Content Delivery Network\">CDN</acronym> を準備:"
+
+#: Cdn_MaxCdn_Page_View.php:72 Cdn_StackPath2_Page_View.php:90
+#: Cdn_StackPath_Page_View.php:72
+msgid "<acronym title=\"Secure Sockets Layer\">SSL</acronym> support"
+msgstr "<acronym title=\"Secure Sockets Layer\">SSL</acronym> サポート"
+
+#: Cdnfsd_CloudFront_Page_View.php:20 Cdnfsd_LimeLight_Page_View.php:20
+#: Cdnfsd_MaxCdn_Page_View.php:20 Cdnfsd_StackPath2_Page_View.php:20
+#: Cdnfsd_StackPath_Page_View.php:20 Cdn_MaxCdn_Page_View.php:23
+#: Cdn_StackPath2_Page_View.php:33 Cdn_StackPath_Page_View.php:23
+#: Extension_CloudFlare_Page_View.php:40
+msgid "Specify account credentials:"
+msgstr "アカウント情報を指定:"
+
+#: Extension_Swarmify_Widget_View_NotConfigured.php:12
+msgid "Sign Up Now and Save 25%"
+msgstr "今すぐ登録して25%割引"
+
+#: inc/options/cdn/cotendo.php:23
+msgid "Zones to purge:"
+msgstr "削除するゾーン:"
+
+#: inc/options/cdn/cf2.php:58
+msgid "Test CloudFront distribution"
+msgstr "CloudFront ディストリビューションのテスト"
+
+#: inc/options/cdn/cf2.php:32
+msgid "Create distribution"
+msgstr "ディストリビューションを作成"
+
+#: inc/options/extensions/list.php:147
+msgid "By %s"
+msgstr "作成者: %s"
+
+#: inc/options/common/header.php:75 inc/options/pgcache.php:123
+msgid "Cache Preload"
+msgstr "キャッシュプリロード"
+
+#: inc/options/cdn/azure.php:55
+msgid "Test Microsoft Azure Storage upload"
+msgstr "Microsoft Azure ストレージアップロードをテスト"
+
+#: Cdn_Highwinds_Page_View.php:41 Cdn_LimeLight_Page_View.php:35
+#: Cdn_MaxCdn_Page_View.php:83 Cdn_RackSpaceCdn_Page_View.php:48
+#: Cdn_RackSpaceCdn_Page_View.php:60 Cdn_RackSpaceCloudFiles_Page_View.php:59
+#: Cdn_StackPath2_Page_View.php:101 Cdn_StackPath_Page_View.php:83
+#: inc/options/cdn/akamai.php:60 inc/options/cdn/att.php:34
+#: inc/options/cdn/azure.php:43 inc/options/cdn/cf.php:57
+#: inc/options/cdn/cf2.php:48 inc/options/cdn/cotendo.php:41
+#: inc/options/cdn/edgecast.php:34 inc/options/cdn/ftp.php:86
+#: inc/options/cdn/mirror.php:20 inc/options/cdn/rscf.php:54
+#: inc/options/cdn/s3.php:57 inc/options/cdn/s3_compatible.php:49
+msgid "Replace site's hostname with:"
+msgstr "サイトのホスト名を以下と置換:"
+
+#: Cdn_Highwinds_Page_View.php:35 Cdn_LimeLight_Page_View.php:29
+#: Cdn_RackSpaceCloudFiles_Page_View.php:53 inc/options/cdn/akamai.php:54
+#: inc/options/cdn/att.php:28 inc/options/cdn/azure.php:37
+#: inc/options/cdn/cf.php:51 inc/options/cdn/cf2.php:42
+#: inc/options/cdn/cotendo.php:35 inc/options/cdn/edgecast.php:28
+#: inc/options/cdn/ftp.php:60 inc/options/cdn/mirror.php:14
+#: inc/options/cdn/rscf.php:48 inc/options/cdn/s3.php:51
+#: inc/options/cdn/s3_compatible.php:43
+msgid "Disabled (always use HTTP)"
+msgstr "無効化 (常に HTTP を使用)"
+
+#: Cdn_Highwinds_Page_View.php:34 Cdn_LimeLight_Page_View.php:28
+#: Cdn_RackSpaceCloudFiles_Page_View.php:52 inc/options/cdn/akamai.php:53
+#: inc/options/cdn/att.php:27 inc/options/cdn/azure.php:36
+#: inc/options/cdn/cf.php:50 inc/options/cdn/cf2.php:41
+#: inc/options/cdn/cotendo.php:34 inc/options/cdn/edgecast.php:27
+#: inc/options/cdn/ftp.php:59 inc/options/cdn/mirror.php:13
+#: inc/options/cdn/rscf.php:47 inc/options/cdn/s3.php:50
+#: inc/options/cdn/s3_compatible.php:42
+msgid "Enabled (always use SSL)"
+msgstr "有効化 (常に SSL を使用)"
+
+#: inc/options/general.php:429
+msgid "upgrading"
+msgstr "アップグレード中"
+
+#: inc/options/general.php:405
+msgid "Specify the <acronym title=\"Simple Notification Service\">SNS</acronym> topic."
+msgstr "<acronym title=\"Simple Notification Service\">SNS</acronym> トピックを購読。"
+
+#: inc/options/general.php:395
+msgid "Specify the <acronym title=\"Application Programming Interface\">API</acronym> secret."
+msgstr "<acronym title=\"Application Programming Interface\">API</acronym> シークレットを指定してください。"
+
+#: inc/options/general.php:385
+msgid "Specify the <acronym title=\"Application Programming Interface\">API</acronym> Key."
+msgstr "<acronym title=\"Application Programming Interface\">API</acronym> キーを指定してください。"
+
+#: Cdnfsd_GeneralPage_View.php:44 Cdn_GeneralPage_View.php:32
+msgid "Select the <acronym title=\"Content Delivery Network\">CDN</acronym> type you wish to use."
+msgstr "使用したい <acronym title=\"コンテンツデリバリーネットワーク\">CDN</acronym> の種類を選択してください。"
+
+#: Cdn_Plugin_Admin.php:243
+msgid "Self-hosted / File Transfer Protocol Upload"
+msgstr "インストール型 / FTP アップロード"
+
+#: inc/options/enterprise/dbcluster-config.php:12
+msgid "Database Cluster Configuration File"
+msgstr "データベースクラスター構成ファイル"
+
+#: inc/options/general.php:445
+msgid "Display Google Page Speed results on the WordPress dashboard."
+msgstr "WordPress のダッシュボードに Google Page Speed の結果を表示する。"
+
+#: inc/options/dashboard.php:42
+msgid "purge CDN completely"
+msgstr "CDN を完全にパージ"
+
+#: inc/options/dashboard.php:40
+msgid "empty only the disk cache(s)"
+msgstr "ディスクキャッシュのみ空にする"
+
+#: inc/options/dashboard.php:39
+msgid "empty only the opcode cache"
+msgstr "opcode キャッシュのみ空にする"
+
+#: inc/options/dashboard.php:38
+msgid "empty only the memcached cache(s)"
+msgstr "memcached キャッシュのみ空にする"
+
+#: inc/options/general.php:45
+msgid "Enable page caching to decrease the response time of the site."
+msgstr "サイトの応答時間を短縮するにはページキャッシュを有効にしてください。"
+
+#: inc/options/general.php:53
+msgid "Caching pages will reduce the response time of your site and increase the scale of your web server."
+msgstr "ページをキャッシュすると、サイトの応答時間が短縮され、Web サーバーのスケールを拡張します。"
+
+#: Generic_AdminNotes.php:90 inc/options/general.php:26
+msgid "To preview any changed settings (without deploying): %s"
+msgstr "変更した設定を (デプロイせずに) プレビュー: %s"
+
+#: inc/options/cdn.php:328
+msgid "To upload files in blogs.dir for current blog write wp-content/&lt;currentblog&gt;/."
+msgstr "現在のブログの blogs.dir にファイルをアップロードするには wp-content/&lt;currentblog&gt;/. と入力します。"
+
+#: inc/options/extensions/list.php:39 inc/options/extensions/list.php:176
+msgid "%s extension"
+msgid_plural "%s extensions"
+msgstr[0] "%s件のエクステンション"
+
+#: inc/options/cdn.php:288
+msgid "Number of files processed per upload attempt."
+msgstr "アップロード試行ごとに処理されたファイルの数。"
+
+#: inc/options/cdn.php:279
+msgid "The number of seconds to wait before upload attempt."
+msgstr "アップロードを試行するまでに待機する秒数。"
+
+#: inc/options/cdn.php:270
+msgid "Specify the interval between upload of changed files."
+msgstr "変更されたファイルのアップロード間隔を指定してください。"
+
+#: inc/options/cdn.php:260
+msgid "Automatically attempt to find and upload changed files."
+msgstr "変更されたファイルの検索とアップロードを自動的に試みる。"
+
+#: inc/options/dashboard.php:44
+msgid "update Media Query String"
+msgstr "メディアクエリー文字列を更新"
+
+#: Cdnfsd_Page_View_Header.php:11 Cdn_Page_View_Header.php:12
+#: inc/options/cdn.php:25
+msgid "Content Delivery Network support via %1$s is currently %2$s."
+msgstr "%1$s 経由のコンテンツ配信ネットワークサポートは現在%2$sです。"
+
+#: inc/options/dbcache.php:12
+msgid "Database caching via %s is currently %s."
+msgstr "%s 経由のデータベースキャッシュは現在%sです。"
+
+#: inc/options/cdn.php:46
+msgid "importing attachments into the Media Library"
+msgstr "添付ファイルをメディアライブラリにインポート中"
+
+#: inc/options/cdn.php:47
+msgid "if some objects appear to be missing."
+msgstr "一部のオブジェクトが不足しているように見える場合。"
+
+#: inc/options/cdn.php:51
+msgid "if the domain name of your site has ever changed."
+msgstr "サイトのドメイン名が変わったことがある場合。"
+
+#: inc/options/cdn.php:70
+msgid "If checked, all attachments will be hosted with the <acronym title=\"Content Delivery Network\">CDN</acronym>."
+msgstr "チェックを入れると、すべての添付ファイルを <acronym title=\"Content Delivery Network\">CDN</acronym> でホスティングします。"
+
+#: inc/options/common/header.php:17
+msgid "W3 Total Cache <span>by W3 EDGE <sup>&reg;</sup></span>"
+msgstr "W3 Total Cache <span>by W3 EDGE <sup>&reg;</sup></span>"
+
+#: inc/options/cdn.php:217
+msgid "Select user roles that will use the origin server exclusively:"
+msgstr "オリジンサーバーを排他的に使用する権限グループを選択:"
+
+#: inc/options/cdn/cf.php:67
+msgid "Test S3 upload &amp; CloudFront distribution"
+msgstr "S3 アップロードと CloudFront ディストリビューションをテスト"
+
+#: inc/options/cdn/ftp.php:15
+msgid "<acronym title=\"File Transfer Protocol\">FTP</acronym> hostname:"
+msgstr "<acronym title=\"File Transfer Protocol\">FTP</acronym> ホスト名:"
+
+#: inc/options/cdn.php:307
+msgid "Specify the file types in the active theme to host with the <acronym title=\"Content Delivery Network\">CDN</acronym>."
+msgstr "有効なテーマ内の、<acronym title=\"Content Delivery Network\">CDN</acronym> でホストするファイルの種類を指定してください。"
+
+#: inc/options/cdn.php:298
+msgid "Specify the file types within the WordPress core to host with the <acronym title=\"Content Delivery Network\">CDN</acronym>."
+msgstr "WordPress コア内の、<acronym title=\"Content Delivery Network\">CDN</acronym> でホストするファイルの種類を指定してください。"
+
+#: inc/options/cdn.php:113
+msgid "If checked, minified <acronym>CSS</acronym> and <acronym>JS</acronym> files will be hosted with the <acronym title=\"Content Delivery Network\">CDN</acronym>."
+msgstr "チェックすると、圧縮済みの <acronym>CSS</acronym> や <acronym>JS</acronym> ファイルが <acronym title=\"Content Delivery Network\">CDN</acronym> でホストされます。"
+
+#: inc/options/dbcache.php:18
+msgid "operation."
+msgstr "操作。"
+
+#: inc/options/dbcache.php:15
+msgid "To rebuild the database cache use the"
+msgstr "データベースキャッシュを再構築するには以下を使用してください:"
+
+#: inc/options/cdn/ftp.php:33
+msgid "<acronym title=\"File Transfer Protocol\">FTP</acronym> username:"
+msgstr "<acronym title=\"File Transfer Protocol\">FTP</acronym> ユーザー名:"
+
+#: inc/options/cdn/ftp.php:10
+msgid "Use passive <acronym title=\"File Transfer Protocol\">FTP</acronym> mode"
+msgstr "パッシブ <acronym title=\"File Transfer Protocol\">FTP</acronym> モードを使用"
+
+#: inc/options/general.php:268
+msgid "Enable object caching to further reduce execution time for common operations."
+msgstr "共通操作の実行時間をさらに短縮するためオブジェクトのキャッシングを有効化する。"
+
+#: inc/options/general.php:241
+msgid "Caching database objects decreases the response time of your site. Best used if object caching is not possible."
+msgstr "データベースオブジェクトをキャッシュすると、サイトの応答時間が短縮されます。オブジェクトキャッシングが不可能な場合に最適です。"
+
+#: inc/options/general.php:233
+msgid "Enable database caching to reduce post, page and feed creation time."
+msgstr "投稿、ページ、フィードの生成時間を短縮するためデータベースのキャッシュを有効化する。"
+
+#: inc/options/general.php:154
+msgid "Select manual mode to use fields on the minify settings tab to specify files to be minified, otherwise files will be minified automatically."
+msgstr "圧縮設定タブのフィールドを使って圧縮するファイルを指定するには、手動モードを選択します。それ以外の場合、ファイルは自動圧縮されます。"
+
+#: inc/options/dbcache.php:89
+msgid "Do not cache queries that contain these words or regular expressions."
+msgstr "これらの単語や正規表現を含むクエリーはキャッシュしない。"
+
+#: inc/options/parts/memcached.php:22
+#: inc/options/parts/memcached_extension.php:23 inc/options/parts/redis.php:23
+#: inc/options/parts/redis_extension.php:25
+msgid "Multiple servers may be used and seperated by a comma; e.g. 192.168.1.100:11211, domain.com:22122"
+msgstr "複数のサーバーを使用可能です。半角コンマ区切りで入力してください。例: 192.168.1.100:11211、domain.com:22122"
+
+#: inc/options/dbcache.php:29
+msgid "Enabling this option is recommended to maintain default WordPress behavior."
+msgstr "デフォルトの WordPress の動作を維持するには、このオプションを有効化することをお勧めします。"
+
+#: inc/options/cdn.php:152
+msgid "Adds canonical <acronym title=\"Hypertext Transfer Protocol\">HTTP</acronym> header to assets files."
+msgstr "カノニカル <acronym title=\"Hypertext Transfer Protocol\">HTTP</acronym> ヘッダーをアセットファイルに追加します。"
+
+#: Extension_FragmentCache_Page_View.php:101 inc/options/dbcache.php:62
+#: inc/options/minify.php:531 inc/options/objectcache.php:53
+#: inc/options/pgcache.php:354
+msgid "If caching to disk, specify how frequently expired cache data is removed. For busy sites, a lower value is best."
+msgstr "ディスクにキャッシュする場合、期限切れのキャッシュデータが除去される頻度を指定してください。トラフィックの多いサイトでは低い値が最適です。"
+
+#: inc/options/cdn.php:316
+msgid "Automatically import files hosted with 3rd parties of these types (if used in your posts / pages) to your media library."
+msgstr "これらのタイプのサードパーティでホストされているファイル (投稿やページで使用されている場合) をメディアライブラリに自動的にインポートする。"
+
+#: inc/options/general.php:138
+msgid "Minification can decrease file size of <acronym title=\"Hypertext Markup Language\">HTML</acronym>, <acronym title=\"Cascading Style Sheet\">CSS</acronym>, <acronym title=\"JavaScript\">JS</acronym> and feeds respectively by ~10% on average."
+msgstr "圧縮により、<acronym title=\"Hypertext Markup Language\">HTML</acronym>、<acronym title=\"Cascading Style Sheet\">CSS</acronym>、<acronym title=\"JavaScript\">JS</acronym>、フィードのファイルサイズをそれぞれ平均〜10％ずつ削減できます。"
+
+#: inc/options/cdn.php:87
+msgid "If checked, WordPress static core file types specified in the \"wp-includes file types to upload\" field below will be hosted with the <acronym title=\"Content Delivery Network\">CDN</acronym>."
+msgstr "チェックすると、下の「アップロードする wp-includes ファイルタイプ」フィールドで指定された WordPress の静的コアファイルタイプは <acronym title=\"Content Delivery Network\">CDN</acronym> でホストされます。"
+
+#: inc/options/cdn.php:100
+msgid "If checked, all theme file types specified in the \"theme file types to upload\" field below will be hosted with the <acronym title=\"Content Delivery Network\">CDN</acronym>."
+msgstr "チェックすると、下の「アップロードするテーマファイルタイプ」フィールドで指定されたすべてのテーマファイルタイプは <acronym title=\"Content Delivery Network\">CDN</acronym> でホストされます。"
+
+#: inc/options/cdn.php:143
+msgid "If modified files are not always detected and replaced, use this option to over-write them."
+msgstr "変更されたファイルが常に検出・置換されない場合は、このオプションを使用して上書きします。"
+
+#: inc/options/cdn.php:346
+msgid "Specify the path of files that should not use the <acronym title=\"Content Delivery Network\">CDN</acronym>."
+msgstr "<acronym title=\"Content Delivery Network\">CDN</acronym> を使用しないファイルのパスを指定してください。"
+
+#: inc/options/cdn.php:338
+msgid "Specify user agents that should not access files hosted with the <acronym title=\"Content Delivery Network\">CDN</acronym>."
+msgstr "<acronym title=\"Content Delivery Network\">CDN</acronym> でホストされたファイルにアクセスすべきでないユーザーエージェントを指定してください。"
+
+#: FeatureShowcase_Plugin_Admin.php:441 inc/options/general.php:299
+msgid "Reduce server load and decrease response time by using the cache available in site visitor's web browser."
+msgstr "サイト訪問者の Web ブラウザーで利用可能なキャッシュを使用して、サーバー負荷を軽減し、応答時間を短縮します。"
+
+#: inc/options/general.php:70 SystemOpCache_GeneralPage_View.php:28
+#: Util_Ui.php:897
+msgid "Opcode: Alternative PHP Cache (APC / APCu)"
+msgstr "オペコード: Alternative PHP Cache (APC / APCu)"
+
+#: Cdnfsd_GeneralPage_View.php:20 Cdn_GeneralPage_View.php:22
+#: Extension_Genesis_Page_View.php:34 Extension_Genesis_Page_View.php:41
+#: Extension_Genesis_Page_View.php:48 Extension_Genesis_Page_View.php:55
+#: Extension_Genesis_Page_View.php:72 Extension_Genesis_Page_View.php:79
+#: Extension_Genesis_Page_View.php:92 Extension_Genesis_Page_View.php:99
+#: Extension_Genesis_Page_View.php:112 Extension_Genesis_Page_View.php:119
+#: Extension_Genesis_Page_View.php:136 Extension_Genesis_Page_View.php:159
+#: Extension_Genesis_Page_View.php:166 Extension_Genesis_Page_View.php:173
+#: inc/options/general.php:28 inc/options/general.php:52
+#: inc/options/general.php:137 inc/options/general.php:240
+#: inc/options/general.php:275 inc/options/general.php:306
+#: inc/options/minify.php:145 inc/options/minify.php:345
+#: inc/options/minify.php:363 inc/options/minify.php:494
+#: inc/options/pgcache.php:105 inc/options/pgcache.php:286
+#: inc/options/pgcache.php:294 Minify_ConfigLabels.php:17
+#: Minify_ConfigLabels.php:22 Minify_ConfigLabels.php:29
+#: PgCache_ConfigLabels.php:40 SystemOpCache_GeneralPage_View.php:39
+#: UsageStatistics_GeneralPage_View.php:20
+msgid "Enable"
+msgstr "有効化"
+
+#: Extension_FragmentCache_Plugin_Admin.php:91
+#: Extension_ImageService_Plugin_Admin.php:115
+#: Extension_ImageService_Plugin_Admin.php:544
+#: Extension_ImageService_Plugin_Admin.php:717
+#: Extension_NewRelic_Plugin_Admin.php:120 FeatureShowcase_Plugin_Admin.php:208
+#: FeatureShowcase_Plugin_Admin.php:264 FeatureShowcase_Plugin_Admin.php:276
+#: FeatureShowcase_Plugin_Admin.php:288 FeatureShowcase_Plugin_Admin.php:300
+#: FeatureShowcase_Plugin_Admin.php:312 FeatureShowcase_Plugin_Admin.php:324
+#: FeatureShowcase_Plugin_Admin.php:336 FeatureShowcase_Plugin_Admin.php:348
+#: FeatureShowcase_Plugin_Admin.php:360 FeatureShowcase_Plugin_Admin.php:372
+#: FeatureShowcase_Plugin_Admin.php:384 FeatureShowcase_Plugin_Admin.php:396
+#: FeatureShowcase_Plugin_Admin.php:408 FeatureShowcase_Plugin_Admin.php:420
+#: FeatureShowcase_Plugin_Admin.php:432 FeatureShowcase_Plugin_Admin.php:444
+#: FeatureShowcase_Plugin_Admin.php:456 FeatureShowcase_Plugin_Admin.php:468
+#: inc/options/extensions/list.php:81
+msgid "Settings"
+msgstr "設定"
+
+#: Util_Widget.php:106
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: Extension_Swarmify_Widget_View_NotConfigured.php:16 Util_Widget.php:90
+#: Util_Widget.php:117
+msgid "Configure"
+msgstr "設定"
+
+#: inc/lightbox/self_test.php:373 SetupGuide_Plugin_Admin.php:936
+msgid "Enabled"
+msgstr "有効"
+
+#: inc/lightbox/self_test.php:375 inc/options/minify.php:66
+msgid "Disabled"
+msgstr "無効"
+
+#: inc/lightbox/self_test.php:391
+msgid "Close"
+msgstr "閉じる"
+
+#: Util_Ui.php:1064
+msgid "Preview"
+msgstr "プレビュー"
+
+#: Util_Widget.php:135
+msgid "Submit"
+msgstr "送信"
+
+#: inc/lightbox/create_netdna_maxcdn_pull_zone.php:8
+msgid "Name:"
+msgstr "名前:"
+
+#: inc/lightbox/self_test.php:190 inc/lightbox/self_test.php:382
+msgid "On"
+msgstr "オン"
+
+#: inc/lightbox/self_test.php:183 inc/lightbox/self_test.php:192
+#: inc/lightbox/self_test.php:355 inc/lightbox/self_test.php:384
+msgid "Off"
+msgstr "オフ"
+
+#: inc/options/cdn/akamai.php:16 inc/options/cdn/cotendo.php:16
+msgid "Password:"
+msgstr "パスワード:"
+
+#: CdnEngine_Mirror_Akamai.php:105 CdnEngine_Mirror_Cotendo.php:106
+#: CdnEngine_Mirror_Edgecast.php:59 CdnEngine_Mirror_MaxCdn.php:156
+#: inc/lightbox/self_test.php:315 inc/lightbox/self_test.php:332
+#: inc/lightbox/self_test.php:346
+msgid "OK"
+msgstr "OK"
+
+#: Extension_CloudFlare_Page_View.php:12 Extension_CloudFlare_Page_View.php:74
+#: inc/options/browsercache.php:32 inc/options/cdn.php:17
+#: inc/options/cdn.php:59 inc/options/common/header.php:28
+#: inc/options/common/header.php:72 inc/options/common/header.php:88
+#: inc/options/common/header.php:104 inc/options/common/header.php:127
+#: inc/options/dbcache.php:24 inc/options/general.php:17
+#: inc/options/minify.php:42 inc/options/pgcache.php:30
+msgid "General"
+msgstr "一般"
+
+#: BrowserCache_Page_View_QuickReference.php:12 inc/lightbox/self_test.php:11
+msgid "Legend"
+msgstr "レジェンド"
+
+#: Util_Ui.php:174
+msgid "Click to toggle"
+msgstr "クリックで切り替え"
+
+#: Extension_FragmentCache_Page_View.php:93
+#: Extension_FragmentCache_Page_View.php:100 inc/options/browsercache.php:179
+#: inc/options/browsercache.php:283 inc/options/browsercache.php:365
+#: inc/options/cdn.php:269 inc/options/cdn.php:278 inc/options/dbcache.php:53
+#: inc/options/dbcache.php:61 inc/options/minify.php:521
+#: inc/options/minify.php:530 inc/options/objectcache.php:44
+#: inc/options/objectcache.php:52 inc/options/pgcache.php:135
+#: inc/options/pgcache.php:343 inc/options/pgcache.php:353
+#: inc/options/pgcache.php:360
+msgid "seconds"
+msgstr "秒"
+
+#: inc/lightbox/self_test.php:25
+msgid "Plugin Version:"
+msgstr "プラグインバージョン:"
+
+#: Extension_Genesis_Page_View.php:174
+msgid "Disable fragment cache:"
+msgstr "フラグメントキャッシュを無効化:"
+
+#: Util_Ui.php:199
+msgid "Save all settings"
+msgstr "すべての設定を保存"
+
+#: Util_Ui.php:1085
+msgid "%dh"
+msgstr "%d時間"
+
+#: Util_Ui.php:1087
+msgid "%dm"
+msgstr "%d分"
+
+#: Extension_Genesis_Plugin_Admin.php:130
+#: Extension_WordPressSeo_Plugin_Admin.php:93
+#: Extension_Wpml_Plugin_Admin.php:126 Util_Ui.php:99
+msgid "Hide this message"
+msgstr "このメッセージを非表示"
+
+#: Util_Theme.php:80
+msgid "All Templates"
+msgstr "すべてのテンプレート"
+
+#: Util_Widget.php:35
+msgid "View all"
+msgstr "すべて表示"
+
+#: inc/lightbox/create_netdna_maxcdn_pull_zone.php:20
+msgid "Description:"
+msgstr "説明:"
+
+#: inc/lightbox/minify_recommendations.php:29
+#: inc/lightbox/minify_recommendations.php:83
+msgid "Add:"
+msgstr "追加:"
+
+#: inc/lightbox/minify_recommendations.php:32
+#: inc/lightbox/minify_recommendations.php:86 inc/options/minify.php:299
+#: inc/options/minify.php:456
+msgid "Template:"
+msgstr "テンプレート:"
+
+#: inc/lightbox/minify_recommendations.php:126
+msgid "Notes"
+msgstr "メモ"
+
+#: inc/lightbox/self_test.php:63 inc/lightbox/self_test.php:73
+#: inc/lightbox/self_test.php:83 inc/lightbox/self_test.php:93
+#: inc/lightbox/self_test.php:120 inc/lightbox/self_test.php:129
+#: inc/lightbox/self_test.php:138 inc/lightbox/self_test.php:147
+#: inc/lightbox/self_test.php:208 inc/lightbox/self_test.php:275
+msgid "Installed"
+msgstr "インストール済み"
+
+#: inc/lightbox/self_test.php:199
+msgid "Available"
+msgstr "利用可能"
+
+#: inc/lightbox/self_test.php:122 inc/lightbox/self_test.php:131
+#: inc/lightbox/self_test.php:140 inc/lightbox/self_test.php:201
+msgid "Not available"
+msgstr "利用不可"
+
+#: inc/lightbox/self_test.php:95 inc/lightbox/self_test.php:210
+#: inc/lightbox/self_test.php:280
+msgid "Not detected"
+msgstr "非検出"
+
+#: inc/lightbox/self_test.php:342
+msgid "Error:"
+msgstr "エラー:"
+
+#: Cdn_RackSpaceCdn_Page_View.php:23 Cdn_RackSpaceCdn_Popup_View_Intro.php:18
+#: Cdn_RackSpaceCloudFiles_Page_View.php:23
+#: Cdn_RackSpaceCloudFiles_Popup_View_Intro.php:19 inc/options/cdn/akamai.php:9
+#: inc/options/cdn/cotendo.php:9 inc/options/cdn/rscf.php:9
+msgid "Username:"
+msgstr "ユーザー名:"
+
+#: inc/options/general.php:350
+msgid "Purge cache"
+msgstr "キャッシュをパージ"
+
+#: Extension_CloudFlare_Plugin.php:151
+msgid "CloudFlare"
+msgstr "CloudFlare"
+
+#: Extension_CloudFlare_Plugin.php:163
+msgid "Analytics"
+msgstr "アナリティクス"
+
+#: Extension_CloudFlare_Plugin.php:169
+msgid "Account"
+msgstr "アカウント"
+
+#: Extension_CloudFlare_Plugin_Admin.php:295
+msgid "at once"
+msgstr "ただちに"
+
+#: Cdnfsd_Page_View_Header.php:13 Cdn_Page_View_Header.php:14
+#: inc/options/browsercache.php:18 inc/options/cdn.php:27
+#: inc/options/dashboard.php:20 inc/options/dbcache.php:12
+#: inc/options/extensions.php:10 inc/options/general.php:12
+#: inc/options/minify.php:22 inc/options/objectcache.php:15
+#: inc/options/pgcache.php:15
+msgid "enabled"
+msgstr "有効化済み"
+
+#: Cdnfsd_Page_View_Header.php:13 Cdn_Page_View_Header.php:14
+#: inc/options/browsercache.php:18 inc/options/cdn.php:27
+#: inc/options/dashboard.php:20 inc/options/dbcache.php:12
+#: inc/options/general.php:12 inc/options/minify.php:22
+#: inc/options/objectcache.php:15 inc/options/pgcache.php:15
+msgid "disabled"
+msgstr "無効化済み"
+
+#: inc/options/cdn/akamai.php:40
+msgid "Purge action:"
+msgstr "アクションの破棄:"
+
+#: inc/options/cdn/akamai.php:23
+msgid "Email notification:"
+msgstr "メール通知:"
+
+#: inc/lightbox/self_test.php:321
+msgid "Write-able"
+msgstr "書き込み可能"
+
+#: inc/lightbox/self_test.php:371
+msgid "URL rewrite:"
+msgstr "URL のリライト:"
+
+#: inc/lightbox/self_test.php:181
+msgid "On:"
+msgstr "オン:"
+
+#: inc/lightbox/self_test.php:65 inc/lightbox/self_test.php:75
+#: inc/lightbox/self_test.php:85 inc/lightbox/self_test.php:113
+#: inc/lightbox/self_test.php:149 inc/lightbox/self_test.php:161
+#: inc/lightbox/self_test.php:173 inc/lightbox/self_test.php:277
+msgid "Not installed"
+msgstr "未インストール"
+
+#: inc/lightbox/self_test.php:111
+msgid "PHP6"
+msgstr "PHP6"
+
+#: inc/lightbox/self_test.php:29
+msgid "PHP Version:"
+msgstr "PHP バージョン:"
+
+#: inc/lightbox/minify_recommendations.php:31
+#: inc/lightbox/minify_recommendations.php:85 inc/options/minify.php:298
+#: inc/options/minify.php:455
+msgid "File URI:"
+msgstr "ファイル URI:"
+
+#: inc/lightbox/minify_recommendations.php:71
+msgid "No files found."
+msgstr "ファイルが見つかりませんでした。"
+
+#: Util_Activation.php:172
+msgid "Technical info"
+msgstr "技術情報"
+
+#: Util_Ui.php:1089
+msgid "%ds"
+msgstr "%d秒"
+
+#: Util_Ui.php:1091 Util_Ui.php:1094
+msgid "%dms"
+msgstr "%dミリ秒"
+
+#: Extension_CloudFlare_Page_View.php:361
+msgid "Security level:"
+msgstr "セキュリティレベル:"
+
+#: Extension_CloudFlare_Plugin.php:157
+msgid "My Websites"
+msgstr "所有サイト"
+
+#: inc/lightbox/self_test.php:366
+msgid "Not defined"
+msgstr "未定義"
+
+#: inc/lightbox/self_test.php:351
+msgid "Fancy permalinks:"
+msgstr "ファンシー・パーマリンク:"
+
+#: inc/lightbox/self_test.php:317 inc/lightbox/self_test.php:323
+#: inc/lightbox/self_test.php:334 inc/lightbox/self_test.php:344
+msgid "Not write-able"
+msgstr "書き込み不可"
+
+#: inc/lightbox/support_us.php:61
+msgid "Tell Your Friends"
+msgstr "友達に伝える"
+
+#: Cdn_Highwinds_Page_View.php:33 Cdn_LimeLight_Page_View.php:27
+#: Cdn_MaxCdn_Page_View.php:75 Cdn_RackSpaceCloudFiles_Page_View.php:51
+#: Cdn_StackPath2_Page_View.php:93 Cdn_StackPath_Page_View.php:75
+#: inc/options/cdn/akamai.php:52 inc/options/cdn/att.php:26
+#: inc/options/cdn/azure.php:35 inc/options/cdn/cf.php:49
+#: inc/options/cdn/cf2.php:40 inc/options/cdn/cotendo.php:33
+#: inc/options/cdn/edgecast.php:26 inc/options/cdn/ftp.php:58
+#: inc/options/cdn/mirror.php:12 inc/options/cdn/rscf.php:46
+#: inc/options/cdn/s3.php:49 inc/options/cdn/s3_compatible.php:41
+msgid "Auto (determine connection type automatically)"
+msgstr "自動 (接続タイプを自動決定)"
+
+#: Cdn_Highwinds_Page_View.php:30 Cdn_LimeLight_Page_View.php:24
+#: Cdn_RackSpaceCloudFiles_Page_View.php:48 inc/options/cdn/akamai.php:49
+msgid "<acronym title=\"Secure Sockets Layer\">SSL</acronym> support:</label>"
+msgstr "<acronym title=\"Secure Sockets Layer\">SSL</acronym> サポート:</label>"
+
+#: inc/options/cdn/akamai.php:31
+msgid "Domain to purge:"
+msgstr "パージするドメイン:"
+
+#: inc/lightbox/support_us.php:75
+msgid "Yes, sign me up."
+msgstr "はい、登録します。"
+
+#: inc/lightbox/support_us.php:50
+msgid "Login & Rate Us"
+msgstr "ログインして評価"
+
+#: Extension_Genesis_Page_View.php:239
+msgid "Select user roles that should not use the fragment cache."
+msgstr "フラグメントキャッシュを使用しないユーザー権限グループを選択してください。"
+
+#: BrowserCache_ConfigLabels.php:14 BrowserCache_ConfigLabels.php:25
+#: BrowserCache_ConfigLabels.php:34 inc/options/browsercache.php:56
+msgid "Set cache control header"
+msgstr "キャッシュ制御ヘッダーを設定"
+
+#: BrowserCache_ConfigLabels.php:16
+msgid "Set entity tag (eTag)"
+msgstr "エンティティタグ (eTag) を設定"
+
+#: BrowserCache_ConfigLabels.php:17 BrowserCache_ConfigLabels.php:28
+#: BrowserCache_ConfigLabels.php:37 inc/options/browsercache.php:71
+msgid "Set W3 Total Cache header"
+msgstr "W3 Total Cache ヘッダーを設定"
+
+#: inc/lightbox/self_test.php:197
+msgid "set_time_limit:"
+msgstr "set_time_limit:"
+
+#: inc/options/browsercache.php:386
+msgid "cache (\"public\")"
+msgstr "キャッシュ (“public”)"
+
+#: inc/options/browsercache.php:344
+msgid "Media &amp; Other Files"
+msgstr "メディアとその他のファイル"
+
+#: inc/options/browsercache.php:308 inc/options/browsercache.php:391
+msgid "no-cache (\"max-age=0, private, no-store, no-cache, must-revalidate\")"
+msgstr "no-cache (“max-age=0, private, no-store, no-cache, must-revalidate”)"
+
+#: inc/options/browsercache.php:204 inc/options/browsercache.php:307
+#: inc/options/browsercache.php:390
+msgid "cache without proxy (\"private, must-revalidate\")"
+msgstr "プロキシなしでキャッシュ (\"private, must-revalidate\")"
+
+#: inc/options/browsercache.php:121
+msgid "Don't set cookies for static files"
+msgstr "静的ファイルに Cookie を設定しない"
+
+#: BrowserCache_ConfigLabels.php:12 BrowserCache_ConfigLabels.php:23
+#: BrowserCache_ConfigLabels.php:32 inc/options/browsercache.php:49
+msgid "Set expires header"
+msgstr "Expires ヘッダーを設定"
+
+#: BrowserCache_ConfigLabels.php:11 BrowserCache_ConfigLabels.php:22
+#: BrowserCache_ConfigLabels.php:31 inc/options/browsercache.php:40
+msgid "Set Last-Modified header"
+msgstr "Last-Modified ヘッダーを設定"
+
+#: inc/lightbox/self_test.php:380
+msgid "Network mode:"
+msgstr "ネットワークモード:"
+
+#: inc/lightbox/self_test.php:360
+msgid "WP_CACHE define:"
+msgstr "WP_CACHE 定義:"
+
+#: inc/lightbox/self_test.php:300
+msgid "WordPress Resources"
+msgstr "WordPress リソース"
+
+#: inc/lightbox/self_test.php:171
+msgid "Installed (mhash)"
+msgstr "インストール済み (mhash)"
+
+#: inc/lightbox/self_test.php:169
+msgid "Installed (hash)"
+msgstr "インストール済み (hash)"
+
+#: inc/lightbox/self_test.php:167
+msgid "Hash function:"
+msgstr "ハッシュ関数:"
+
+#: inc/lightbox/self_test.php:159
+msgid "Installed (mime_content_type)"
+msgstr "インストール済み (mime_content_type)"
+
+#: inc/lightbox/self_test.php:157
+msgid "Installed (Fileinfo)"
+msgstr "インストール済み (Fileinfo)"
+
+#: inc/lightbox/self_test.php:155
+msgid "Mime type detection:"
+msgstr "MIME タイプ検出:"
+
+#: inc/lightbox/self_test.php:151
+msgid "(required for HTML Tidy minifier support)"
+msgstr "(HTML Tidy 圧縮ツールのサポートに必要)"
+
+#: inc/lightbox/self_test.php:145
+msgid "HTML Tidy extension:"
+msgstr "HTML Tidy エクステンション:"
+
+#: inc/lightbox/self_test.php:127
+msgid "Memcache extension:"
+msgstr "Memcache エクステンション:"
+
+#: inc/lightbox/self_test.php:109
+msgid "Installed (XCache)"
+msgstr "インストール済み (XCache)"
+
+#: inc/lightbox/self_test.php:107
+msgid "Installed (eAccelerator)"
+msgstr "インストール済み (eAccelerator)"
+
+#: inc/lightbox/self_test.php:105
+msgid "Installed (APC)"
+msgstr "インストール済み (APC)"
+
+#: inc/lightbox/self_test.php:77
+msgid "(required for Amazon S3, Amazon CloudFront, Rackspace CloudFiles support)"
+msgstr "(Amazon S3、Amazon CloudFront、Rackspace CloudFiles のサポートに必要)"
+
+#: inc/lightbox/self_test.php:71
+msgid "cURL extension:"
+msgstr "cURL エクステンション:"
+
+#: inc/lightbox/self_test.php:67
+msgid "(required for Rackspace Cloud Files support)"
+msgstr "(Rackspace Cloud ファイルのサポートに必要)"
+
+#: inc/lightbox/self_test.php:61
+msgid "Multibyte String support:"
+msgstr "マルチバイト文字列対応:"
+
+#: inc/lightbox/self_test.php:21
+msgid "Server Modules &amp; Resources:"
+msgstr "サーバーモジュールとリソース:"
+
+#: inc/lightbox/minify_recommendations.php:122
+msgid "Apply &amp; close"
+msgstr "適用して閉じる"
+
+#: inc/lightbox/minify_recommendations.php:74
+msgid "Cascading Style Sheets:"
+msgstr "カスケーディング・スタイル・シート:"
+
+#: inc/lightbox/minify_recommendations.php:68
+#: inc/lightbox/minify_recommendations.php:113
+msgid "Check / Uncheck All"
+msgstr "すべて選択 / 選択解除"
+
+#: inc/lightbox/minify_recommendations.php:59
+#: inc/lightbox/minify_recommendations.php:104 inc/options/minify.php:325
+#: inc/options/minify.php:474
+msgid "Verify URI"
+msgstr "URI を検証"
+
+#: inc/lightbox/minify_recommendations.php:55 inc/options/minify.php:320
+msgid "Embed before &lt;/body&gt;"
+msgstr "&lt;body&gt; の前に埋め込む"
+
+#: inc/lightbox/minify_recommendations.php:54 inc/options/minify.php:319
+msgid "Embed after &lt;body&gt;"
+msgstr "&lt;body&gt; の後に埋め込む"
+
+#: inc/lightbox/minify_recommendations.php:53 inc/options/minify.php:318
+msgid "Embed in &lt;head&gt;"
+msgstr "&lt;head&gt; に埋め込む"
+
+#: inc/lightbox/minify_recommendations.php:33 inc/options/minify.php:300
+msgid "Embed Location:"
+msgstr "埋め込み位置:"
+
+#: inc/lightbox/create_netdna_maxcdn_pull_zone.php:2
+#: inc/lightbox/create_netdna_maxcdn_pull_zone.php:30
+msgid "Create Pull Zone"
+msgstr "プル・ゾーンを作成"
+
+#: Util_Activation.php:249
+msgid "Update via FTP"
+msgstr "FTP 経由で更新"
+
+#: Extension_Genesis_Page_View.php:223
+msgid "Select roles:"
+msgstr "権限グループを選択:"
+
+#: Extension_Genesis_Page_View.php:168
+msgid "Caches wp_footer loop."
+msgstr "wp_footer ループをキャッシュします。"
+
+#: Extension_Genesis_Page_View.php:161
+msgid "Caches footer loop."
+msgstr "フッターループをキャッシュします。"
+
+#: Extension_Genesis_Page_View.php:167
+msgid "Cache footer:"
+msgstr "フッターをキャッシュ:"
+
+#: Extension_Genesis_Page_View.php:143
+msgid "Exclude pages:"
+msgstr "ページを除外:"
+
+#: Extension_Genesis_Page_View.php:138
+msgid "Caches sidebar loop, the widget area."
+msgstr "サイドバーループ、ウィジェットエリアをキャッシュします。"
+
+#: Extension_Genesis_Page_View.php:137
+msgid "Cache sidebar:"
+msgstr "サイドバーをキャッシュ:"
+
+#: Extension_Genesis_Page_View.php:120
+msgid "Cache pings:"
+msgstr "ピンバックをキャッシュ:"
+
+#: Extension_Genesis_Page_View.php:113
+msgid "Cache comments:"
+msgstr "コメントをキャッシュ:"
+
+#: Extension_Genesis_Page_View.php:106
+msgid "Excluded single pages / posts:"
+msgstr "除外する個別投稿・ページ:"
+
+#: Extension_Genesis_Page_View.php:100
+msgid "Cache single post / page:"
+msgstr "個別投稿・ページをキャッシュ:"
+
+#: Extension_Genesis_Page_View.php:93
+msgid "Flush posts loop:"
+msgstr "投稿ループをフラッシュ:"
+
+#: Extension_Genesis_Page_View.php:40
+msgid "Cache header:"
+msgstr "ヘッダーをキャッシュ:"
+
+#: Extension_Genesis_Page_View.php:33
+msgid "Cache wp_head loop:"
+msgstr "wp_head ループをキャッシュ:"
+
+#: Extension_CloudFlare_Page_View.php:266
+msgid "Rocket Loader:"
+msgstr "ロケットローダー:"
+
+#: inc/options/browsercache.php:18
+msgid "Browser caching is currently %s."
+msgstr "ブラウザーキャッシュは現在%sです。"
+
+#: inc/options/browsercache.php:50 inc/options/browsercache.php:169
+#: inc/options/browsercache.php:272 inc/options/browsercache.php:355
+msgid "Set the expires header to encourage browser caching of files."
+msgstr "ファイルのブラウザーのキャッシュを奨励する expires ヘッダーを設定する。"
+
+#: inc/options/browsercache.php:33
+msgid "Specify global browser cache policy."
+msgstr "グローバルブラウザーキャッシュポリシーを指定します。"
+
+#: inc/options/about.php:24
+msgid "Increased visitor time on site"
+msgstr "サイト訪問者の滞在時間増加"
+
+#: inc/options/about.php:23
+msgid "Improved Google search engine ranking"
+msgstr "Google 検索エンジンランキングの向上"
+
+#: inc/lightbox/self_test.php:179
+msgid "Open basedir:"
+msgstr "basedir を開く:"
+
+#: inc/lightbox/create_netdna_maxcdn_pull_zone.php:16
+msgid "Your server's hostname or domain"
+msgstr "サーバーのホスト名またはドメイン"
+
+#: Util_Activation.php:244
+msgid "View required changes"
+msgstr "必要な変更を表示"
+
+#: Util_Activation.php:57
+msgid "%s<br />then %s."
+msgstr "%s<br />その後 %s。"
+
+#: Extension_Genesis_Page_View.php:73
+msgid "Cache front page post loop:"
+msgstr "フロントページの投稿ループをキャッシュ:"
+
+#: Extension_Genesis_Page_View.php:54
+msgid "Cache secondary navigation:"
+msgstr "セカンダリナビゲーションをキャッシュ:"
+
+#: Extension_Genesis_Page_View.php:47
+msgid "Cache primary navigation:"
+msgstr "メインナビゲーションをキャッシュ:"
+
+#: Extension_CloudFlare_Plugin_Admin.php:293
+msgid "empty all caches except CloudFlare"
+msgstr "CloudFlare を除くすべてのキャッシュを空にする"
+
+#: Extension_CloudFlare_GeneralPage_View.php:15
+msgid "CloudFlare protects and accelerates websites."
+msgstr "CloudFlare はウェブサイトを保護し、加速させます。"
+
+#: Generic_Plugin_Admin.php:612
+msgid "Take a minute to update, here's why:"
+msgstr "更新に1分ほどかかります。理由は以下: "
+
+#: inc/options/about.php:39
+msgid "JavaScript embedding group and location management"
+msgstr "JavaScript 埋め込みグループと位置管理"
+
+#: inc/options/about.php:32
+msgid "Caching of database objects in memory or on disk"
+msgstr "メモリまたはディスク上のデータベースオブジェクトキャッシュ"
+
+#: inc/options/about.php:33
+msgid "Caching of objects in memory or on disk"
+msgstr "メモリまたはディスク上のオブジェクトキャッシュ"
+
+#: inc/lightbox/self_test.php:289
+msgid "Additional Server Modules"
+msgstr "追加サーバーモジュール"
+
+#: inc/options/cdn/akamai.php:27
+msgid "Specify email addresses for completed removal notifications. One email per line."
+msgstr "削除通知を完了するためのメールアドレスを指定します。 1行に1つのメールアドレス。"
+
+#: inc/options/browsercache.php:72 inc/options/browsercache.php:221
+#: inc/options/browsercache.php:324 inc/options/browsercache.php:407
+msgid "Set this header to assist in identifying optimized files."
+msgstr "このヘッダーを設定すると、最適化されたファイルを識別できます。"
+
+#: Util_Activation.php:185
+msgid "Execute next commands in a shell:"
+msgstr "シェルで次のコマンドを実行します。"
+
+#: Extension_CloudFlare_GeneralPage_View.php:8
+msgid "Network Performance &amp; Security powered by CloudFlare"
+msgstr "ネットワークのパフォーマンスとセキュリティ powered by CloudFlare"
+
+#: Util_Activation.php:72
+msgid "<li><strong style=\"color: #f00;\">chmod 777 %s</strong></li>"
+msgstr "<li><strong style=\"color: #f00;\">chmod 777 %s</strong></li>"
+
+#: Extension_FeedBurner_Plugin_Admin.php:43
+msgid "Network Admin has no main URL."
+msgstr "ネットワーク管理者にメイン URL がありません。"
+
+#: Extension_Genesis_Page_View.php:42
+msgid "Cache header loop. This is the area where the logo is located."
+msgstr "キャッシュヘッダーのループ。これはロゴの置かれている場所です。"
+
+#: Extension_Genesis_Page_View.php:35
+msgid "Cache wp_head. This includes the embedded CSS, JS etc."
+msgstr "wp_head をキャッシュします。埋め込み CSS、JS などが含まれます。"
+
+#: Util_Activation.php:80
+msgid "<strong>%s</strong> could not be created, please run following command:<br />%s"
+msgstr "<strong>%s</strong> を作成できませんでした。次のコマンドを実行してください:<br />%s"
+
+#: inc/options/browsercache.php:201 inc/options/browsercache.php:304
+#: inc/options/browsercache.php:387
+msgid "cache with max-age (\"public, max-age=EXPIRES_SECONDS\")"
+msgstr "cache with max-age (\"public, max-age=EXPIRES_SECONDS\")"
+
+#: inc/options/browsercache.php:156 inc/options/common/header.php:128
+msgid "<acronym title=\"Cascading Style Sheet\">CSS</acronym> &amp; <acronym title=\"JavaScript\">JS</acronym>"
+msgstr "<acronym title=\"Cascading Style Sheet\">CSS</acronym> &amp; <acronym title=\"JavaScript\">JS</acronym>"
+
+#: BrowserCache_ConfigLabels.php:18 BrowserCache_ConfigLabels.php:29
+#: inc/options/browsercache.php:79
+msgid "Enable <acronym title=\"Hypertext Transfer Protocol\">HTTP</acronym> (gzip) compression"
+msgstr "<acronym title=\"Hypertext Transfer Protocol\">HTTP</acronym> (gzip) 圧縮を有効化"
+
+#: inc/lightbox/self_test.php:188
+msgid "zlib output compression:"
+msgstr "zlib 出力圧縮:"
+
+#: inc/lightbox/create_netdna_maxcdn_pull_zone.php:14
+msgid "Origin <acronym title=\"Uniform Resource Indicator\">URL</acronym>:"
+msgstr "オリジン <acronym title=\"Uniform Resource Indicator\">URL</acronym>:"
+
+#: Util_WpFile.php:270
+msgid "FTP credentials don't allow to delete "
+msgstr "FTP アカウントに削除権限がありません"
+
+#: Util_WpFile.php:236
+msgid "FTP credentials don't allow to chmod "
+msgstr "FTP アカウントに chmod 権限がありません"
+
+#: Util_WpFile.php:206
+msgid "FTP credentials don't allow to delete folder "
+msgstr "FTP アカウントにフォルダー削除権限がありません"
+
+#: Extension_FeedBurner_Plugin_Admin.php:42
+msgid "Automatically ping (purge) FeedBurner feeds when pages / posts are modified. Default URL: %s"
+msgstr "ページ / 投稿が変更されたときに FeedBurner フィードを自動的に ping (パージ) します。デフォルト URL: %s"
+
+#: Extension_CloudFlare_Plugin_Admin.php:135
+msgid ""
+"CloudFlare plugin detected. We recommend removing the\n"
+"            plugin as it offers no additional capabilities when W3 Total Cache is installed. This message will disappear\n"
+"            when CloudFlare is removed."
+msgstr ""
+"CloudFlare プラグインが検出されました。\n"
+"このプラグインは W3 Total Cacheがインストールされている際には追加の機能を提供しないため、削除することをお勧めします。CloudFlare を削除するとこのメッセージは非表示になります。"
+
+#: Extension_Genesis_Page_View.php:49
+msgid "Caches the navigation filter; per page."
+msgstr "ナビゲーションフィルターをキャッシュします。1ページあたり。"
+
+#: inc/options/about.php:45
+msgid "Who do I thank for all of this?"
+msgstr "これらすべてに対し、感謝する方々"
+
+#: Extension_Genesis_Page_View.php:56
+msgid "Caches secondary navigation filter; per page."
+msgstr "キャッシュのセカンダリナビゲーションフィルター。1ページごと。"
+
+#: Extension_Genesis_Page_View.php:80
+msgid "Cache author/tag/categories/term post loop:"
+msgstr "投稿者/タグ/カテゴリー/ターム投稿ループをキャッシュ:"
+
+#: Extension_Genesis_Page_View.php:114
+msgid "Caches the comments loop, pagination is supported."
+msgstr "コメントループをキャッシュ。ページ送りがサポートされています。"
+
+#: BrowserCache_ConfigLabels.php:20 BrowserCache_ConfigLabels.php:40
+#: inc/options/browsercache.php:96
+msgid "Prevent caching of objects after settings change"
+msgstr "設定変更後のオブジェクトのキャッシュを防止"
+
+#: inc/options/browsercache.php:80 inc/options/browsercache.php:89
+#: inc/options/browsercache.php:227 inc/options/browsercache.php:233
+#: inc/options/browsercache.php:330 inc/options/browsercache.php:336
+#: inc/options/browsercache.php:413 inc/options/browsercache.php:419
+msgid "Reduce the download time for text-based files."
+msgstr "テキストベースのファイルのダウンロード時間を短縮します。"
+
+#: inc/options/about.php:36
+msgid "Minification of posts / pages and feeds"
+msgstr "投稿、ページ、フィードの圧縮"
+
+#: inc/options/browsercache.php:260
+msgid "Specify browser cache policy for posts, pages, feeds and text-based files."
+msgstr "投稿、ページ、フィード、テキストベースのファイルのブラウザキャッシュポリシーを指定してください。"
+
+#: inc/lightbox/create_netdna_maxcdn_pull_zone.php:22
+msgid "Something that describes your zone. Length: 1-255 chars"
+msgstr "ゾーンを説明するテキスト。長さ: 1〜255文字"
+
+#: Extension_Genesis_Page_View.php:74
+msgid "Caches the front page post loop, pagination is supported."
+msgstr "フロントページの投稿ループをキャッシュし、ページ送りをサポートしています。"
+
+#: Extension_Genesis_Page_View.php:218
+msgid "Select hooks from the list that should not be cached if user belongs to any of the roles selected below."
+msgstr "ユーザーが以下で選択した権限グループに属している場合にキャッシュされるべきではないフックを一覧から選択してください。"
+
+#: inc/lightbox/self_test.php:163
+msgid "(required for <acronym title=\"Content Delivery Network\">CDN</acronym> support)"
+msgstr "(<acronym title=\"Content Delivery Network\">CDN</acronym> サポートに必須)"
+
+#: inc/lightbox/self_test.php:57
+msgid "(required for Self-hosted (<acronym title=\"File Transfer Protocol\">FTP</acronym>) <acronym title=\"Content Delivery Network\">CDN</acronym> support)"
+msgstr "(インストール型 (<acronym title=\"File Transfer Protocol\">FTP</acronym>) <acronym title=\"Content Delivery Network\">CDN</acronym> サポートに必須)"
+
+#: inc/options/about.php:64
+msgid "Please reach out to all of these people and support their projects if you're so inclined."
+msgstr "お望みの場合は、これらの方に連絡してプロジェクトを支援してください。"
+
+#: inc/options/browsercache.php:57 inc/options/browsercache.php:185
+#: inc/options/browsercache.php:289 inc/options/browsercache.php:371
+msgid "Set pragma and cache-control headers to encourage browser caching of files."
+msgstr "ブラウザーのファイルキャッシュを促進するため、pragma と cache-control を設定します。"
+
+#: inc/options/about.php:25
+msgid "Optimized progressive render (pages start rendering immediately)"
+msgstr "最適化プログレッシブ・レンダリング (ページのレンダリングをすぐに開始)"
+
+#: Extension_Genesis_Page_View.php:121
+msgid "Caches the ping loop, pagination is supported. One per line."
+msgstr "Ping ループをキャッシュ。ページ送りをサポートします。1行に1つ。"
+
+#: Extension_Genesis_Page_View.php:101
+msgid "Caches the single post / page loop, pagination is supported."
+msgstr "個別投稿とページをキャッシュ。ページ送りをサポートします。"
+
+#: Extension_Genesis_Page_View.php:107
+msgid "List of pages / posts that should not have the single post / post loop cached. Specify one page / post per line. This area supports regular expressions."
+msgstr "投稿ループがキャッシュされるべきでないページまたは投稿のリスト。1行につき1件のページまたは投稿を指定してください。このエリアは正規表現をサポートしています。"
+
+#: Extension_Genesis_Page_View.php:144
+msgid "List of pages that should not have sidebar cached. Specify one page / post per line. This area supports regular expressions."
+msgstr "サイドバーがキャッシュされるべきでないページのリスト。1行につき1件のページまたは投稿を指定してください。このエリアは正規表現をサポートしています。"
+
+#: Extension_Genesis_Page_View.php:81
+msgid "Caches the posts listed on tag, categories, author and other term pages, pagination is supported."
+msgstr "タグ、カテゴリー、投稿者、その他のタームページにリストされた投稿をキャッシュし、ページ送りをサポートします。"
+
+#: Extension_Genesis_Page_View.php:94
+msgid "Flushes the posts loop cache on post updates. See setting above for affected loops."
+msgstr "投稿更新後の投稿ループキャッシュをフラッシュします。影響を受けるループについては上記の設定を参照してください。"
+
+#: inc/lightbox/minify_recommendations.php:129
+msgid "Typically minification of advertiser code, analytics/statistics or any other types of tracking code is not recommended."
+msgstr "通常、広告コード、分析/統計情報、またはその他のタイプのトラッキングコードの圧縮はお勧めしません。"
+
+#: inc/options/about.php:34
+msgid "Caching of feeds (site, categories, tags, comments, search results) in memory or on disk"
+msgstr "メモリまたはディスク上のフィード (サイト、カテゴリー、タグ、コメント、検索結果) のキャッシュ"
+
+#: inc/options/about.php:35
+msgid "Caching of search results pages (i.e. <acronym title=\"Uniform Resource Identifier\">URI</acronym>s with query string variables) in memory or on disk"
+msgstr "メモリまたはディスク上の検索結果 (クエリー文字列変数を含む <acronym title=\"Uniform Resource Identifier\">URI</acronym>) のキャッシュ"
+
+#: inc/lightbox/self_test.php:282
+msgid "(required for disk enhanced Page Cache and Browser Cache)"
+msgstr "(ディスク拡張ページキャッシュとブラウザーキャッシュに必須)"
+
+#: inc/options/browsercache.php:41 inc/options/browsercache.php:163
+#: inc/options/browsercache.php:266 inc/options/browsercache.php:349
+msgid "Set the Last-Modified header to enable 304 Not Modified response."
+msgstr "304 Not Modified レスポンスを有効化するには Last-Modified ヘッダーを設定してください。"
+
+#: inc/options/browsercache.php:157
+msgid "Specify browser cache policy for Cascading Style Sheets and JavaScript files."
+msgstr "CSS と JavaScript ファイルのブラウザキャッシュポリシーを指定してください。"
+
+#: inc/lightbox/create_netdna_maxcdn_pull_zone.php:10
+msgid "Pull Zone Name. Length: 3-32 chars; only letters, digits, and dash (-) accepted"
+msgstr "プルゾーン名。長さ3-32文字で、半角英数字とダッシュ (-) のみ使用可能"
+
+#: inc/options/browsercache.php:122 inc/options/browsercache.php:251
+#: inc/options/browsercache.php:437
+msgid "Removes Set-Cookie header for responses."
+msgstr "レスポンスの Set-Cookie ヘッダーを削除します。"
+
+#: inc/options/about.php:28
+msgid "Increased web server concurrency and increased scale (easily sustain high traffic spikes)"
+msgstr "Web サーバーの並行性の向上とスケールの拡大 (トラフィックの急増を容易に抑制)"
+
+#: Minify_Plugin_Admin.php:192 Minify_Plugin_Admin.php:200
+msgid "Minification"
+msgstr "圧縮化"
+
+#: Extension_Genesis_Page_View.php:186
+msgid "Select hooks"
+msgstr "フックを選択"
+
+#: inc/lightbox/self_test.php:97
+msgid "(required for brotli compression support)"
+msgstr "(brotli 圧縮のサポートに必要)"
+
+#: inc/options/browsercache.php:205
+msgid "don't cache (\"max-age=0, private, no-store, no-cache, must-revalidate\")"
+msgstr "キャッシュしない (\"max-age=0, private, no-store, no-cache, must-revalidate\")"
